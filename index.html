@@ -38,6 +38,16 @@
     <div class="grid2" style="margin-top:8px"><button id="cueBtn">Next cue <span>jump to line before muted role</span></button><button id="promptBtn">Reveal current <span>fallback button</span></button></div>
   </section>
 
+  <section class="card edge">
+    <strong>Phone-safe rehearsal player</strong>
+    <p class="note">Use this on iPhone if the experimental line-by-line player scrolls but does not make sound. It plays one continuous MP3 with Rodney replaced by timed gaps.</p>
+    <div class="grid2" style="margin-top:10px">
+      <button id="safeDirector" class="primary">Rodney gaps + Director <span>continuous phone-safe MP3</span></button>
+      <button id="safeNoDirector">Rodney gaps, no Director <span>Penny only + your gaps</span></button>
+    </div>
+    <audio id="safeAudio" controls preload="metadata" style="margin-top:10px"></audio>
+  </section>
+
   <section class="card">
     <strong>Line-learning mode</strong>
     <div class="grid2" style="margin-top:10px"><button id="rodneyMode" class="active">Learn Rodney <span>mute Rodney, leave gap</span></button><button id="fullMode">Full scene <span>play everyone</span></button></div>
@@ -84,6 +94,23 @@ Object.values(controls).concat([els('leaveGaps'),els('hideMuted')]).forEach(cb=>
 els('rodneyMode').onclick=()=>{ controls.RODNEY.checked=false; controls.PENNY.checked=true; controls.DIRECTOR.checked=true; els('leaveGaps').checked=true; els('hideMuted').checked=true; syncToggles(); };
 els('fullMode').onclick=()=>{ controls.RODNEY.checked=true; controls.PENNY.checked=true; controls.DIRECTOR.checked=true; els('hideMuted').checked=false; syncToggles(); };
 document.querySelectorAll('[data-src]').forEach(btn=>btn.onclick=()=>{ els('mixPlayer').src=btn.dataset.src; els('mixPlayer').play().catch(()=>{}); });
+
+let safeTimelines={}; let safeTimeline=[]; const safeAudio=els('safeAudio');
+fetch('audio/phone/timelines.json').then(r=>r.json()).then(j=>{ safeTimelines=j; });
+function setSafeTrack(name){
+  safeTimeline=safeTimelines[name] || [];
+  safeAudio.src='audio/phone/'+name+'.mp3';
+  safeAudio.load();
+  status.textContent='Loaded phone-safe '+name.replaceAll('_',' ')+'. Tap the audio play control.';
+}
+els('safeDirector').onclick=()=>setSafeTrack('learn_rodney_director_1_5x');
+els('safeNoDirector').onclick=()=>setSafeTrack('learn_rodney_no_director');
+safeAudio.ontimeupdate=()=>{
+  if(!safeTimeline.length) return;
+  const t=safeAudio.currentTime;
+  const cur=safeTimeline.find(x=>t>=x.start && t<x.end);
+  if(cur){ idx=Math.max(0, seq.findIndex(x=>x.n===cur.n)); render(); scrollCurrentIntoView(); status.textContent=`${cur.n} · ${cur.speaker}${cur.kind==='gap'?' · GAP':''}: ${cur.text.slice(0,70)}${cur.text.length>70?'…':''}`; }
+};
 syncToggles();
 </script>
 </body></html>
