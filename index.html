@@ -21,7 +21,7 @@
     .rodney, .RODNEY .speaker { color:var(--rodney); } .penny, .PENNY .speaker { color:var(--penny); } .director, .DIRECTOR .speaker { color:var(--director); }
     .note { color:var(--muted); font-size:13px; line-height:1.45; } .small { font-size:12px; color:var(--muted); } .edge { border-left:3px solid var(--accent); padding-left:10px; }
     .line { padding:10px 8px; border-top:1px solid rgba(255,255,255,.07); line-height:1.35; border-radius:10px; } .line:first-child { border-top:0; } .line.current { background:rgba(255,177,92,.13); outline:1px solid rgba(255,177,92,.38); }
-    .speaker { font-size:12px; font-weight:850; letter-spacing:.04em; margin-bottom:4px; } .kind { color:var(--muted); font-weight:500; } .text { font-size:15px; } .hiddenLine .text { filter:blur(5px); user-select:none; } .hiddenLine.revealed .text { filter:none; }
+    .speaker { font-size:12px; font-weight:850; letter-spacing:.04em; margin-bottom:4px; } .kind { color:var(--muted); font-weight:500; } .text { font-size:15px; } .hiddenLine .text { filter:blur(5px); user-select:none; } .hiddenLine .speaker::after { content:" · tap to reveal"; color:var(--warn); font-weight:700; } .hiddenLine.revealed .text { filter:none; } .hiddenLine.revealed .speaker::after { content:" · revealed"; color:var(--muted); }
     .switches { display:grid; grid-template-columns:1fr; gap:8px; margin:10px 0; } label.toggle { display:flex; justify-content:space-between; align-items:center; gap:8px; } input[type=checkbox] { transform:scale(1.2); }
     .progress { height:8px; background:#252936; border-radius:999px; overflow:hidden; margin:10px 0 4px; } #bar { height:100%; width:0%; background:var(--accent); }
     [hidden] { display:none!important; }
@@ -35,7 +35,7 @@
     <div class="progress"><div id="bar"></div></div><div class="small" id="status">Ready.</div>
     <audio id="lineAudio" controls preload="auto"></audio>
     <div class="grid3" style="margin-top:10px"><button id="playBtn" class="primary">▶︎ Play</button><button id="pauseBtn">Pause</button><button id="restartBtn">Restart</button></div>
-    <div class="grid2" style="margin-top:8px"><button id="cueBtn">Next cue <span>jump to line before muted role</span></button><button id="promptBtn">Prompt <span>reveal current hidden line</span></button></div>
+    <div class="grid2" style="margin-top:8px"><button id="cueBtn">Next cue <span>jump to line before muted role</span></button><button id="promptBtn">Reveal current <span>fallback button</span></button></div>
   </section>
 
   <section class="card">
@@ -46,12 +46,12 @@
       <label class="toggle active"><span><b class="penny">Penny spoken</b><br><span class="small">Scene partner</span></span><input id="speakPenny" type="checkbox" checked></label>
       <label class="toggle active"><span><b class="director">Director spoken</b><br><span class="small">Stage directions / parentheticals</span></span><input id="speakDirector" type="checkbox" checked></label>
       <label class="toggle active"><span><b>Leave timed gaps</b><br><span class="small">Muted lines become silence instead of skipped</span></span><input id="leaveGaps" type="checkbox" checked></label>
-      <label class="toggle active"><span><b>Hide muted lines</b><br><span class="small">Use Prompt to reveal when stuck</span></span><input id="hideMuted" type="checkbox" checked></label>
+      <label class="toggle active"><span><b>Hide muted lines</b><br><span class="small">Tap a blurred line to reveal it</span></span><input id="hideMuted" type="checkbox" checked></label>
     </div>
     <label class="small">Gap length: <select id="gapFactor"><option value="0.8">0.8×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select></label>
   </section>
 
-  <section class="card edge"><strong>What I copied from existing rehearsal apps</strong><ul class="note"><li>LineLearner: leave gaps for your part, prompt button, repeat scenes/whole play, record/share parts, alter pitch of other characters.</li><li>Script Rehearser: show/hide your lines, first-letter prompts, skip forward to your next cue, play other parts while self-taping, notes/stage directions.</li><li>Rehearsal Pro-style tools: highlighting/blackout, pacing controls, repeat/playback, internal beats.</li></ul><p class="note">What’s different here: the other voices are generated from parsed script text and cached line-by-line, instead of Ty manually recording every scene partner.</p></section>
+  <section class="card edge"><strong>What I copied from existing rehearsal apps</strong><ul class="note"><li>LineLearner: leave gaps for your part, reveal/prompt support, repeat scenes/whole play, record/share parts, alter pitch of other characters.</li><li>Script Rehearser: show/hide your lines, first-letter prompts, skip forward to your next cue, play other parts while self-taping, notes/stage directions.</li><li>Rehearsal Pro-style tools: highlighting/blackout, pacing controls, repeat/playback, internal beats.</li></ul><p class="note">What’s different here: the other voices are generated from parsed script text and cached line-by-line, instead of Ty manually recording every scene partner.</p></section>
 
   <section class="card">
     <strong>Baked audio references</strong>
@@ -70,7 +70,7 @@ const els=id=>document.getElementById(id); const status=els('status'), bar=els('
 const controls={RODNEY:els('speakRodney'), PENNY:els('speakPenny'), DIRECTOR:els('speakDirector')};
 function shouldSpeak(item){ return controls[item.speaker]?.checked ?? true; }
 function mutedSpeakers(){ return Object.entries(controls).filter(([k,v])=>!v.checked).map(([k])=>k); }
-function render(){ lines.innerHTML=''; seq.forEach((x,i)=>{ const div=document.createElement('div'); const hidden=els('hideMuted').checked&&!shouldSpeak(x); div.className=`line ${x.speaker} ${i===idx?'current':''} ${hidden?'hiddenLine':''}`; div.dataset.i=i; div.innerHTML=`<div class="speaker">${String(x.n).padStart(2,'0')} · ${x.speaker} <span class="kind">${x.kind}${x.speed?' · '+x.speed:''}${!shouldSpeak(x)?' · GAP':''}</span></div><div class="text"></div>`; div.querySelector('.text').textContent=x.text; div.onclick=()=>{ stop(); idx=i; render(); }; lines.appendChild(div); }); bar.style.width=((idx/Math.max(1,seq.length))*100)+'%'; }
+function render(){ lines.innerHTML=''; seq.forEach((x,i)=>{ const div=document.createElement('div'); const hidden=els('hideMuted').checked&&!shouldSpeak(x); div.className=`line ${x.speaker} ${i===idx?'current':''} ${hidden?'hiddenLine':''}`; div.dataset.i=i; div.innerHTML=`<div class="speaker">${String(x.n).padStart(2,'0')} · ${x.speaker} <span class="kind">${x.kind}${x.speed?' · '+x.speed:''}${!shouldSpeak(x)?' · GAP':''}</span></div><div class="text"></div>`; div.querySelector('.text').textContent=x.text; div.onclick=()=>{ if(div.classList.contains('hiddenLine')) { div.classList.add('revealed'); return; } stop(); idx=i; render(); }; lines.appendChild(div); }); bar.style.width=((idx/Math.max(1,seq.length))*100)+'%'; }
 function stop(){ playing=false; if(timer) clearTimeout(timer); timer=null; if(lineAudio){ lineAudio.pause(); } }
 function next(){ idx++; if(idx>=seq.length){ stop(); idx=seq.length-1; status.textContent='Finished.'; render(); return; } playCurrent(); }
 function playCurrent(){ render(); if(!playing) return; const item=seq[idx]; status.textContent=`${item.n} · ${item.speaker}: ${item.text.slice(0,70)}${item.text.length>70?'…':''}`; lineAudio.onended=null; lineAudio.onerror=null; if(shouldSpeak(item)){ lineAudio.src=item.src; lineAudio.onended=()=>setTimeout(next,180); lineAudio.onerror=()=>{ status.textContent='Audio load failed for line '+item.n+' — try Reload.'; stop(); }; lineAudio.play().catch(e=>{ status.textContent='Mobile blocked scripted playback. Tap the small audio play control, then press ▶︎ Play again.'; stop(); }); } else if(els('leaveGaps').checked){ lineAudio.removeAttribute('src'); lineAudio.load(); timer=setTimeout(next, Math.max(700,item.duration*1000*parseFloat(els('gapFactor').value))); } else { timer=setTimeout(next, 80); } }
