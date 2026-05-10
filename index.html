@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="robots" content="noindex,nofollow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="Rehearsal Demo" />
+  <title>Caravan Rehearsal Demo</title>
+  <style>
+    :root { color-scheme: dark; --bg:#101114; --card:#1a1c22; --muted:#a7adbb; --text:#f4f5f7; --accent:#ffb15c; --rodney:#7db5ff; --penny:#ff80b7; --director:#a3e681; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; background:linear-gradient(180deg,#151820 0%,#0d0e11 100%); color:var(--text); }
+    header { padding: calc(18px + env(safe-area-inset-top)) 18px 12px; position:sticky; top:0; z-index:5; background:rgba(16,17,20,.92); backdrop-filter: blur(16px); border-bottom:1px solid rgba(255,255,255,.08); }
+    h1 { margin:0; font-size:22px; letter-spacing:-.02em; }
+    .sub { color:var(--muted); margin-top:4px; font-size:13px; line-height:1.35; }
+    main { padding:16px 14px 36px; max-width:760px; margin:0 auto; }
+    .card { background:rgba(26,28,34,.92); border:1px solid rgba(255,255,255,.08); border-radius:18px; padding:14px; margin-bottom:14px; box-shadow:0 10px 30px rgba(0,0,0,.18); }
+    .mode-grid { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+    button { appearance:none; border:1px solid rgba(255,255,255,.12); border-radius:14px; background:#242833; color:var(--text); padding:12px 10px; text-align:left; font-weight:700; font-size:14px; }
+    button.active { border-color:var(--accent); background:rgba(255,177,92,.18); }
+    button span { display:block; color:var(--muted); font-weight:500; font-size:12px; margin-top:3px; }
+    audio { width:100%; margin-top:12px; }
+    .row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+    .pill { display:inline-flex; border-radius:999px; padding:5px 9px; background:#252936; color:var(--muted); font-size:12px; }
+    .pill.rodney { color:var(--rodney); } .pill.penny { color:var(--penny); } .pill.director { color:var(--director); }
+    .toolbar { display:flex; gap:8px; margin:10px 0 4px; }
+    .toolbar button { text-align:center; padding:9px 10px; font-size:13px; flex:1; }
+    .line { padding:10px 0; border-top:1px solid rgba(255,255,255,.07); line-height:1.35; }
+    .line:first-child { border-top:0; }
+    .speaker { font-size:12px; font-weight:800; letter-spacing:.04em; margin-bottom:4px; }
+    .RODNEY .speaker { color:var(--rodney); } .PENNY .speaker { color:var(--penny); } .DIRECTOR .speaker { color:var(--director); }
+    .kind { color:var(--muted); font-weight:500; }
+    .text { font-size:15px; }
+    .note { color:var(--muted); font-size:13px; line-height:1.45; }
+    .edge { border-left:3px solid var(--accent); padding-left:10px; }
+    [hidden] { display:none !important; }
+  </style>
+</head>
+<body>
+<header>
+  <h1>Caravan — rehearsal demo</h1>
+  <div class="sub">Rodney/Penny sample · local cached ElevenLabs build · mobile proof-of-concept</div>
+</header>
+<main>
+  <section class="card">
+    <div class="row">
+      <span class="pill rodney">Rodney: Dave AU</span>
+      <span class="pill penny">Penny: Kylie AU</span>
+      <span class="pill director">Director: Paul AU</span>
+    </div>
+    <audio id="player" controls preload="metadata" src="audio/caravan_rodney_penny_test_director_1_5x.mp3"></audio>
+  </section>
+
+  <section class="card">
+    <strong>Playback modes</strong>
+    <div class="mode-grid" style="margin-top:10px">
+      <button class="active" data-src="audio/caravan_rodney_penny_test_director_1_5x.mp3">Director 1.5× <span>3:14 · recommended</span></button>
+      <button data-src="audio/caravan_rodney_penny_test_with_director.mp3">Director normal <span>3:33</span></button>
+      <button data-src="audio/caravan_rodney_penny_test_director_doubletime.mp3">Director 2× <span>3:04 · too brisk?</span></button>
+      <button data-src="audio/caravan_rodney_penny_test.mp3">No director <span>2:48</span></button>
+    </div>
+  </section>
+
+  <section class="card edge">
+    <strong>What this is demonstrating</strong>
+    <p class="note">A script-aware rehearsal app shell: choose a mode, play the generated scene-partner audio, inspect the script classification before spending generation credits, and catch edge cases before full builds.</p>
+  </section>
+
+  <section class="card">
+    <strong>Review transcript</strong>
+    <div class="toolbar">
+      <button id="allBtn" class="active">All</button>
+      <button id="dialogueBtn">Dialogue</button>
+      <button id="directorBtn">Director</button>
+    </div>
+    <div id="lines"></div>
+  </section>
+</main>
+<script id="data" type="application/json">[{&quot;n&quot;: 1, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;inline_stage_direction&quot;, &quot;text&quot;: &quot;OFF&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 2, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Hello Parkes.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 3, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;stage_direction_before&quot;, &quot;text&quot;: &quot;During the above, PENNY looks out the door, waves. She rushes to a mirror and nervously checks her make-up. RODNEY appears at the caravan door. He is attractive but very earnest. PENNY whirls around when he appears, and smiles at him breathlessly. RODNEY smiles back nervously and runs up the stairs.&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 4, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;inline_stage_direction&quot;, &quot;text&quot;: &quot;too late&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 5, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Mind your head....&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 6, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;stage_direction_before&quot;, &quot;text&quot;: &quot;RODNEY bumps his head.&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 7, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Ah!&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 8, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;stage_direction_before&quot;, &quot;text&quot;: &quot;He stumbles around clutching his head. PENNY rushes to him.&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 9, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Darling, are you all right? Rodney?&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 10, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;stage_direction_before&quot;, &quot;text&quot;: &quot;He pushes her away frantically, still holding his head.&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 11, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Oh my God.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 12, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;I know. I did it too.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 13, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Oh, oh my God.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 14, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;stage_direction_before&quot;, &quot;text&quot;: &quot;PENNY looks out the door.&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 15, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Where’s Monica?&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 16, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;inline_stage_direction&quot;, &quot;text&quot;: &quot;rubs his head, as the pain subsides&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 17, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Parkes is showing her where he used to have the caravan. Somebody’s taken his spot apparently.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 18, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;stage_direction_before&quot;, &quot;text&quot;: &quot;PENNY shuts the door. She stands against it, waiting expectantly. RODNEY looks at her nervously.&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 19, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Darling?&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 20, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Yes?&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 21, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Don’t I get a kiss?&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 22, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;inline_stage_direction&quot;, &quot;text&quot;: &quot;She stands expectantly. RODNEY quickly pecks her and leaps away when she tried to embrace him.&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 23, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;That’s not much of a kiss.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 24, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;stage_direction_before&quot;, &quot;text&quot;: &quot;RODNEY nervously looks out the door.&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 25, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Well. Here we are.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 26, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;inline_stage_direction&quot;, &quot;text&quot;: &quot;Laughs nervously&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 27, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;God that’s a long drive, though. Monica almost passed out in the heat. Why are you looking at me like that?&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 28, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;I’m sorry, Rodney. I have to say it. I’m very hurt.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 29, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;inline_stage_direction&quot;, &quot;text&quot;: &quot;Touching head innocently&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 30, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Hurt? Why?&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 31, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;It’s been two weeks. You never rang.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 32, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;I’ve been very busy, Penny. There’s a whole new...er... and we’re up to...er...and really, there’s been no time. Really.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 33, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;stage_direction_before&quot;, &quot;text&quot;: &quot;He runs down. Pause.&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 34, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;You’re feeling guilty?&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 35, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Just a little bit, yes.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 36, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;How do you think I feel? Monica’s my best friend.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 37, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;I know! And if she ever found out.....&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 38, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;I know! If Parkes ever found out.....&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 39, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;I know! I know! Which is why we’ve got to be careful.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 40, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;We have been careful. We couldn’t be more careful! Once in two weeks.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 41, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;stage_direction_after&quot;, &quot;text&quot;: &quot;Pause.&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 42, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Penny, we were drunk.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 43, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Not that drunk! It was wonderful. It was wonderful for you, wasn’t it?&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 44, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Yes, yes of course, but.....&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 45, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Oh, darling. Darling.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 46, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;stage_direction_before&quot;, &quot;text&quot;: &quot;She embraces him. He leaps away and back to the door.&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 47, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Penny, Penny, Penny!!! They could come in at any moment!&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 48, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Wouldn’t you have done it if you had been sober?&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 49, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;I.....yes, of course....but.... I might have thought more seriously about the consequences.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 50, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;I see. Fine.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 51, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;inline_stage_direction&quot;, &quot;text&quot;: &quot;A pause, and then a wail.&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 52, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Why couldn’t I have had my first affair with somebody else? Why did it have to be my best friend who’s married to my other best friend?&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 53, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;You’re talking very loudly.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 54, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;I don’t care!&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 55, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;Shhhh!!&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 56, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;I can’t help it. I’ve never been unfaithful before, Rodney. I’ve never taken a lover before. In all these years. Rodney, please. Kiss me.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 57, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;No! Monica and Parkes could come in. We have to be careful.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 58, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;I can’t stand it. I don’t think I’ll be able to stand it.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 59, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;You really have to control yourself. Look, it was only one night. It’s hardly an affair. We can’t have an affair.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 60, &quot;speaker&quot;: &quot;DIRECTOR&quot;, &quot;kind&quot;: &quot;stage_direction_after&quot;, &quot;text&quot;: &quot;A long pause.&quot;, &quot;speed&quot;: &quot;1.5x&quot;}, {&quot;n&quot;: 61, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;I’m terribly sorry. You’re right, of course.&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 62, &quot;speaker&quot;: &quot;RODNEY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;We can’t, can we?&quot;, &quot;speed&quot;: null}, {&quot;n&quot;: 63, &quot;speaker&quot;: &quot;PENNY&quot;, &quot;kind&quot;: &quot;dialogue&quot;, &quot;text&quot;: &quot;No. Of course we can’t.&quot;, &quot;speed&quot;: null}]</script>
+<script>
+const player = document.getElementById('player');
+document.querySelectorAll('[data-src]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('[data-src]').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const wasPlaying = !player.paused;
+    player.src = btn.dataset.src;
+    player.load();
+    if (wasPlaying) player.play().catch(()=>{});
+  });
+});
+const data = JSON.parse(document.getElementById('data').textContent);
+const lines = document.getElementById('lines');
+let filter='all';
+function render() {
+  lines.innerHTML='';
+  data.filter(x => filter==='all' || (filter==='dialogue' ? x.speaker!=='DIRECTOR' : x.speaker==='DIRECTOR')).forEach(x => {
+    const div=document.createElement('div');
+    div.className='line '+x.speaker;
+    const speed = x.speed ? ` · ${x.speed}` : '';
+    div.innerHTML=`<div class="speaker">${String(x.n).padStart(2,'0')} · ${x.speaker} <span class="kind">${x.kind}${speed}</span></div><div class="text"></div>`;
+    div.querySelector('.text').textContent=x.text;
+    lines.appendChild(div);
+  });
+}
+function setFilter(next, btn) { filter=next; document.querySelectorAll('.toolbar button').forEach(b=>b.classList.remove('active')); btn.classList.add('active'); render(); }
+document.getElementById('allBtn').onclick=e=>setFilter('all', e.currentTarget);
+document.getElementById('dialogueBtn').onclick=e=>setFilter('dialogue', e.currentTarget);
+document.getElementById('directorBtn').onclick=e=>setFilter('director', e.currentTarget);
+render();
+</script>
+</body>
+</html>
