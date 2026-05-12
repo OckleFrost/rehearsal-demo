@@ -1,0 +1,156 @@
+{
+  "status": "SUCCESS",
+  "purpose": "GitHub Pages rehearsal demo requested by Ty: inject Ty voice clone into the Rodney track, assigned as Parkes voice for the demo system.",
+  "public_boundary": "Publishing this repo makes the generated Ty-clone/Parkes audio publicly reachable via GitHub Pages. Do not reuse for external impersonation.",
+  "voice_id": "wd1RgdSlvv27kX1C8JmH",
+  "voice_name": "Ty Frost 25Minute",
+  "voice_role_assignment": "PARKES",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "voice_settings": {
+    "stability": 0.46,
+    "similarity_boost": 0.86,
+    "style": 0.18,
+    "use_speaker_boost": true,
+    "speed": 1.0
+  },
+  "line_count": 22,
+  "generated_lines": [
+    {
+      "n": 2,
+      "text": "Hello Parkes.",
+      "src": "audio/lines_ty_clone_parkes/002_parkes_ty_clone_5d7a31a5.mp3",
+      "duration": 0.975
+    },
+    {
+      "n": 7,
+      "text": "Ah!",
+      "src": "audio/lines_ty_clone_parkes/007_parkes_ty_clone_cf07cb95.mp3",
+      "duration": 0.418
+    },
+    {
+      "n": 11,
+      "text": "Oh my God.",
+      "src": "audio/lines_ty_clone_parkes/011_parkes_ty_clone_40d49854.mp3",
+      "duration": 0.743
+    },
+    {
+      "n": 13,
+      "text": "Oh, oh my God.",
+      "src": "audio/lines_ty_clone_parkes/013_parkes_ty_clone_7297f923.mp3",
+      "duration": 0.975
+    },
+    {
+      "n": 17,
+      "text": "Parkes is showing her where he used to have the caravan. Somebody’s taken his spot apparently.",
+      "src": "audio/lines_ty_clone_parkes/017_parkes_ty_clone_d26fc491.mp3",
+      "duration": 4.319
+    },
+    {
+      "n": 20,
+      "text": "Yes?",
+      "src": "audio/lines_ty_clone_parkes/020_parkes_ty_clone_2d46f46d.mp3",
+      "duration": 0.604
+    },
+    {
+      "n": 25,
+      "text": "Well. Here we are.",
+      "src": "audio/lines_ty_clone_parkes/025_parkes_ty_clone_a5e29aac.mp3",
+      "duration": 1.022
+    },
+    {
+      "n": 27,
+      "text": "God that’s a long drive, though. Monica almost passed out in the heat. Why are you looking at me like that?",
+      "src": "audio/lines_ty_clone_parkes/027_parkes_ty_clone_3d7c3e9f.mp3",
+      "duration": 5.248
+    },
+    {
+      "n": 30,
+      "text": "Hurt? Why?",
+      "src": "audio/lines_ty_clone_parkes/030_parkes_ty_clone_ecc4c71e.mp3",
+      "duration": 0.789
+    },
+    {
+      "n": 32,
+      "text": "I’ve been very busy, Penny. There’s a whole new...er... and we’re up to...er...and really, there’s been no time. Really.",
+      "src": "audio/lines_ty_clone_parkes/032_parkes_ty_clone_1c24e670.mp3",
+      "duration": 7.012
+    },
+    {
+      "n": 35,
+      "text": "Just a little bit, yes.",
+      "src": "audio/lines_ty_clone_parkes/035_parkes_ty_clone_089b8300.mp3",
+      "duration": 1.347
+    },
+    {
+      "n": 37,
+      "text": "I know! And if she ever found out.....",
+      "src": "audio/lines_ty_clone_parkes/037_parkes_ty_clone_f0a536df.mp3",
+      "duration": 1.672
+    },
+    {
+      "n": 39,
+      "text": "I know! I know! Which is why we’ve got to be careful.",
+      "src": "audio/lines_ty_clone_parkes/039_parkes_ty_clone_0613e488.mp3",
+      "duration": 2.461
+    },
+    {
+      "n": 42,
+      "text": "Penny, we were drunk.",
+      "src": "audio/lines_ty_clone_parkes/042_parkes_ty_clone_7a3909dd.mp3",
+      "duration": 1.347
+    },
+    {
+      "n": 44,
+      "text": "Yes, yes of course, but.....",
+      "src": "audio/lines_ty_clone_parkes/044_parkes_ty_clone_a903fd78.mp3",
+      "duration": 1.3
+    },
+    {
+      "n": 47,
+      "text": "Penny, Penny, Penny!!! They could come in at any moment!",
+      "src": "audio/lines_ty_clone_parkes/047_parkes_ty_clone_5194ca8a.mp3",
+      "duration": 2.647
+    },
+    {
+      "n": 49,
+      "text": "I.....yes, of course....but.... I might have thought more seriously about the consequences.",
+      "src": "audio/lines_ty_clone_parkes/049_parkes_ty_clone_63367f61.mp3",
+      "duration": 5.062
+    },
+    {
+      "n": 53,
+      "text": "You’re talking very loudly.",
+      "src": "audio/lines_ty_clone_parkes/053_parkes_ty_clone_7ff45622.mp3",
+      "duration": 1.3
+    },
+    {
+      "n": 55,
+      "text": "Shhhh!!",
+      "src": "audio/lines_ty_clone_parkes/055_parkes_ty_clone_24c55f27.mp3",
+      "duration": 0.743
+    },
+    {
+      "n": 57,
+      "text": "No! Monica and Parkes could come in. We have to be careful.",
+      "src": "audio/lines_ty_clone_parkes/057_parkes_ty_clone_d60c537f.mp3",
+      "duration": 3.019
+    },
+    {
+      "n": 59,
+      "text": "You really have to control yourself. Look, it was only one night. It’s hardly an affair. We can’t have an affair.",
+      "src": "audio/lines_ty_clone_parkes/059_parkes_ty_clone_c80df8c9.mp3",
+      "duration": 4.737
+    },
+    {
+      "n": 62,
+      "text": "We can’t, can we?",
+      "src": "audio/lines_ty_clone_parkes/062_parkes_ty_clone_53ef84a1.mp3",
+      "duration": 1.161
+    }
+  ],
+  "phone_safe_tracks": {
+    "parkes_clone_full_director_1_5x": "audio/phone/parkes_clone_full_director_1_5x.mp3",
+    "parkes_clone_full_no_director": "audio/phone/parkes_clone_full_no_director.mp3"
+  }
+}
