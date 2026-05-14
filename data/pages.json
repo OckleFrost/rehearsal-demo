@@ -1,6 +1,6 @@
 {
   "title": "Caravan Rehearsal Engine",
-  "version": "20260514-1929",
+  "version": "20260514-1938",
   "defaultPage": 76,
   "pages": [
     {
@@ -8,6 +8,13 @@
       "title": "Page 76",
       "act": "Act Two",
       "path": "data/pages/76.json",
+      "status": "verified-prototype"
+    },
+    {
+      "page": 77,
+      "title": "Page 77",
+      "act": "Act Two",
+      "path": "data/pages/77.json",
       "status": "verified-prototype"
     }
   ]

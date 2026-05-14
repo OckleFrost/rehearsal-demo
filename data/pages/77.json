@@ -1,0 +1,240 @@
+{
+  "page": 77,
+  "title": "Caravan — Page 77",
+  "act": "Act Two",
+  "source": "accepted pages 68–77 render; verified neighbouring page for selector/auto-next testing",
+  "defaultGapRole": "RODNEY",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1234,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Ah! Ah!",
+      "src": "audio/pages/77/lines/001_rodney_6fa4c25da5d_norm.mp3",
+      "duration": 0.929,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1235,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Oh, darling, No. I’m not nice. I’m a bitch. You’re nice. You are one of the world’s truly good people.",
+      "src": "audio/pages/77/lines/002_monica_082335b7be0_norm.mp3",
+      "duration": 6.827,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1236,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "No, no. You are one of the world’s truly nice people. You’re as nice as Gwendolyn.",
+      "src": "audio/pages/77/lines/003_penny_7068f77c149_norm.mp3",
+      "duration": 6.362,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1237,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Oh God, don’t say that!",
+      "src": "audio/pages/77/lines/004_monica_5fc083dd5ea_norm.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1238,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Gwendolyn is a truly lovely nicely person.",
+      "src": "audio/pages/77/lines/005_gwendolyn_568839b8af5_norm.mp3",
+      "duration": 2.786,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1239,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "She struggles to get one leg on the bunk and succeeds. She stays in that position.",
+      "src": "audio/pages/77/lines/006_director_062ed89c233_norm.mp3",
+      "duration": 3.374,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1239,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Lovely!",
+      "src": "audio/pages/77/lines/007_gwendolyn_388dcbdd9d1_norm.mp3",
+      "duration": 0.789,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1240,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Yes, you are, Monica, you’re nice. And understanding. But don’t be. You’d never do to me what I did to you.",
+      "src": "audio/pages/77/lines/008_penny_e4efaf9a2f7_norm.mp3",
+      "duration": 9.056,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1241,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "They embrace, sobbing.",
+      "src": "audio/pages/77/lines/009_director_de495fd8465_norm.mp3",
+      "duration": 0.961,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1241,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I would.",
+      "src": "audio/pages/77/lines/010_monica_a2555509499_norm.mp3",
+      "duration": 0.743,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1242,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "No, you wouldn’t.",
+      "src": "audio/pages/77/lines/011_penny_b504a740ff5_norm.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1243,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I would, I would.",
+      "src": "audio/pages/77/lines/012_monica_5d3c546af73_norm.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1244,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "You wouldn’t.",
+      "src": "audio/pages/77/lines/013_penny_b9b1f54abbd_norm.mp3",
+      "duration": 0.975,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1245,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I would, I would. I did.",
+      "src": "audio/pages/77/lines/014_monica_14f56a430d2_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1246,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "A long pause.",
+      "src": "audio/pages/77/lines/015_director_8aa8eaa4d54_norm.mp3",
+      "duration": 0.845,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1246,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "What?",
+      "src": "audio/pages/77/lines/016_penny_f555f88e2ee_norm.mp3",
+      "duration": 0.697,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1247,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Oh dear. Did I say that? Now I really have gone too far, haven’t I? Since we’re being honest, and so nice, you might as well know. Once. Only once.",
+      "src": "audio/pages/77/lines/017_monica_d85f06bfb09_norm.mp3",
+      "duration": 11.796,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 18,
+      "sourceEntry": 1248,
+      "speaker": "PENNY",
+      "kind": "spoken_parse_stage_split",
+      "text": "With Parkes?",
+      "src": "audio/pages/77/lines/018_penny_77443ca4c8a_norm.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 19,
+      "sourceEntry": 1248,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_after_parse_split",
+      "text": "Another pause.",
+      "src": "audio/pages/77/lines/019_director_e8f5b95c7de_norm.mp3",
+      "duration": 0.798,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 1249,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Why did you bother?",
+      "src": "audio/pages/77/lines/020_penny_59081569225_norm.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": null
+    },
+    {
+      "n": 21,
+      "sourceEntry": 1250,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I don’t remember. It was so long ago. We were drunk.",
+      "src": "audio/pages/77/lines/021_monica_c1988678caf_norm.mp3",
+      "duration": 2.926,
+      "speed": null,
+      "voiceName": null
+    }
+  ]
+}
