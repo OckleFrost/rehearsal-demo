@@ -29,6 +29,20 @@
 <body>
 <header><h1>Caravan — page 76</h1><div class="sub">A phone/iPad-style Rehearsal Engine slice: Rodney as Ty's private AI voice, scene partners as selected cast voices, and stage directions as Ockle Jane.</div></header>
 <main>
+
+  <section class="card">
+    <strong>Page selector</strong>
+    <p class="small">This is wired as the app navigation shape: page 76 is live now, and future rendered pages can drop into the same selector.</p>
+    <div class="row" style="margin-top:10px">
+      <label class="small" for="pageSelect">Page</label>
+      <select id="pageSelect" style="min-width:120px">
+        <option value="76" selected>76</option>
+      </select>
+      <button id="goPage" class="primary" style="min-width:110px;text-align:center">Open page</button>
+    </div>
+    <p id="pageNote" class="small">Available now: page 76.</p>
+  </section>
+
   <section class="card">
     <div class="row"><span class="pill rodney">Rodney: Ty private clone</span><span class="pill penny">Penny</span><span class="pill monica">Monica</span><span class="pill gwendolyn">Gwendolyn</span><span class="pill director">Ockle stage directions @ 1.5×</span></div>
     <p class="small">Private rehearsal prototype. Page 76 is pulled from the accepted pages 68–77 render.</p>
@@ -85,6 +99,9 @@ Object.values(controls).concat([els('leaveGaps'),els('hideMuted')]).forEach(cb=>
 els('rodneyMode').onclick=()=>{ controls.RODNEY.checked=false; controls.PENNY.checked=true; controls.MONICA.checked=true; controls.GWENDOLYN.checked=true; controls.DIRECTOR.checked=true; els('leaveGaps').checked=true; els('hideMuted').checked=true; syncToggles(); };
 els('fullMode').onclick=()=>{ Object.values(controls).forEach(cb=>cb.checked=true); els('hideMuted').checked=false; syncToggles(); };
 document.querySelectorAll('[data-src]').forEach(btn=>btn.onclick=()=>{ els('mixPlayer').src=btn.dataset.src; els('mixPlayer').play().catch(()=>{}); });
+
+const pageMap={76:'page76.html'};
+els('goPage').onclick=()=>{ const page=els('pageSelect').value; if(pageMap[page]) window.location.href=pageMap[page]; else els('pageNote').textContent='Page '+page+' has not been generated for this web app yet.'; };
 syncToggles();
 </script>
 </body></html>
