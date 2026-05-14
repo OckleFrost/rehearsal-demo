@@ -1,0 +1,273 @@
+{
+  "page": 26,
+  "title": "Caravan — Page 26",
+  "act": "Act One",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 365,
+      "speaker": "ALL",
+      "kind": "chorus",
+      "text": "Yes!!!",
+      "src": "audio/pages/26/lines/001_all_7_all_chorus_mix.mp3",
+      "duration": 0.948,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute + KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM + Charlotte - Warm & Conversational + Dave - Expressive Australian English + James"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 366,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Ha Ha. Give or take a few months.",
+      "src": "audio/pages/26/lines/002_parkes_c06cb877bd1_norm.mp3",
+      "duration": 2.276,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 367,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I’ll...er.. Get the stuff out of the car. Where are Gwendolyn and I sleeping?",
+      "src": "audio/pages/26/lines/003_pierce_bac91d3d25d_norm.mp3",
+      "duration": 5.341,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 368,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I thought you two could go in the annexe. So you can get a bit of privacy.",
+      "src": "audio/pages/26/lines/004_parkes_1189990cb92_norm.mp3",
+      "duration": 4.412,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 369,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "In that tent thing? But we’d be sleeping on the grass.",
+      "src": "audio/pages/26/lines/005_pierce_822c6d4df16_norm.mp3",
+      "duration": 3.204,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 370,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "You’ll be in sleeping bags. They’re quite comfortable.",
+      "src": "audio/pages/26/lines/006_penny_6cdf4f45a3e_norm.mp3",
+      "duration": 3.483,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 371,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "But we’d be on the damp ground in the grass. There could be spiders.",
+      "src": "audio/pages/26/lines/007_pierce_cea581e2552_norm.mp3",
+      "duration": 3.576,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 372,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "There are no spiders, Pierce.",
+      "src": "audio/pages/26/lines/008_parkes_c75d642989c_norm.mp3",
+      "duration": 1.579,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 373,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "How do you know? You don’t know that.",
+      "src": "audio/pages/26/lines/009_pierce_485be8f10a6_norm.mp3",
+      "duration": 1.95,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 374,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "The children sleep there every summer. They haven’t been bitten yet.",
+      "src": "audio/pages/26/lines/010_parkes_620d1481f56_norm.mp3",
+      "duration": 3.111,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 375,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Then they were very lucky. It’s a perfect place for red-backs.",
+      "src": "audio/pages/26/lines/011_pierce_19ada2a64c0_norm.mp3",
+      "duration": 3.529,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 376,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "There are no red-backs, mate. The funnelwebs have eaten them all.",
+      "src": "audio/pages/26/lines/012_parkes_1818f68d6cb_norm.mp3",
+      "duration": 3.251,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 377,
+      "speaker": "PIERCE",
+      "kind": "spoken_parse_stage_split",
+      "text": "But you’re in a different spot this year. This could be spider paradise.",
+      "src": "audio/pages/26/lines/013_pierce_76febcf85d1_norm.mp3",
+      "duration": 3.669,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 377,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_after_parse_split",
+      "text": "Everybody looks worried.",
+      "src": "audio/pages/26/lines/014_director_8302e9ecbe8_norm.mp3",
+      "duration": 0.898,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 378,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "If there are spiders. Rodney and I are leaving.",
+      "src": "audio/pages/26/lines/015_monica_37003e9f268_norm.mp3",
+      "duration": 2.786,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 379,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "losing patience",
+      "src": "audio/pages/26/lines/016_director_0600709bac7_norm.mp3",
+      "duration": 0.838,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 379,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I’ll give you some insect repellent!",
+      "src": "audio/pages/26/lines/017_parkes_e061257d293_norm.mp3",
+      "duration": 1.997,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 380,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Better to be safe than sorry.",
+      "src": "audio/pages/26/lines/018_pierce_d766e7ae63f_norm.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 381,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I’ve cleaned the annexe thoroughly, as I do every summer.",
+      "src": "audio/pages/26/lines/019_parkes_306c5730298_norm.mp3",
+      "duration": 2.601,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 382,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I hate spiders.",
+      "src": "audio/pages/26/lines/020_pierce_5b3cb6904d5_norm.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 383,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "I’ll protect you, Piercie-wiercie- you big baby.",
+      "src": "audio/pages/26/lines/021_gwendolyn_67170b88ef6_norm.mp3",
+      "duration": 2.694,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 384,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "It’s all right for you, Gwendolyn. A spider jumped on my knee when I was a child and I’ve been frightened of them ever since.",
+      "src": "audio/pages/26/lines/022_pierce_78a62ce72eb_norm.mp3",
+      "duration": 6.594,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 385,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I assure you there aren’t any spiders.",
+      "src": "audio/pages/26/lines/023_parkes_0b5bc69932e_norm.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 386,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "What about snakes? There are snakes in this area.",
+      "src": "audio/pages/26/lines/024_pierce_6f1fd0ed8c3_norm.mp3",
+      "duration": 3.297,
+      "speed": null,
+      "voiceName": "James"
+    }
+  ]
+}

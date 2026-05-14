@@ -1,0 +1,218 @@
+{
+  "page": 47,
+  "title": "Caravan — Page 47",
+  "act": "Act One",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 744,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Give me another brandy.",
+      "src": "audio/pages/47/lines/001_monica_e9419ee2c11_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 745,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Monica, I think that rapist you kicked......in the what-nots....",
+      "src": "audio/pages/47/lines/002_rodney_4d034482e57_norm.mp3",
+      "duration": 3.111,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 746,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "What about him?",
+      "src": "audio/pages/47/lines/003_monica_559dff57ef3_norm.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 747,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Was Parkes.",
+      "src": "audio/pages/47/lines/004_rodney_352672672d3_norm.mp3",
+      "duration": 0.929,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 748,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "A LOUD GROAN OFF. PARKES enters, doubled up in pain, clutching his groin. His pyjamas are torn, and he is covered in dirt. He looks at MONICA with anguish.",
+      "src": "audio/pages/47/lines/005_director_7ed0fc3497b_norm.mp3",
+      "duration": 7.65,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 748,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "laughs",
+      "src": "audio/pages/47/lines/006_director_893db649c2a_norm.mp3",
+      "duration": 0.62,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 748,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Darling, are you all right?",
+      "src": "audio/pages/47/lines/007_penny_7905966eeea_norm.mp3",
+      "duration": 1.533,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 749,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Don’t laugh. All I try to do is make you comfortable and what do I get? I’m mutilated in the showers.",
+      "src": "audio/pages/47/lines/008_parkes_411126da121_norm.mp3",
+      "duration": 5.387,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 750,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Why didn’t you tell me it was you?",
+      "src": "audio/pages/47/lines/009_monica_6ec361b2b3e_norm.mp3",
+      "duration": 1.672,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 751,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I thought you knew! It was a joke!",
+      "src": "audio/pages/47/lines/010_parkes_ed584d5ccf4_norm.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 752,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You must have known you’d frighten me.",
+      "src": "audio/pages/47/lines/011_monica_1f318812c40_norm.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 753,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Frighten you! What do you think you did to me? I’ve never known such pain. And when I could finally stagger out of there, some moron hit me with a flying tackle. He called me a pervert. I’ve never been so insulted in my life!",
+      "src": "audio/pages/47/lines/012_parkes_cd2539397c2_norm.mp3",
+      "duration": 12.725,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 754,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "They all start to laugh at him.",
+      "src": "audio/pages/47/lines/013_director_51a3a48e336_norm.mp3",
+      "duration": 1.299,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 754,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Oh Parkes, I’m so sorry. I really am.",
+      "src": "audio/pages/47/lines/014_monica_3a65d1cea36_norm.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 755,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I feel sick.",
+      "src": "audio/pages/47/lines/015_parkes_c0de57c7cd1_norm.mp3",
+      "duration": 1.022,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 756,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Lie down darling. I’ll get you a drink. Let’s all have a drink before we go to bed.",
+      "src": "audio/pages/47/lines/016_penny_25c880ea1da_norm.mp3",
+      "duration": 5.016,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 757,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Is he all right? Oh dear.",
+      "src": "audio/pages/47/lines/017_monica_3b9f4dfdcf4_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 758,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "SHE and PENNY clutch each other and laugh hysterically.",
+      "src": "audio/pages/47/lines/018_director_914566c52b8_norm.mp3",
+      "duration": 1.729,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 758,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "See! What fun we’re going to have! Two weeks in the sun. Together!",
+      "src": "audio/pages/47/lines/019_penny_a1c73e2a527_norm.mp3",
+      "duration": 4.412,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "page": 64,
+  "title": "Caravan — Page 64",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1027,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "It’s a suggestion, yes.",
+      "src": "audio/pages/64/lines/001_rodney_22a22311588_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1028,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "We’ve talked about this holiday for a year. I’ve brought my caravan all the way up here. I’ve gone to a great deal of trouble. But do I get any thanks for it? No, I’m accused of being bad- tempered. We’ve only been here a week and you want to go home. Just because of a little rain.",
+      "src": "audio/pages/64/lines/002_parkes_bcd0c7875d0_norm.mp3",
+      "duration": 16.672,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1029,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "A little rain! It hasn’t stopped for five days!",
+      "src": "audio/pages/64/lines/003_rodney_c0c1761dcf7_norm.mp3",
+      "duration": 2.647,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1030,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Six!",
+      "src": "audio/pages/64/lines/004_monica_fdcce9b4237_norm.mp3",
+      "duration": 0.697,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1031,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "There’s a flood out there and you expect us to sleep in it.",
+      "src": "audio/pages/64/lines/005_rodney_616a1d1565f_norm.mp3",
+      "duration": 2.833,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1032,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "erupting again",
+      "src": "audio/pages/64/lines/006_director_c373dce7462_norm.mp3",
+      "duration": 0.555,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1032,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "All right! That’s it! We’ll go home. Finito. Finish. Everybody get packed up.",
+      "src": "audio/pages/64/lines/007_parkes_b5964c6b277_norm.mp3",
+      "duration": 4.18,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1033,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PENNY can’t take anymore. She erupts.",
+      "src": "audio/pages/64/lines/008_director_991523a79e7_norm.mp3",
+      "duration": 1.616,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1033,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Stop it! Stop it, all of you! I can’t stand anymore! I really can’t!!",
+      "src": "audio/pages/64/lines/009_penny_cd31a76f64a_norm.mp3",
+      "duration": 3.994,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1034,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "They are all shocked into silence. They stare at PENNY.",
+      "src": "audio/pages/64/lines/010_director_97a751d77c9_norm.mp3",
+      "duration": 2.451,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1034,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Now don’t get het up, Penny.",
+      "src": "audio/pages/64/lines/011_parkes_0c4c5341c2e_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1035,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Aaaah! I can’t stand it. I’ve had it.",
+      "src": "audio/pages/64/lines/012_penny_a88eea6f827_norm.mp3",
+      "duration": 2.647,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1035,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "To PARKES",
+      "src": "audio/pages/64/lines/013_director_b1073d7ea82_norm.mp3",
+      "duration": 0.567,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1035,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I have had it. Up to here! Do you understand? Every year for four years I have had to endure this holiday. I’ve had to put up with the heat. I hate the heat! The inconvenience, the primitive conditions, there hasn’t been a light in the shower for four years- and the caravan! Your precious caravan. Parkes, do you know I hate caravans? I hate them. Do you know what I’d like to happen, Parkes? I’d like all the drips to combine into one very big flood and I’d like the caravan to float out to sea. With all of you in it!!!",
+      "src": "audio/pages/64/lines/014_penny_456a7ecee11_norm.mp3",
+      "duration": 41.703,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1036,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Penny, love we’re sorry....",
+      "src": "audio/pages/64/lines/015_monica_96ad18b87b7_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1037,
+      "speaker": "PENNY",
+      "kind": "spoken_parse_wrap_fix",
+      "text": "You’re sorry! Oh yes, you’re sorry. For four years I’ve had the heat, and the caravan, and the children. And Parkes! And it’s been hell! I thought this year it would be different. I thought.....with my friends here, I might at least enjoy myself.",
+      "src": "audio/pages/64/lines/016_penny_95d4d709536_norm.mp3",
+      "duration": 23.684,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1037,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "weeps",
+      "src": "audio/pages/64/lines/017_director_60fdf372b05_norm.mp3",
+      "duration": 0.632,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 1037,
+      "speaker": "PENNY",
+      "kind": "spoken_parse_wrap_fix",
+      "text": "But you’re worse. You’re far worse than the children.",
+      "src": "audio/pages/64/lines/018_penny_61e21785833_norm.mp3",
+      "duration": 3.762,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 1038,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "We’ll go home then.",
+      "src": "audio/pages/64/lines/019_parkes_19d56a550f2_norm.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 1039,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "shouts",
+      "src": "audio/pages/64/lines/020_director_280fb4b2711_norm.mp3",
+      "duration": 0.531,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 1039,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "We won’t go home! We can’t go home! It’s pouring with rain! We have talked about this holiday for years. We’re here and we are stuck with it, and I insist that we stay. We have one week to go...",
+      "src": "audio/pages/64/lines/021_penny_a329b00682c_norm.mp3",
+      "duration": 15.001,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    }
+  ]
+}

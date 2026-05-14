@@ -1,0 +1,273 @@
+{
+  "page": 46,
+  "title": "Caravan — Page 46",
+  "act": "Act One",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 726,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You didn’t tell me.",
+      "src": "audio/pages/46/lines/001_monica_9125556b381_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 727,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I forgot. Parkes went...",
+      "src": "audio/pages/46/lines/002_penny_fff80eea9c1_norm.mp3",
+      "duration": 1.904,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 728,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "So! I was standing in the shower in the dark. On the cold tiles. Naked. Waiting for the hot water to appear. I don’t think there is any hot water.",
+      "src": "audio/pages/46/lines/003_monica_0ac47a936d7_norm.mp3",
+      "duration": 12.028,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 729,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "No, there isn’t. I forgot to tell you that too.",
+      "src": "audio/pages/46/lines/004_penny_a84a0aeb326_norm.mp3",
+      "duration": 2.833,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 730,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Thank you. So. I was standing in the shower. In the dark. Naked. On the cold tiles. Freezing to death. And I realised....Oh God...I’m still shaking.",
+      "src": "audio/pages/46/lines/005_monica_d249b6727c4_norm.mp3",
+      "duration": 11.285,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 730,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "RODNEY gives her a brandy",
+      "src": "audio/pages/46/lines/006_director_f41b8843dbb_norm.mp3",
+      "duration": 1.025,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 730,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I realised there was someone in there with me.",
+      "src": "audio/pages/46/lines/007_monica_9fa15a48ff5_norm.mp3",
+      "duration": 2.137,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 731,
+      "speaker": "ALL",
+      "kind": "spoken",
+      "text": "Who?",
+      "src": "audio/pages/46/lines/008_all_9830c3bdc19_norm.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 732,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I don’t know. A maniac! Some sort of kinky pervert. He shone a torch on me!!",
+      "src": "audio/pages/46/lines/009_monica_78d4b397322_norm.mp3",
+      "duration": 4.644,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 733,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PENNY and RODNEY exchange worried looks.",
+      "src": "audio/pages/46/lines/010_director_87c616477dc_norm.mp3",
+      "duration": 1.361,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 733,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh no....",
+      "src": "audio/pages/46/lines/011_penny_2c051f4b03f_norm.mp3",
+      "duration": 0.836,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 734,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "He laughed, in a terrifying maniacal way and shone the torch up and down my body. Several times. Then he said….. What big..... eyes, you have. Something like that. Something smutty and puerile.",
+      "src": "audio/pages/46/lines/012_monica_30a2b8f6757_norm.mp3",
+      "duration": 15.975,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 735,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Monica, what did you do?",
+      "src": "audio/pages/46/lines/013_penny_231e6b6a748_norm.mp3",
+      "duration": 1.625,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 736,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I was terrified. He laughed again in that maniacal fashion......so I leapt at him. I kicked him in the balls. Then I ran for my life. I had to run naked through those people having a barbecue. They laughed.",
+      "src": "audio/pages/46/lines/014_monica_9b202ce975b_norm.mp3",
+      "duration": 16.486,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 737,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "They probably thought you were streaking.",
+      "src": "audio/pages/46/lines/015_rodney_85f48db2726_norm.mp3",
+      "duration": 1.765,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 738,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "savagely",
+      "src": "audio/pages/46/lines/016_director_b54dbc149a5_norm.mp3",
+      "duration": 0.725,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 738,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Oh, you’re really enjoying this, aren’t you Rodney? I’ve been humiliated and all you can do is laugh.",
+      "src": "audio/pages/46/lines/017_monica_d1a11b888b9_norm.mp3",
+      "duration": 5.666,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 738,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Starts to sob",
+      "src": "audio/pages/46/lines/018_director_5d0407017f1_norm.mp3",
+      "duration": 0.809,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 738,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I was very frightened!",
+      "src": "audio/pages/46/lines/019_monica_4466985f279_norm.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 739,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Darling, I’m not laughing at you.",
+      "src": "audio/pages/46/lines/020_rodney_fda6c51c83e_norm.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 740,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Yes you are. You’re supposed to care if I get raped.",
+      "src": "audio/pages/46/lines/021_monica_dc37f5b21c5_norm.mp3",
+      "duration": 2.368,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 741,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "You didn’t get raped.",
+      "src": "audio/pages/46/lines/022_rodney_98350945f45_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 742,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I might have been. It was a dreadful experience.",
+      "src": "audio/pages/46/lines/023_monica_3359b07cd18_norm.mp3",
+      "duration": 2.322,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 743,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Monica....",
+      "src": "audio/pages/46/lines/024_rodney_6070218edce_norm.mp3",
+      "duration": 0.789,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    }
+  ]
+}

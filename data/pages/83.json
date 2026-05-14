@@ -1,0 +1,273 @@
+{
+  "page": 83,
+  "title": "Caravan — Page 83",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1346,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "What’s wrong with Gwendolyn?",
+      "src": "audio/pages/83/lines/001_pierce_5ef10409361_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1347,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Is that little Piercie-wiercie? I feel sickie-wickie. I don’t like this holiday.",
+      "src": "audio/pages/83/lines/002_gwendolyn_24954423702_norm.mp3",
+      "duration": 4.969,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1348,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "shocked",
+      "src": "audio/pages/83/lines/003_director_2c84637dbe5_norm.mp3",
+      "duration": 0.674,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1348,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Gwendolyn, you’re drunk!",
+      "src": "audio/pages/83/lines/004_pierce_387d26758ee_norm.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1349,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Just a little bit. It helps me to relax. I’ve been very shy on this holiday. You’re all so old.",
+      "src": "audio/pages/83/lines/005_gwendolyn_240434b1cfe_norm.mp3",
+      "duration": 5.898,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1350,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Thank you very much, Gwendolyn. We are going home.",
+      "src": "audio/pages/83/lines/006_pierce_9a418bd2102_norm.mp3",
+      "duration": 2.972,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1351,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "No! We’re not!",
+      "src": "audio/pages/83/lines/007_penny_b26f6c56bdc_norm.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1352,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Here we go again.",
+      "src": "audio/pages/83/lines/008_rodney_51535d9d8bb_norm.mp3",
+      "duration": 1.022,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1353,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I can’t do it. I can’t leave you. We’ve been through too much together.",
+      "src": "audio/pages/83/lines/009_penny_560b2cdd4a2_norm.mp3",
+      "duration": 4.505,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1354,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Yes, we have. You’re too nice, that’s your trouble.",
+      "src": "audio/pages/83/lines/010_monica_b48fdbb80dc_norm.mp3",
+      "duration": 2.601,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1355,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Yes, I am. Aren’t you lucky?",
+      "src": "audio/pages/83/lines/011_penny_cd8197df0b7_norm.mp3",
+      "duration": 1.765,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1356,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "They embrace.",
+      "src": "audio/pages/83/lines/012_director_d49c57e218b_norm.mp3",
+      "duration": 0.714,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1356,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I’m sorry.",
+      "src": "audio/pages/83/lines/013_penny_51bb702e4c4_norm.mp3",
+      "duration": 0.929,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1357,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I’m sorry, too.",
+      "src": "audio/pages/83/lines/014_monica_8ddc1734a32_norm.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1358,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I don’t mind about Parkes. I really don’t. I forgive you. Will you forgive me?",
+      "src": "audio/pages/83/lines/015_penny_f15fcbbf265_norm.mp3",
+      "duration": 6.827,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1359,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Don’t apologise. I did it first.",
+      "src": "audio/pages/83/lines/016_monica_223c98f6564_norm.mp3",
+      "duration": 1.718,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1360,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "You’re so understanding.",
+      "src": "audio/pages/83/lines/017_penny_3aa5eb708a7_norm.mp3",
+      "duration": 1.765,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 1361,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "So are you.",
+      "src": "audio/pages/83/lines/018_monica_415cbb3b304_norm.mp3",
+      "duration": 0.929,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 1362,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "I don’t understand anything.",
+      "src": "audio/pages/83/lines/019_rodney_a286b7e162c_norm.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 1363,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "My dear friend. I don’t deserve you.",
+      "src": "audio/pages/83/lines/020_penny_c8fccdf40d5_norm.mp3",
+      "duration": 2.554,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 1363,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Grabs RODNEY",
+      "src": "audio/pages/83/lines/021_director_cad7403723d_norm.mp3",
+      "duration": 0.781,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 1363,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "My other dear friend. I’m glad we only did it once. I’d rather keep the friendship.",
+      "src": "audio/pages/83/lines/022_penny_eb85f1c934f_norm.mp3",
+      "duration": 6.084,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 1363,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Grabs PIERCE",
+      "src": "audio/pages/83/lines/023_director_cd718084a7e_norm.mp3",
+      "duration": 0.711,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 1363,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "My dear, dear friends. We’re not going home!",
+      "src": "audio/pages/83/lines/024_penny_e12d73e70f7_norm.mp3",
+      "duration": 3.344,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    }
+  ]
+}

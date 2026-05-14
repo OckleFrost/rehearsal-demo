@@ -1,0 +1,273 @@
+{
+  "page": 84,
+  "title": "Caravan — Page 84",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1364,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "THE CARAVAN IS SINKING!!!!",
+      "src": "audio/pages/84/lines/001_parkes_b35d782d332_norm.mp3",
+      "duration": 1.533,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1365,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "What are you laughing at? It’s sinking into the mud!",
+      "src": "audio/pages/84/lines/002_parkes_6f244e25cb1_norm.mp3",
+      "duration": 2.554,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1366,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "We don’t want to go home!",
+      "src": "audio/pages/84/lines/003_penny_99a6081ad8a_norm.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1367,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "We’re having a lovely purge.",
+      "src": "audio/pages/84/lines/004_monica_63d1fa6e460_norm.mp3",
+      "duration": 1.625,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1368,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You don’t want to go home?",
+      "src": "audio/pages/84/lines/005_parkes_cd495e20db2_norm.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1368,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "A pause",
+      "src": "audio/pages/84/lines/006_director_a628a1669b9_norm.mp3",
+      "duration": 0.651,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1368,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I see. I didn’t want to go home. But you all wanted to go because of a little rain. So I said we’d go. Then you didn’t want to go. You wanted to stay and be nice. So I was nice. Which was very hard. Then you wanted to go again. Now the bloody caravan is sinking into the mud and you want to stay! I’ll never understand women.",
+      "src": "audio/pages/84/lines/007_parkes_b0a87ad1fb5_norm.mp3",
+      "duration": 19.505,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1369,
+      "speaker": "PENNY_MONICA",
+      "kind": "same_text_duet",
+      "text": "We don’t want to go home!",
+      "src": "audio/pages/84/lines/008_penny_monica_2fadf39_mix_norm.mp3",
+      "duration": 1.463,
+      "speed": null,
+      "voiceName": "MONICA + PENNY"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1369,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_after_parse_split",
+      "text": "All laugh.",
+      "src": "audio/pages/84/lines/009_director_b80d5c4163e_norm.mp3",
+      "duration": 0.71,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1370,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Right!",
+      "src": "audio/pages/84/lines/010_parkes_30458a5bb30_norm.mp3",
+      "duration": 0.65,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1370,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Becoming efficient",
+      "src": "audio/pages/84/lines/011_director_2029c5e9826_norm.mp3",
+      "duration": 0.805,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1370,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Now I’d like to try and get the caravan out of the mud. Can anybody help?",
+      "src": "audio/pages/84/lines/012_parkes_16a9ee2db10_norm.mp3",
+      "duration": 4.551,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1370,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "They all look at him",
+      "src": "audio/pages/84/lines/013_director_9ff6799d1fa_norm.mp3",
+      "duration": 0.776,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1370,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I didn’t think so. What a great idea this was.",
+      "src": "audio/pages/84/lines/014_parkes_e078f3fc571_norm.mp3",
+      "duration": 2.647,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1371,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "He exits.",
+      "src": "audio/pages/84/lines/015_director_f6a88588a6e_norm.mp3",
+      "duration": 0.744,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1371,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "to Monica",
+      "src": "audio/pages/84/lines/016_director_ffd379b1882_norm.mp3",
+      "duration": 0.66,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1371,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "There’s one thing I don’t understand. Why Parkes? If it had been Pierce, I would have understood.",
+      "src": "audio/pages/84/lines/017_penny_88189c1e762_norm.mp3",
+      "duration": 7.57,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 1372,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Been there, done that.",
+      "src": "audio/pages/84/lines/018_monica_0beb7a2214a_norm.mp3",
+      "duration": 1.486,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 1373,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Monica!",
+      "src": "audio/pages/84/lines/019_pierce_575c844a1d9_norm.mp3",
+      "duration": 0.882,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 1374,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "I didn’t know that!",
+      "src": "audio/pages/84/lines/020_rodney_7e23e5d4955_norm.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 1375,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You don’t know everything.",
+      "src": "audio/pages/84/lines/021_monica_0812f0f92b6_norm.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 1376,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Perhaps we should go home after all?",
+      "src": "audio/pages/84/lines/022_pierce_25beea9a17a_norm.mp3",
+      "duration": 2.09,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 1377,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "I don’t think I can forgive you for this, Pierce.",
+      "src": "audio/pages/84/lines/023_rodney_c9713311013_norm.mp3",
+      "duration": 2.043,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 1378,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Don’t be so hypocritical, Rodney!",
+      "src": "audio/pages/84/lines/024_monica_563ee66381e_norm.mp3",
+      "duration": 1.858,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    }
+  ]
+}

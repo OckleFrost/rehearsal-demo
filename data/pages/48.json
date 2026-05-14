@@ -1,0 +1,163 @@
+{
+  "page": 48,
+  "title": "Caravan — Page 48",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 759,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "There’s another one!",
+      "src": "audio/pages/48/lines/001_parkes_c2378405d7d_norm.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 760,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "He puts the bucket in a corner to catch a drip. MONICA, PENNY and RODNEY watch him with very bored expressions. Then they go back to their cards and book.",
+      "src": "audio/pages/48/lines/002_director_316b0542431_norm.mp3",
+      "duration": 5.773,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 760,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I’ll see you.",
+      "src": "audio/pages/48/lines/003_monica_f02d33ba9ac_norm.mp3",
+      "duration": 0.975,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 761,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Three nines.",
+      "src": "audio/pages/48/lines/004_penny_f0de9dd9af0_norm.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 762,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "That’s five drips.",
+      "src": "audio/pages/48/lines/005_parkes_727185c8b64_norm.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 763,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PARKES surveys the Caravan, looking for more drips.",
+      "src": "audio/pages/48/lines/006_director_37c6a22382d_norm.mp3",
+      "duration": 2.048,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 763,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Two Jacks, three Queens.",
+      "src": "audio/pages/48/lines/007_monica_5a321fe85ba_norm.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 763,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "PENNY pushes a pile of matches towards MONICA",
+      "src": "audio/pages/48/lines/008_director_e9338b4337b_norm.mp3",
+      "duration": 1.739,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 763,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You owe me six thousand dollars.",
+      "src": "audio/pages/48/lines/009_monica_8f73648253e_norm.mp3",
+      "duration": 1.858,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 764,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I can’t play cards. I never could.",
+      "src": "audio/pages/48/lines/010_penny_9db50194269_norm.mp3",
+      "duration": 1.997,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 765,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You’ll get better. There’s plenty of time.",
+      "src": "audio/pages/48/lines/011_monica_b1e2ae165ed_norm.mp3",
+      "duration": 2.09,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 766,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "This is a practically new caravan.",
+      "src": "audio/pages/48/lines/012_parkes_e7261b35b7d_norm.mp3",
+      "duration": 2.137,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 766,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "PENNY deals the cards",
+      "src": "audio/pages/48/lines/013_director_467e2b73672_norm.mp3",
+      "duration": 0.929,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 766,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Penny, did you hear me?",
+      "src": "audio/pages/48/lines/014_parkes_d8790ea891f_norm.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    }
+  ]
+}

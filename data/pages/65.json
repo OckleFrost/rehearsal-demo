@@ -1,0 +1,196 @@
+{
+  "page": 65,
+  "title": "Caravan — Page 65",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1040,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "But Penny....",
+      "src": "audio/pages/65/lines/001_parkes_f8d9f0bd2f4_norm.mp3",
+      "duration": 0.929,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1041,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "DON’T INTERRUPT!!! And for that week I don’t want to hear one nasty word from any of you. Do you hear? Not one word. I want everybody to be nice. I want a week of niceness. All right? No matter what. Or I’ll.....I’ll.... burn the caravan down!",
+      "src": "audio/pages/65/lines/002_penny_b9803d7a459_norm.mp3",
+      "duration": 19.644,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1041,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "She grabs an umbrella, raincoat and hat. She tries to regain some dignity.",
+      "src": "audio/pages/65/lines/003_director_e3bbcd91515_norm.mp3",
+      "duration": 3.231,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1041,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I am now going to take a cold shower and then I am going to bed. I don’t care where I sleep. Or with whom. As long as there are no arguments.",
+      "src": "audio/pages/65/lines/004_penny_92e037ee06f_norm.mp3",
+      "duration": 8.916,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1042,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "She exits into the twilight. Everybody stands transfixed.",
+      "src": "audio/pages/65/lines/005_director_72aecf419ba_norm.mp3",
+      "duration": 2.451,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1042,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I just wanted everybody to enjoy themselves.",
+      "src": "audio/pages/65/lines/006_parkes_efe2e88d2c6_norm.mp3",
+      "duration": 1.95,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1043,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "One hour later. It is pouring. The sound of thunder. PENNY, in nightdress and sweater, is sitting on the double bed, wine glass in hand and holding a wine cask. Noises off, as PARKES, PIERCE and RODNEY slop around in the flooded annex. PENNY tries to ignore them. SHE finishes her glass of wine and pours another.",
+      "src": "audio/pages/65/lines/007_director_3eb41cdfba9_norm.mp3",
+      "duration": 14.591,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1043,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "It’s getting worse.",
+      "src": "audio/pages/65/lines/008_pierce_a413e094de0_norm.mp3",
+      "duration": 1.486,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1044,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Don’t stand there worrying about the weather. Give me a hand.",
+      "src": "audio/pages/65/lines/009_parkes_aa75e28198f_norm.mp3",
+      "duration": 2.786,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1045,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "These sleeping bags are soaking wet.",
+      "src": "audio/pages/65/lines/010_rodney_580682809ec_norm.mp3",
+      "duration": 1.858,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1046,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Don’t worry about the sleeping bags. We’ve got enough to worry about.",
+      "src": "audio/pages/65/lines/011_parkes_4bdbbc8be1f_norm.mp3",
+      "duration": 2.972,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1047,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PARKES enters. He is wearing boots, raincoat and hat.",
+      "src": "audio/pages/65/lines/012_director_13f437fafdb_norm.mp3",
+      "duration": 2.049,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1047,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Nothing for it. I’ve got to take another bucket. If this keeps up the whole caravan will float off.",
+      "src": "audio/pages/65/lines/013_parkes_48fd1a4ea62_norm.mp3",
+      "duration": 5.341,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1047,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "He stops, realising he has uttered a complaint. PENNY eyes him coolly. He is immediately all smiles",
+      "src": "audio/pages/65/lines/014_director_16ea2fee84d_norm.mp3",
+      "duration": 5.143,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1047,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "But it doesn’t matter! It doesn’t matter! We’ll stick it out. No worries.",
+      "src": "audio/pages/65/lines/015_parkes_745173c010b_norm.mp3",
+      "duration": 3.111,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1047,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "He starts to tiptoe out. Stops and turns back",
+      "src": "audio/pages/65/lines/016_director_8e4cd32a8f4_norm.mp3",
+      "duration": 1.941,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1047,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You all right?",
+      "src": "audio/pages/65/lines/017_parkes_26590020ba4_norm.mp3",
+      "duration": 0.929,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    }
+  ]
+}

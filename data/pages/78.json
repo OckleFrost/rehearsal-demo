@@ -1,0 +1,273 @@
+{
+  "page": 78,
+  "title": "Caravan — Page 78",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1251,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "I knew that!",
+      "src": "audio/pages/78/lines/001_rodney_7401bf8ab9d_norm.mp3",
+      "duration": 0.882,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1252,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I didn’t!",
+      "src": "audio/pages/78/lines/002_penny_4e8009801dd_norm.mp3",
+      "duration": 0.882,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1253,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "You know you go round with your eyes shut, Penny.",
+      "src": "audio/pages/78/lines/003_rodney_355d32ea557_norm.mp3",
+      "duration": 2.322,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1254,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You don’t mind?",
+      "src": "audio/pages/78/lines/004_monica_f6d95e1abd0_norm.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1255,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/78/lines/005_director_f6cc1935563_norm.mp3",
+      "duration": 0.397,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1255,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "No, I don’t mind.",
+      "src": "audio/pages/78/lines/006_penny_44e5c3630b7_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1256,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You’re not just saying that?",
+      "src": "audio/pages/78/lines/007_monica_5fbd686bdce_norm.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1257,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "No, I don’t mind.",
+      "src": "audio/pages/78/lines/008_penny_44e5c3630b7_norm.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1258,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "I don’t mind, either.",
+      "src": "audio/pages/78/lines/009_rodney_d1155643228_norm.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1259,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "They ignore him",
+      "src": "audio/pages/78/lines/010_director_80066791188_norm.mp3",
+      "duration": 0.841,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1259,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You’re being very understanding. I thought you’d hate me.",
+      "src": "audio/pages/78/lines/011_monica_d8605fd76b2_norm.mp3",
+      "duration": 2.879,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1260,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I really don’t mind. When did it happen?",
+      "src": "audio/pages/78/lines/012_penny_c8be709f2fb_norm.mp3",
+      "duration": 2.183,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1261,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Oh, it’s so long ago… I don’t remember.",
+      "src": "audio/pages/78/lines/013_monica_94fe4d57d8c_norm.mp3",
+      "duration": 1.95,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1262,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "It’s not really something you’d forget, is it?",
+      "src": "audio/pages/78/lines/014_penny_fd8c227eeb5_norm.mp3",
+      "duration": 2.461,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1263,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Pierce’s birthday party. Four years ago. Under the hedge.",
+      "src": "audio/pages/78/lines/015_monica_6fb97c50420_norm.mp3",
+      "duration": 3.111,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1264,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "shocked",
+      "src": "audio/pages/78/lines/016_director_2c84637dbe5_norm.mp3",
+      "duration": 0.564,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1264,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "In front of the next door neighbour?",
+      "src": "audio/pages/78/lines/017_penny_863e06e3f0d_norm.mp3",
+      "duration": 2.229,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 1265,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "He was out. You did the same with Rodney.",
+      "src": "audio/pages/78/lines/018_monica_715237410f1_norm.mp3",
+      "duration": 2.137,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 1266,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Four years ago. Under the hedge. And you never told me.",
+      "src": "audio/pages/78/lines/019_penny_e1bf929268f_norm.mp3",
+      "duration": 3.994,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 1267,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Only once! Parkes wanted to again, of course...",
+      "src": "audio/pages/78/lines/020_monica_74af460ae90_norm.mp3",
+      "duration": 2.833,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 1268,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "What do you mean of course?",
+      "src": "audio/pages/78/lines/021_penny_12460305667_norm.mp3",
+      "duration": 1.579,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 1269,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I didn’t think it was fair to you. You’re sure you don’t mind?",
+      "src": "audio/pages/78/lines/022_monica_1e4915e5cca_norm.mp3",
+      "duration": 2.879,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 1270,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I don’t mind. I just wish you had told me before this. I wouldn’t have felt so guilty about Rodney.",
+      "src": "audio/pages/78/lines/023_penny_f3564d218aa_norm.mp3",
+      "duration": 6.316,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 1271,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You mind. I can tell.",
+      "src": "audio/pages/78/lines/024_monica_e689e0109f8_norm.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    }
+  ]
+}

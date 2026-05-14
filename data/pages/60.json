@@ -1,0 +1,262 @@
+{
+  "page": 60,
+  "title": "Caravan — Page 60",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 961,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Oh.",
+      "src": "audio/pages/60/lines/001_pierce_6ed34d51485_norm.mp3",
+      "duration": 0.604,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 962,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "No, no. You can have the double bed, Pierce.",
+      "src": "audio/pages/60/lines/002_penny_ee89a5cd2fe_norm.mp3",
+      "duration": 2.879,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 963,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Would you like the double bed, Gwendolyn?",
+      "src": "audio/pages/60/lines/003_monica_2617df41a1d_norm.mp3",
+      "duration": 1.858,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 964,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "GWENDOLYN giggles, looks at the floor.",
+      "src": "audio/pages/60/lines/004_director_35f3477b7d2_norm.mp3",
+      "duration": 1.369,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 964,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Yes she would. After five days of sleeping in that annexe, it’ll be paradise.",
+      "src": "audio/pages/60/lines/005_pierce_f028e99ea4c_norm.mp3",
+      "duration": 4.783,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 964,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "To Monica",
+      "src": "audio/pages/60/lines/006_director_106462ad68e_norm.mp3",
+      "duration": 0.623,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 964,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Watch out for funnel-webs. They always come out in the wet.",
+      "src": "audio/pages/60/lines/007_pierce_24cd330bb0e_norm.mp3",
+      "duration": 3.158,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 965,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "MONICA drinks her brandy again, quickly.",
+      "src": "audio/pages/60/lines/008_director_cc890bb28de_norm.mp3",
+      "duration": 1.672,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 965,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "You’ve used so much spray out there, Pierce. You must have killed everything by now.",
+      "src": "audio/pages/60/lines/009_penny_ff9e97bb6ee_norm.mp3",
+      "duration": 4.412,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 966,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Including us.",
+      "src": "audio/pages/60/lines/010_monica_7cbc950be7b_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 967,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Monica, your constant smoking in a confined space isn’t very pleasant, either.",
+      "src": "audio/pages/60/lines/011_pierce_cd735846846_norm.mp3",
+      "duration": 4.505,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 967,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "MONICA puts her cigarette out.",
+      "src": "audio/pages/60/lines/012_director_e0c38e087b9_norm.mp3",
+      "duration": 1.126,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 967,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Anyway, spraying is your problem tonight. All I’m saying is....",
+      "src": "audio/pages/60/lines/013_pierce_7d85f6853fc_norm.mp3",
+      "duration": 3.808,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 968,
+      "speaker": "PENNY_MONICA",
+      "kind": "same_text_duet",
+      "text": "It’s better to be safe than sorry. Yes, you’ve told us.",
+      "src": "audio/pages/60/lines/014_penny_monica_fb91d8f_mix_norm.mp3",
+      "duration": 3.762,
+      "speed": null,
+      "voiceName": "PENNY + MONICA"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 970,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PIERCE sighs and lies down again, with his eyes closed. MONICA and PENNY return to their cards. RODNEY runs in with his bucket and empties it. As he tries to exit, PARKES blocks the door.",
+      "src": "audio/pages/60/lines/015_director_3d0836ce2cb_norm.mp3",
+      "duration": 8.237,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 970,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Put the bucket back.",
+      "src": "audio/pages/60/lines/016_parkes_1862bda05d1_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 971,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "RODNEY does so. PARKES goes to the sink to wring out his cloth. RODNEY takes another bucket and runs out.",
+      "src": "audio/pages/60/lines/017_director_577b92f034f_norm.mp3",
+      "duration": 4.061,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 971,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Rodney!",
+      "src": "audio/pages/60/lines/018_parkes_7b33792819c_norm.mp3",
+      "duration": 0.743,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 972,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes, it’s only a bucket...",
+      "src": "audio/pages/60/lines/019_penny_c23fe5b909d_norm.mp3",
+      "duration": 1.533,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 973,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PARKES runs after RODNEY",
+      "src": "audio/pages/60/lines/020_director_14ff1ab5bf7_norm.mp3",
+      "duration": 1.021,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 973,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Ignore them.",
+      "src": "audio/pages/60/lines/021_monica_260901c09c3_norm.mp3",
+      "duration": 1.022,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 974,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "A pause. MONICA and PENNY play cards and become aware GWENDOLYN is watching over their shoulders, and beaming.",
+      "src": "audio/pages/60/lines/022_director_13190cf0862_norm.mp3",
+      "duration": 3.851,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 974,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Oh, don’t mind me.",
+      "src": "audio/pages/60/lines/023_gwendolyn_cb89d363a05_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    }
+  ]
+}

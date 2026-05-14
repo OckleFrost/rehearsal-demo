@@ -1,0 +1,229 @@
+{
+  "page": 75,
+  "title": "Caravan — Page 75",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1200,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "ever bright",
+      "src": "audio/pages/75/lines/001_director_b7259f121b9_norm.mp3",
+      "duration": 0.682,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1200,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Know? Know? Know what? What could you know?",
+      "src": "audio/pages/75/lines/002_penny_a2510e4d9cf_norm.mp3",
+      "duration": 3.762,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1201,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Oh, stop it! Tonight you stood up for yourself for the first time in your life. You even shut me up. So be honest now. What’s a husband between friends?",
+      "src": "audio/pages/75/lines/003_monica_820351f7188_norm.mp3",
+      "duration": 10.031,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1202,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Ha ha ha. Monica, now you’re going too far.",
+      "src": "audio/pages/75/lines/004_rodney_696c44d8d32_norm.mp3",
+      "duration": 2.276,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1203,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Don’t laugh like that, dear. I always know you’re about to lie when you laugh like that. Two weeks ago. Pierce’s birthday party. Under the hedge.",
+      "src": "audio/pages/75/lines/005_monica_b1309be59af_norm.mp3",
+      "duration": 9.149,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1204,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "aghast",
+      "src": "audio/pages/75/lines/006_director_5bc1a7eaef5_norm.mp3",
+      "duration": 0.586,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1204,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "You were watching?",
+      "src": "audio/pages/75/lines/007_penny_d6652fe4f88_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1205,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Of course, I wasn’t watching.",
+      "src": "audio/pages/75/lines/008_monica_6f91d92a786_norm.mp3",
+      "duration": 1.486,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1206,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "I wouldn’t put it past you.",
+      "src": "audio/pages/75/lines/009_rodney_097799bca5b_norm.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1207,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Why would I bother? I read the signals. When I heard you tell my husband that you had never had a deep and meaningful experience, I knew we were in for trouble.",
+      "src": "audio/pages/75/lines/010_monica_a6eb0b60080_norm.mp3",
+      "duration": 8.498,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1208,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "That’s a very nasty habit of yours, listening to other people’s conversations.",
+      "src": "audio/pages/75/lines/011_rodney_dce74a16b33_norm.mp3",
+      "duration": 3.622,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1209,
+      "speaker": "MONICA",
+      "kind": "spoken_parse_stage_split",
+      "text": "And when he said: “We’ll have to rectify that, won’t we?” I knew it was downhill all the way.",
+      "src": "audio/pages/75/lines/012_monica_ed7d25229a0_norm.mp3",
+      "duration": 7.012,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1209,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "GWENDOLYN snores.",
+      "src": "audio/pages/75/lines/013_director_4e2368dfd90_norm.mp3",
+      "duration": 0.913,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1209,
+      "speaker": "MONICA",
+      "kind": "spoken_parse_stage_split",
+      "text": "Gwendolyn is snoring. I don’t know if I’ll be able to take that all night. I’ll probably have to kill her. Mind you. I knew for certain when I heard what Pierce’s next door neighbour said.",
+      "src": "audio/pages/75/lines/014_monica_36f0d35e323_norm.mp3",
+      "duration": 13.375,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1210,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "aghast",
+      "src": "audio/pages/75/lines/015_director_5bc1a7eaef5_norm.mp3",
+      "duration": 0.586,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1210,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "He wasn’t watching!",
+      "src": "audio/pages/75/lines/016_penny_b379d5df1ab_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1211,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "He was! Yes. He said you made his Saturday night. Better than television. I was surprised. A Royal Wedding was on that night.",
+      "src": "audio/pages/75/lines/017_monica_70a72370a42_norm.mp3",
+      "duration": 8.498,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 1212,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "A pause.",
+      "src": "audio/pages/75/lines/018_director_20e502f1b4a_norm.mp3",
+      "duration": 0.683,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 1212,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I feel such a fool. Monica, I’m sorry. I don’t know how it happened.",
+      "src": "audio/pages/75/lines/019_penny_9ef5f742225_norm.mp3",
+      "duration": 5.759,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 1213,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Pen, I know how it happened. A few drinks and Rodney wants to give every woman a deep and meaningful.",
+      "src": "audio/pages/75/lines/020_monica_bdeeefe626a_norm.mp3",
+      "duration": 7.105,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    }
+  ]
+}

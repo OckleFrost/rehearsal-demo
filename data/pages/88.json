@@ -1,0 +1,207 @@
+{
+  "page": 88,
+  "title": "Caravan — Page 88",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1429,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Sssh! Listen!",
+      "src": "audio/pages/88/lines/001_parkes_77b87cbad56_norm.mp3",
+      "duration": 1.022,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1430,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "It’s stopped raining. It’s stopped raining! I’m going outside.",
+      "src": "audio/pages/88/lines/002_parkes_67720d5b0d9_norm.mp3",
+      "duration": 3.344,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1431,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Here’s to our holiday.",
+      "src": "audio/pages/88/lines/003_penny_2c03a115c04_norm.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1432,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "What’s left of it.",
+      "src": "audio/pages/88/lines/004_monica_c683ceba4bb_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1433,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Monica, don’t start!",
+      "src": "audio/pages/88/lines/005_penny_d3f71ab7183_norm.mp3",
+      "duration": 1.533,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1434,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "They laugh and drink.",
+      "src": "audio/pages/88/lines/006_director_86c0184a105_norm.mp3",
+      "duration": 0.844,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1434,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "And to friendship.",
+      "src": "audio/pages/88/lines/007_penny_39ccf86fe39_norm.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1435,
+      "speaker": "ALL",
+      "kind": "mixed_chorus",
+      "text": "To friendship!",
+      "src": "audio/pages/88/lines/008_all_d8e5898_mix_norm.mp3",
+      "duration": 1.465,
+      "speed": null,
+      "voiceName": "PENNY + MONICA + RODNEY + PARKES + PIERCE + GWENDOLYN"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1436,
+      "speaker": "PARKES",
+      "kind": "spoken_offstage",
+      "text": "Penny, he’s gone! We can have our spot back!",
+      "src": "audio/pages/88/lines/009_parkes_25f5ca4ad5a_norm.mp3",
+      "duration": 2.137,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1437,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Coming darling.",
+      "src": "audio/pages/88/lines/010_penny_6d132387a85_norm.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1438,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "He’s gone...",
+      "src": "audio/pages/88/lines/011_parkes_c14645ea2a3_norm.mp3",
+      "duration": 0.975,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1439,
+      "speaker": "ALL",
+      "kind": "mixed_chorus",
+      "text": "Mind your head!",
+      "src": "audio/pages/88/lines/012_all_7554543_mix_norm.mp3",
+      "duration": 1.418,
+      "speed": null,
+      "voiceName": "PENNY + MONICA + RODNEY + PARKES + PIERCE + GWENDOLYN"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1439,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_after_parse_split",
+      "text": "Too late. PARKES bumps his head.",
+      "src": "audio/pages/88/lines/013_director_81df7bb89fc_norm.mp3",
+      "duration": 1.456,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1440,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Bloody..bloody.....",
+      "src": "audio/pages/88/lines/014_parkes_080aec42c84_norm.mp3",
+      "duration": 1.486,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1441,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes!",
+      "src": "audio/pages/88/lines/015_penny_fb93e768d03_norm.mp3",
+      "duration": 0.836,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1442,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Lovely.",
+      "src": "audio/pages/88/lines/016_parkes_40e4d9aabed_norm.mp3",
+      "duration": 0.743,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1443,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "There you are, darling we’re going to have a lovely time.",
+      "src": "audio/pages/88/lines/017_penny_10c20d8a072_norm.mp3",
+      "duration": 3.576,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 1444,
+      "speaker": "ALL",
+      "kind": "mixed_chorus",
+      "text": "Lovely!",
+      "src": "audio/pages/88/lines/018_all_23f3edd_mix_norm.mp3",
+      "duration": 1.139,
+      "speed": null,
+      "voiceName": "PENNY + MONICA + RODNEY + PARKES + PIERCE + GWENDOLYN"
+    }
+  ]
+}

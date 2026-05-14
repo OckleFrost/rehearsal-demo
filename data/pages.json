@@ -1,21 +1,371 @@
 {
   "title": "Caravan Rehearsal Engine",
-  "version": "20260514-1938",
-  "defaultPage": 76,
+  "version": "20260514-1954",
+  "defaultPage": 21,
   "pages": [
+    {
+      "page": 21,
+      "title": "Page 21",
+      "act": "Act One",
+      "path": "data/pages/21.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 24,
+      "title": "Page 24",
+      "act": "Act One",
+      "path": "data/pages/24.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 25,
+      "title": "Page 25",
+      "act": "Act One",
+      "path": "data/pages/25.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 26,
+      "title": "Page 26",
+      "act": "Act One",
+      "path": "data/pages/26.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 39,
+      "title": "Page 39",
+      "act": "Act One",
+      "path": "data/pages/39.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 40,
+      "title": "Page 40",
+      "act": "Act One",
+      "path": "data/pages/40.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 41,
+      "title": "Page 41",
+      "act": "Act One",
+      "path": "data/pages/41.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 42,
+      "title": "Page 42",
+      "act": "Act One",
+      "path": "data/pages/42.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 43,
+      "title": "Page 43",
+      "act": "Act One",
+      "path": "data/pages/43.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 44,
+      "title": "Page 44",
+      "act": "Act One",
+      "path": "data/pages/44.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 45,
+      "title": "Page 45",
+      "act": "Act One",
+      "path": "data/pages/45.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 46,
+      "title": "Page 46",
+      "act": "Act One",
+      "path": "data/pages/46.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 47,
+      "title": "Page 47",
+      "act": "Act One",
+      "path": "data/pages/47.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 48,
+      "title": "Page 48",
+      "act": "Act Two",
+      "path": "data/pages/48.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 49,
+      "title": "Page 49",
+      "act": "Act Two",
+      "path": "data/pages/49.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 50,
+      "title": "Page 50",
+      "act": "Act Two",
+      "path": "data/pages/50.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 51,
+      "title": "Page 51",
+      "act": "Act Two",
+      "path": "data/pages/51.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 52,
+      "title": "Page 52",
+      "act": "Act Two",
+      "path": "data/pages/52.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 53,
+      "title": "Page 53",
+      "act": "Act Two",
+      "path": "data/pages/53.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 54,
+      "title": "Page 54",
+      "act": "Act Two",
+      "path": "data/pages/54.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 55,
+      "title": "Page 55",
+      "act": "Act Two",
+      "path": "data/pages/55.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 56,
+      "title": "Page 56",
+      "act": "Act Two",
+      "path": "data/pages/56.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 57,
+      "title": "Page 57",
+      "act": "Act Two",
+      "path": "data/pages/57.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 58,
+      "title": "Page 58",
+      "act": "Act Two",
+      "path": "data/pages/58.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 59,
+      "title": "Page 59",
+      "act": "Act Two",
+      "path": "data/pages/59.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 60,
+      "title": "Page 60",
+      "act": "Act Two",
+      "path": "data/pages/60.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 61,
+      "title": "Page 61",
+      "act": "Act Two",
+      "path": "data/pages/61.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 62,
+      "title": "Page 62",
+      "act": "Act Two",
+      "path": "data/pages/62.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 63,
+      "title": "Page 63",
+      "act": "Act Two",
+      "path": "data/pages/63.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 64,
+      "title": "Page 64",
+      "act": "Act Two",
+      "path": "data/pages/64.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 65,
+      "title": "Page 65",
+      "act": "Act Two",
+      "path": "data/pages/65.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 68,
+      "title": "Page 68",
+      "act": "Act Two",
+      "path": "data/pages/68.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 69,
+      "title": "Page 69",
+      "act": "Act Two",
+      "path": "data/pages/69.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 70,
+      "title": "Page 70",
+      "act": "Act Two",
+      "path": "data/pages/70.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 71,
+      "title": "Page 71",
+      "act": "Act Two",
+      "path": "data/pages/71.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 72,
+      "title": "Page 72",
+      "act": "Act Two",
+      "path": "data/pages/72.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 73,
+      "title": "Page 73",
+      "act": "Act Two",
+      "path": "data/pages/73.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 74,
+      "title": "Page 74",
+      "act": "Act Two",
+      "path": "data/pages/74.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 75,
+      "title": "Page 75",
+      "act": "Act Two",
+      "path": "data/pages/75.json",
+      "status": "provisional-existing-render"
+    },
     {
       "page": 76,
       "title": "Page 76",
       "act": "Act Two",
       "path": "data/pages/76.json",
-      "status": "verified-prototype"
+      "status": "provisional-existing-render"
     },
     {
       "page": 77,
       "title": "Page 77",
       "act": "Act Two",
       "path": "data/pages/77.json",
-      "status": "verified-prototype"
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 78,
+      "title": "Page 78",
+      "act": "Act Two",
+      "path": "data/pages/78.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 79,
+      "title": "Page 79",
+      "act": "Act Two",
+      "path": "data/pages/79.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 80,
+      "title": "Page 80",
+      "act": "Act Two",
+      "path": "data/pages/80.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 81,
+      "title": "Page 81",
+      "act": "Act Two",
+      "path": "data/pages/81.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 82,
+      "title": "Page 82",
+      "act": "Act Two",
+      "path": "data/pages/82.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 83,
+      "title": "Page 83",
+      "act": "Act Two",
+      "path": "data/pages/83.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 84,
+      "title": "Page 84",
+      "act": "Act Two",
+      "path": "data/pages/84.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 85,
+      "title": "Page 85",
+      "act": "Act Two",
+      "path": "data/pages/85.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 86,
+      "title": "Page 86",
+      "act": "Act Two",
+      "path": "data/pages/86.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 87,
+      "title": "Page 87",
+      "act": "Act Two",
+      "path": "data/pages/87.json",
+      "status": "provisional-existing-render"
+    },
+    {
+      "page": 88,
+      "title": "Page 88",
+      "act": "Act Two",
+      "path": "data/pages/88.json",
+      "status": "provisional-existing-render"
     }
   ]
 }

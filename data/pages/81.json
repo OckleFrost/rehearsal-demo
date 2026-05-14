@@ -1,0 +1,262 @@
+{
+  "page": 81,
+  "title": "Caravan — Page 81",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1311,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "How dare you sleep at a time like this!",
+      "src": "audio/pages/81/lines/001_monica_44b75b11ba2_norm.mp3",
+      "duration": 2.183,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1312,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "SHE pulls the sheet back and hits him savagely with a pillow.",
+      "src": "audio/pages/81/lines/002_director_0b38eb772c8_norm.mp3",
+      "duration": 1.985,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1312,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "waking",
+      "src": "audio/pages/81/lines/003_director_6a272c03f70_norm.mp3",
+      "duration": 0.556,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1312,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "What! What!",
+      "src": "audio/pages/81/lines/004_rodney_8c633198943_norm.mp3",
+      "duration": 0.789,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1313,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "What kind of friend are you?",
+      "src": "audio/pages/81/lines/005_penny_7281b0524f5_norm.mp3",
+      "duration": 1.533,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1314,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "What did I do now?",
+      "src": "audio/pages/81/lines/006_rodney_72bd9d3d819_norm.mp3",
+      "duration": 0.975,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1315,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Right. That’s it. I’m going home. The holiday is over. I wouldn’t stay in the same caravan as you.",
+      "src": "audio/pages/81/lines/007_penny_e0f31196625_norm.mp3",
+      "duration": 6.966,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1316,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Go home then. I’m not going. I’m going to stick this out to the bitter end.",
+      "src": "audio/pages/81/lines/008_monica_fb93cee2369_norm.mp3",
+      "duration": 3.762,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1317,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "She attempts to pour herself a glass of wine from the cask and misses the glass.",
+      "src": "audio/pages/81/lines/009_director_30b5b1f3798_norm.mp3",
+      "duration": 2.543,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1317,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Yes. I am going home.",
+      "src": "audio/pages/81/lines/010_penny_9927d324b65_norm.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1318,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Good.",
+      "src": "audio/pages/81/lines/011_monica_759064596eb_norm.mp3",
+      "duration": 0.65,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1319,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PARKES rushes in, followed by PIERCE.",
+      "src": "audio/pages/81/lines/012_director_58840002330_norm.mp3",
+      "duration": 1.588,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1319,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "to MONICA",
+      "src": "audio/pages/81/lines/013_director_1ba14c18869_norm.mp3",
+      "duration": 0.63,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1319,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You’re in here. Where have you two been? We’ve looked for you all over the place.",
+      "src": "audio/pages/81/lines/014_parkes_7d1d8e5cb1b_norm.mp3",
+      "duration": 3.994,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1320,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "They have been having a true confessions night. You have featured. Prominently.",
+      "src": "audio/pages/81/lines/015_rodney_4cc3c12b07f_norm.mp3",
+      "duration": 3.901,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1321,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Where have you been? Under a hedge?",
+      "src": "audio/pages/81/lines/016_penny_79534720483_norm.mp3",
+      "duration": 2.461,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1322,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "What are you talking about? I was having a shower. What hedge?",
+      "src": "audio/pages/81/lines/017_parkes_b2c40a57daa_norm.mp3",
+      "duration": 3.065,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 1323,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Don’t ask!",
+      "src": "audio/pages/81/lines/018_rodney_ec0fd4825b1_norm.mp3",
+      "duration": 0.836,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 1324,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PARKES realises.",
+      "src": "audio/pages/81/lines/019_director_d9886658883_norm.mp3",
+      "duration": 0.833,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 1324,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Monica! Have you...",
+      "src": "audio/pages/81/lines/020_parkes_7d06570079b_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 1325,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Yes. She has.",
+      "src": "audio/pages/81/lines/021_rodney_99a06a9e019_norm.mp3",
+      "duration": 0.789,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 1326,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Oh my God! That’s lovely! That’s bloody lovely. That’s really bloody lovely. Well that’s it, I suppose. That’s the end of the holiday..",
+      "src": "audio/pages/81/lines/022_parkes_5d33afa35d1_norm.mp3",
+      "duration": 7.988,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 1327,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh, there’s no need for you to go. I’m leaving.",
+      "src": "audio/pages/81/lines/023_penny_81b0532888e_norm.mp3",
+      "duration": 3.297,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    }
+  ]
+}

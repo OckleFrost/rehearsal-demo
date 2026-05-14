@@ -2,8 +2,8 @@
   "page": 76,
   "title": "Caravan — Page 76",
   "act": "Act Two",
-  "source": "accepted pages 68–77 render; corrected page boundary",
-  "defaultGapRole": "RODNEY",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
   "lines": [
     {
       "n": 1,
@@ -11,7 +11,7 @@
       "speaker": "RODNEY",
       "kind": "spoken",
       "text": "That’s not true! And would you mind not talking about me as though I weren’t here?",
-      "src": "audio/page76/lines/001_rodney_b5ae4d3d19a_norm.mp3",
+      "src": "audio/pages/76/lines/001_rodney_b5ae4d3d19a_norm.mp3",
       "duration": 3.808,
       "speed": null,
       "voiceName": "Ty Frost private clone"
@@ -22,10 +22,10 @@
       "speaker": "MONICA",
       "kind": "spoken",
       "text": "This is girls’ talk, darling.",
-      "src": "audio/page76/lines/002_monica_324fc3bfca1_norm.mp3",
+      "src": "audio/pages/76/lines/002_monica_324fc3bfca1_norm.mp3",
       "duration": 1.533,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Charlotte - Warm & Conversational"
     },
     {
       "n": 3,
@@ -33,10 +33,10 @@
       "speaker": "PENNY",
       "kind": "spoken",
       "text": "We want to compare notes.",
-      "src": "audio/page76/lines/003_penny_a02a4b01ae4_norm.mp3",
+      "src": "audio/pages/76/lines/003_penny_a02a4b01ae4_norm.mp3",
       "duration": 1.486,
       "speed": null,
-      "voiceName": null
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
       "n": 4,
@@ -44,7 +44,7 @@
       "speaker": "RODNEY",
       "kind": "spoken",
       "text": "Oh God!",
-      "src": "audio/page76/lines/004_rodney_c29d8b4907f_norm.mp3",
+      "src": "audio/pages/76/lines/004_rodney_c29d8b4907f_norm.mp3",
       "duration": 0.604,
       "speed": null,
       "voiceName": "Ty Frost private clone"
@@ -55,7 +55,7 @@
       "speaker": "DIRECTOR",
       "kind": "stage_direction_before",
       "text": "He pulls the sheet over his head and disappears.",
-      "src": "audio/page76/lines/005_director_3a98c1c0374_norm.mp3",
+      "src": "audio/pages/76/lines/005_director_3a98c1c0374_norm.mp3",
       "duration": 1.558,
       "speed": "1.5x",
       "voiceName": "Ockle Jane - Dry Wit"
@@ -66,10 +66,10 @@
       "speaker": "MONICA",
       "kind": "spoken",
       "text": "Go to sleep. We’ll wake you when we’re coming to bed.",
-      "src": "audio/page76/lines/006_monica_3ea44b0d972_norm.mp3",
+      "src": "audio/pages/76/lines/006_monica_3ea44b0d972_norm.mp3",
       "duration": 2.601,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Charlotte - Warm & Conversational"
     },
     {
       "n": 7,
@@ -77,7 +77,7 @@
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
       "text": "popping out for a moment",
-      "src": "audio/page76/lines/007_director_d43deba17e9_norm.mp3",
+      "src": "audio/pages/76/lines/007_director_d43deba17e9_norm.mp3",
       "duration": 0.927,
       "speed": "1.5x",
       "voiceName": "Ockle Jane - Dry Wit"
@@ -88,7 +88,7 @@
       "speaker": "RODNEY",
       "kind": "spoken_parse_wrap_fix",
       "text": "I wonder if you’ll be as honest in the morning when you’re sober.",
-      "src": "audio/page76/lines/008_rodney_838ff8483c5_norm.mp3",
+      "src": "audio/pages/76/lines/008_rodney_838ff8483c5_norm.mp3",
       "duration": 2.601,
       "speed": null,
       "voiceName": "Ty Frost private clone"
@@ -99,10 +99,10 @@
       "speaker": "PENNY",
       "kind": "spoken",
       "text": "You’re so understanding Monica. How can you be so understanding?",
-      "src": "audio/page76/lines/009_penny_51c2d61c98b_norm.mp3",
+      "src": "audio/pages/76/lines/009_penny_51c2d61c98b_norm.mp3",
       "duration": 3.994,
       "speed": null,
-      "voiceName": null
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
       "n": 10,
@@ -110,10 +110,10 @@
       "speaker": "MONICA",
       "kind": "spoken",
       "text": "Darling, I know it only happened once. There hasn’t really been the opportunity on this holiday. And now you know I know I’ve probably dampened your enthusiasm. You see, I’m not really nice, after all.",
-      "src": "audio/page76/lines/010_monica_1d8731a574a_norm.mp3",
+      "src": "audio/pages/76/lines/010_monica_1d8731a574a_norm.mp3",
       "duration": 14.303,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Charlotte - Warm & Conversational"
     },
     {
       "n": 11,
@@ -121,10 +121,10 @@
       "speaker": "PENNY",
       "kind": "spoken",
       "text": "You’re the nicest person I know! It did only happen once. It will never happen again.",
-      "src": "audio/page76/lines/011_penny_6694d3ff004_norm.mp3",
+      "src": "audio/pages/76/lines/011_penny_6694d3ff004_norm.mp3",
       "duration": 5.294,
       "speed": null,
-      "voiceName": null
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
       "n": 12,
@@ -132,10 +132,10 @@
       "speaker": "MONICA",
       "kind": "spoken",
       "text": "Daring, please don’t cry. I didn’t mean to upset you.",
-      "src": "audio/page76/lines/012_monica_108545ba5f7_norm.mp3",
+      "src": "audio/pages/76/lines/012_monica_108545ba5f7_norm.mp3",
       "duration": 2.647,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Charlotte - Warm & Conversational"
     },
     {
       "n": 13,
@@ -143,7 +143,7 @@
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
       "text": "Sitting up",
-      "src": "audio/page76/lines/013_director_2d970f554b2_norm.mp3",
+      "src": "audio/pages/76/lines/013_director_2d970f554b2_norm.mp3",
       "duration": 0.658,
       "speed": "1.5x",
       "voiceName": "Ockle Jane - Dry Wit"
@@ -154,7 +154,7 @@
       "speaker": "RODNEY",
       "kind": "spoken",
       "text": "You have upset her and you’ve upset me.",
-      "src": "audio/page76/lines/014_rodney_ee06507d457_norm.mp3",
+      "src": "audio/pages/76/lines/014_rodney_ee06507d457_norm.mp3",
       "duration": 2.137,
       "speed": null,
       "voiceName": "Ty Frost private clone"
@@ -165,10 +165,10 @@
       "speaker": "PENNY_MONICA",
       "kind": "same_text_duet",
       "text": "Go to sleep!",
-      "src": "audio/page76/lines/015_penny_monica_25beb4e_mix_norm.mp3",
+      "src": "audio/pages/76/lines/015_penny_monica_25beb4e_mix_norm.mp3",
       "duration": 1.068,
       "speed": null,
-      "voiceName": null
+      "voiceName": "PENNY + MONICA"
     },
     {
       "n": 16,
@@ -176,7 +176,7 @@
       "speaker": "RODNEY",
       "kind": "spoken_parse_stage_split",
       "text": "Chance would be a fine thing!",
-      "src": "audio/page76/lines/016_rodney_96a3c93f5b1_norm.mp3",
+      "src": "audio/pages/76/lines/016_rodney_96a3c93f5b1_norm.mp3",
       "duration": 1.533,
       "speed": null,
       "voiceName": "Ty Frost private clone"
@@ -187,7 +187,7 @@
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
       "text": "He disappears beneath the sheet",
-      "src": "audio/page76/lines/017_director_38ec72e7881_norm.mp3",
+      "src": "audio/pages/76/lines/017_director_38ec72e7881_norm.mp3",
       "duration": 1.211,
       "speed": "1.5x",
       "voiceName": "Ockle Jane - Dry Wit"
@@ -198,7 +198,7 @@
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
       "text": "to PENNY",
-      "src": "audio/page76/lines/018_director_0b7cf9928e3_norm.mp3",
+      "src": "audio/pages/76/lines/018_director_0b7cf9928e3_norm.mp3",
       "duration": 0.553,
       "speed": "1.5x",
       "voiceName": "Ockle Jane - Dry Wit"
@@ -209,10 +209,10 @@
       "speaker": "MONICA",
       "kind": "spoken",
       "text": "It doesn’t matter. It really doesn’t.",
-      "src": "audio/page76/lines/019_monica_e039ac0b7b9_norm.mp3",
+      "src": "audio/pages/76/lines/019_monica_e039ac0b7b9_norm.mp3",
       "duration": 1.672,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Charlotte - Warm & Conversational"
     },
     {
       "n": 20,
@@ -220,10 +220,10 @@
       "speaker": "GWENDOLYN",
       "kind": "spoken",
       "text": "We should rise above the body! Whee, I’m levitating!",
-      "src": "audio/page76/lines/020_gwendolyn_fadbce750c3_norm.mp3",
+      "src": "audio/pages/76/lines/020_gwendolyn_fadbce750c3_norm.mp3",
       "duration": 2.694,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Lily - Velvety Actress"
     },
     {
       "n": 21,
@@ -231,10 +231,10 @@
       "speaker": "MONICA",
       "kind": "spoken",
       "text": "Our friendship is what’s important.",
-      "src": "audio/page76/lines/021_monica_1d6f78deade_norm.mp3",
+      "src": "audio/pages/76/lines/021_monica_1d6f78deade_norm.mp3",
       "duration": 1.904,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Charlotte - Warm & Conversational"
     },
     {
       "n": 22,
@@ -242,10 +242,10 @@
       "speaker": "PENNY",
       "kind": "spoken_parse_stage_split",
       "text": "You’re a really beautiful person.",
-      "src": "audio/page76/lines/022_penny_4e652d3889a_norm.mp3",
+      "src": "audio/pages/76/lines/022_penny_4e652d3889a_norm.mp3",
       "duration": 2.09,
       "speed": null,
-      "voiceName": null
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
       "n": 23,
@@ -253,7 +253,7 @@
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
       "text": "Wailing",
-      "src": "audio/page76/lines/023_director_fe00b53cde4_norm.mp3",
+      "src": "audio/pages/76/lines/023_director_fe00b53cde4_norm.mp3",
       "duration": 0.684,
       "speed": "1.5x",
       "voiceName": "Ockle Jane - Dry Wit"
@@ -264,10 +264,10 @@
       "speaker": "PENNY",
       "kind": "spoken_parse_stage_split",
       "text": "How could I have done it to you?",
-      "src": "audio/page76/lines/024_penny_e9845d0af09_norm.mp3",
+      "src": "audio/pages/76/lines/024_penny_e9845d0af09_norm.mp3",
       "duration": 1.904,
       "speed": null,
-      "voiceName": null
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
       "n": 25,
@@ -275,7 +275,7 @@
       "speaker": "RODNEY",
       "kind": "spoken",
       "text": "I’m trying to sleep! If there’s anything I hate, its women crying.",
-      "src": "audio/page76/lines/025_rodney_9af6ad80dc3_norm.mp3",
+      "src": "audio/pages/76/lines/025_rodney_9af6ad80dc3_norm.mp3",
       "duration": 3.437,
       "speed": null,
       "voiceName": "Ty Frost private clone"
@@ -286,7 +286,7 @@
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
       "text": "hitting him with a pillow",
-      "src": "audio/page76/lines/026_director_09cdea2a0d3_norm.mp3",
+      "src": "audio/pages/76/lines/026_director_09cdea2a0d3_norm.mp3",
       "duration": 0.78,
       "speed": "1.5x",
       "voiceName": "Ockle Jane - Dry Wit"
@@ -297,10 +297,10 @@
       "speaker": "PENNY",
       "kind": "spoken_parse_stage_split",
       "text": "Oh you! It’s all your fault. How could you do that to Monica? She’s the nicest person I know.",
-      "src": "audio/page76/lines/027_penny_fb536cfc1d9_norm.mp3",
+      "src": "audio/pages/76/lines/027_penny_fb536cfc1d9_norm.mp3",
       "duration": 6.177,
       "speed": null,
-      "voiceName": null
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     }
   ]
 }

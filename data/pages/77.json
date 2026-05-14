@@ -2,8 +2,8 @@
   "page": 77,
   "title": "Caravan — Page 77",
   "act": "Act Two",
-  "source": "accepted pages 68–77 render; verified neighbouring page for selector/auto-next testing",
-  "defaultGapRole": "RODNEY",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
   "lines": [
     {
       "n": 1,
@@ -25,7 +25,7 @@
       "src": "audio/pages/77/lines/002_monica_082335b7be0_norm.mp3",
       "duration": 6.827,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Charlotte - Warm & Conversational"
     },
     {
       "n": 3,
@@ -36,7 +36,7 @@
       "src": "audio/pages/77/lines/003_penny_7068f77c149_norm.mp3",
       "duration": 6.362,
       "speed": null,
-      "voiceName": null
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
       "n": 4,
@@ -47,7 +47,7 @@
       "src": "audio/pages/77/lines/004_monica_5fc083dd5ea_norm.mp3",
       "duration": 1.254,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Charlotte - Warm & Conversational"
     },
     {
       "n": 5,
@@ -58,7 +58,7 @@
       "src": "audio/pages/77/lines/005_gwendolyn_568839b8af5_norm.mp3",
       "duration": 2.786,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Lily - Velvety Actress"
     },
     {
       "n": 6,
@@ -80,7 +80,7 @@
       "src": "audio/pages/77/lines/007_gwendolyn_388dcbdd9d1_norm.mp3",
       "duration": 0.789,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Lily - Velvety Actress"
     },
     {
       "n": 8,
@@ -91,7 +91,7 @@
       "src": "audio/pages/77/lines/008_penny_e4efaf9a2f7_norm.mp3",
       "duration": 9.056,
       "speed": null,
-      "voiceName": null
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
       "n": 9,
@@ -113,7 +113,7 @@
       "src": "audio/pages/77/lines/010_monica_a2555509499_norm.mp3",
       "duration": 0.743,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Charlotte - Warm & Conversational"
     },
     {
       "n": 11,
@@ -124,7 +124,7 @@
       "src": "audio/pages/77/lines/011_penny_b504a740ff5_norm.mp3",
       "duration": 1.115,
       "speed": null,
-      "voiceName": null
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
       "n": 12,
@@ -135,7 +135,7 @@
       "src": "audio/pages/77/lines/012_monica_5d3c546af73_norm.mp3",
       "duration": 1.115,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Charlotte - Warm & Conversational"
     },
     {
       "n": 13,
@@ -146,7 +146,7 @@
       "src": "audio/pages/77/lines/013_penny_b9b1f54abbd_norm.mp3",
       "duration": 0.975,
       "speed": null,
-      "voiceName": null
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
       "n": 14,
@@ -157,7 +157,7 @@
       "src": "audio/pages/77/lines/014_monica_14f56a430d2_norm.mp3",
       "duration": 1.393,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Charlotte - Warm & Conversational"
     },
     {
       "n": 15,
@@ -179,7 +179,7 @@
       "src": "audio/pages/77/lines/016_penny_f555f88e2ee_norm.mp3",
       "duration": 0.697,
       "speed": null,
-      "voiceName": null
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
       "n": 17,
@@ -190,7 +190,7 @@
       "src": "audio/pages/77/lines/017_monica_d85f06bfb09_norm.mp3",
       "duration": 11.796,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Charlotte - Warm & Conversational"
     },
     {
       "n": 18,
@@ -201,7 +201,7 @@
       "src": "audio/pages/77/lines/018_penny_77443ca4c8a_norm.mp3",
       "duration": 1.115,
       "speed": null,
-      "voiceName": null
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
       "n": 19,
@@ -223,7 +223,7 @@
       "src": "audio/pages/77/lines/020_penny_59081569225_norm.mp3",
       "duration": 1.347,
       "speed": null,
-      "voiceName": null
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
       "n": 21,
@@ -234,7 +234,7 @@
       "src": "audio/pages/77/lines/021_monica_c1988678caf_norm.mp3",
       "duration": 2.926,
       "speed": null,
-      "voiceName": null
+      "voiceName": "Charlotte - Warm & Conversational"
     }
   ]
 }

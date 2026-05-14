@@ -1,0 +1,229 @@
+{
+  "page": 21,
+  "title": "Caravan — Page 21",
+  "act": "Act One",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 280,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "They all stand, beaming, waiting. PIERCE appears at the door. He is late thirties, but looks younger. A swinging bachelor who doesn’t want to grow old. Responsibilities and commitments have not touched him, as they have his friends. He is still a child.",
+      "src": "audio/pages/21/lines/001_director_7a54d07a633_norm.mp3",
+      "duration": 10.994,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 280,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Hi! Sorry I’m late.",
+      "src": "audio/pages/21/lines/002_pierce_cb1d310d089_norm.mp3",
+      "duration": 1.765,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 281,
+      "speaker": "ALL",
+      "kind": "chorus_adlib",
+      "text": "Mind your head!!",
+      "src": "audio/pages/21/lines/003_all_chorus_adlib_mix.mp3",
+      "duration": 1.386,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute + KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM + Charlotte - Warm & Conversational + Dave - Expressive Australian English"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 281,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_after_all",
+      "text": "Too late. PIERCE leaps around in pain.",
+      "src": "audio/pages/21/lines/004_director_3d3e98816f1_norm.mp3",
+      "duration": 1.618,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 282,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Shit! Shit! Shit!",
+      "src": "audio/pages/21/lines/005_pierce_ca3778f32a9_norm.mp3",
+      "duration": 1.904,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 283,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Get him a drink.",
+      "src": "audio/pages/21/lines/006_monica_f49f47754e1_norm.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 284,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "No, no, I’m all right. I’m all right. Shit! I’m all right. God, the pain! No, really, I’m all right. Shit!",
+      "src": "audio/pages/21/lines/007_pierce_68e3801df7c_norm.mp3",
+      "duration": 6.734,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 285,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "He subsides. PENNY gives him a drink.",
+      "src": "audio/pages/21/lines/008_director_4fd1cec0868_norm.mp3",
+      "duration": 1.485,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 285,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Where’s the girlfriend?",
+      "src": "audio/pages/21/lines/009_parkes_a4eaf1371a1_norm.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 286,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Gwendolyn’s out there. Now, look, she’s feeling very shy. I want you to try and make her feel at home.",
+      "src": "audio/pages/21/lines/010_pierce_b08f2b97758_norm.mp3",
+      "duration": 5.48,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 287,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "They all look at each other.",
+      "src": "audio/pages/21/lines/011_director_e00a98b04f8_norm.mp3",
+      "duration": 1.081,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 287,
+      "speaker": "ALL",
+      "kind": "chorus_adlib",
+      "text": "Of course. We’ll try.",
+      "src": "audio/pages/21/lines/012_all_chorus_adlib_mix.mp3",
+      "duration": 1.342,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute + KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM + Charlotte - Warm & Conversational + Dave - Expressive Australian English"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 288,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "We’re very much in love.",
+      "src": "audio/pages/21/lines/013_pierce_73d35fd6509_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 289,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "That’s what you said about the last six.",
+      "src": "audio/pages/21/lines/014_monica_00bc70a0dfd_norm.mp3",
+      "duration": 1.672,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 290,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "You don’t understand, Monica. This is different. This is it. And I’d appreciate it if you’d try and make her feel at home. Treat her as one of us. She’s very shy, and she’s not used to mixing with older people.",
+      "src": "audio/pages/21/lines/015_pierce_1b89229f74a_norm.mp3",
+      "duration": 12.446,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 291,
+      "speaker": "ALL",
+      "kind": "chorus_adlib",
+      "text": "Older people!!! What do you mean?",
+      "src": "audio/pages/21/lines/016_all_chorus_adlib_mix.mp3",
+      "duration": 1.665,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute + KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM + Charlotte - Warm & Conversational + Dave - Expressive Australian English"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 292,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "She’s very young.",
+      "src": "audio/pages/21/lines/017_pierce_3212112d18e_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 293,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "A long pause.",
+      "src": "audio/pages/21/lines/018_director_8aa8eaa4d54_norm.mp3",
+      "duration": 0.845,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 293,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "How young?",
+      "src": "audio/pages/21/lines/019_monica_1238eb5d6cf_norm.mp3",
+      "duration": 0.975,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 294,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Twenty two.",
+      "src": "audio/pages/21/lines/020_pierce_c9ab90a1b89_norm.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "James"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "page": 87,
+  "title": "Caravan — Page 87",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1415,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "panicking",
+      "src": "audio/pages/87/lines/001_director_5674ade5980_norm.mp3",
+      "duration": 0.491,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1415,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Don’t panic. Where’s a stick. I need a stick.",
+      "src": "audio/pages/87/lines/002_parkes_2b50817129a_norm.mp3",
+      "duration": 2.415,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1416,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Don’t worry about a stick. You must get me to a hospital.",
+      "src": "audio/pages/87/lines/003_pierce_b8b3c6c4dd6_norm.mp3",
+      "duration": 3.111,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1417,
+      "speaker": "RODNEY",
+      "kind": "spoken_parse_stage_split",
+      "text": "Quick! Wrap a tourniquet around his ankle. Stop the blood spreading.",
+      "src": "audio/pages/87/lines/004_rodney_1ccc2e571b7_norm.mp3",
+      "duration": 3.344,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1417,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "PENNY and MONICA try to rip the sheet from the bed.",
+      "src": "audio/pages/87/lines/005_director_66ca6a0c958_norm.mp3",
+      "duration": 1.831,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1417,
+      "speaker": "RODNEY",
+      "kind": "spoken_parse_stage_split",
+      "text": "Which toe is it?",
+      "src": "audio/pages/87/lines/006_rodney_03125103a3c_norm.mp3",
+      "duration": 1.022,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1418,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "How do I know which toe? I’m going to die. I’m probably going to die. Everything’s going black.",
+      "src": "audio/pages/87/lines/007_pierce_629cff11db4_norm.mp3",
+      "duration": 5.944,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1419,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Careful Parkes. What is it?",
+      "src": "audio/pages/87/lines/008_rodney_3cb0676f5b7_norm.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1420,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Penny’s sleeping mask.",
+      "src": "audio/pages/87/lines/009_parkes_ed966b02520_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1421,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Hi Ho Silver!",
+      "src": "audio/pages/87/lines/010_penny_bef4eeb5613_norm.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1422,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "It’s not funny. I got a shock.",
+      "src": "audio/pages/87/lines/011_pierce_9ec7f08b0f7_norm.mp3",
+      "duration": 2.137,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1423,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Let’s all have a drink.",
+      "src": "audio/pages/87/lines/012_parkes_62068995c9c_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1424,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Sings",
+      "src": "audio/pages/87/lines/013_director_719afa8062c_norm.mp3",
+      "duration": 0.564,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1424,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Lovely little Piercie. Looks thirty six, but is really forty...",
+      "src": "audio/pages/87/lines/014_gwendolyn_581bd009e89_norm.mp3",
+      "duration": 4.04,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1425,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Gwendolyn, shut up.",
+      "src": "audio/pages/87/lines/015_pierce_64b593020a4_norm.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1426,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I think I’m going to wet my pants.",
+      "src": "audio/pages/87/lines/016_penny_a7be3ae54a3_norm.mp3",
+      "duration": 2.183,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1427,
+      "speaker": "PARKES",
+      "kind": "spoken_parse_stage_split",
+      "text": "Stop it, you two.",
+      "src": "audio/pages/87/lines/017_parkes_59679ab6a2d_norm.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 1427,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Renewed shrieking.",
+      "src": "audio/pages/87/lines/018_director_f7e2b10e44d_norm.mp3",
+      "duration": 0.843,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 1427,
+      "speaker": "PARKES",
+      "kind": "spoken_parse_stage_split",
+      "text": "Cheers.",
+      "src": "audio/pages/87/lines/019_parkes_8a56d26ad01_norm.mp3",
+      "duration": 0.789,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 1427,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_after_parse_split",
+      "text": "Even PIERCE begins to smile.",
+      "src": "audio/pages/87/lines/020_director_fd0f7610f2f_norm.mp3",
+      "duration": 1.302,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 1428,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Cheers. It could have been a funnel-web.....",
+      "src": "audio/pages/87/lines/021_pierce_831486b0ac6_norm.mp3",
+      "duration": 2.276,
+      "speed": null,
+      "voiceName": "James"
+    }
+  ]
+}

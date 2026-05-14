@@ -1,0 +1,273 @@
+{
+  "page": 59,
+  "title": "Caravan — Page 59",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 945,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "RODNEY takes a bucket, as PARKES enters again with his cloth.",
+      "src": "audio/pages/59/lines/001_director_a6053c9347d_norm.mp3",
+      "duration": 2.054,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 945,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Put the bucket back. It’s there to catch the drips. The water will ruin the laminex.",
+      "src": "audio/pages/59/lines/002_parkes_1d8e56674eb_norm.mp3",
+      "duration": 4.319,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 946,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "RODNEY puts the bucket back, reluctantly.",
+      "src": "audio/pages/59/lines/003_director_6728d193d1d_norm.mp3",
+      "duration": 1.419,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 946,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Monica and I are being forced to sleep in the annexe.",
+      "src": "audio/pages/59/lines/004_rodney_3d6b0937fa1_norm.mp3",
+      "duration": 2.508,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 947,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "cheerily",
+      "src": "audio/pages/59/lines/005_director_4098c883d7b_norm.mp3",
+      "duration": 0.595,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 947,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "We tossed for it.",
+      "src": "audio/pages/59/lines/006_pierce_b32a127237e_norm.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 948,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "We will not sleep in there unless it’s dry.",
+      "src": "audio/pages/59/lines/007_rodney_f7376a7897b_norm.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 949,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I’m cleaning it up for you!",
+      "src": "audio/pages/59/lines/008_parkes_4cd77ddfb54_norm.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 950,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "RODNEY picks up the bucket again.",
+      "src": "audio/pages/59/lines/009_director_8c38e9cd3f5_norm.mp3",
+      "duration": 1.179,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 950,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Put the bucket back!",
+      "src": "audio/pages/59/lines/010_parkes_232e4644e51_norm.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 951,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Oh, put a glass under it for God’s sake! It’s only a drip!",
+      "src": "audio/pages/59/lines/011_rodney_9802a5f87c5_norm.mp3",
+      "duration": 2.926,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 952,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Five drips! We are leaking!",
+      "src": "audio/pages/59/lines/012_parkes_bced9b30b32_norm.mp3",
+      "duration": 1.625,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 953,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "If I have to sleep in a puddle, you can sleep in a drip.",
+      "src": "audio/pages/59/lines/013_rodney_66da3816e78_norm.mp3",
+      "duration": 2.508,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 954,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "He defiantly takes the bucket, dodges PARKES and runs out. PARKES furiously puts a glass under the drip.",
+      "src": "audio/pages/59/lines/014_director_6c6f8c7a35b_norm.mp3",
+      "duration": 4.216,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 954,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "It’s all right for you. I worked hard to buy this caravan. Rodney! Put the bucket back!",
+      "src": "audio/pages/59/lines/015_parkes_45c810307da_norm.mp3",
+      "duration": 3.947,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 955,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes, please don’t lose your temper.",
+      "src": "audio/pages/59/lines/016_penny_bd23f8382fc_norm.mp3",
+      "duration": 2.137,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 956,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PARKES runs out. Noises off as they argue and try to clean up.",
+      "src": "audio/pages/59/lines/017_director_0a93369b694_norm.mp3",
+      "duration": 2.597,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 956,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "I hope you won’t mind the annexe, Monica?",
+      "src": "audio/pages/59/lines/018_gwendolyn_155fd5a7374_norm.mp3",
+      "duration": 1.904,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 957,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "MONICA wordlessly gulps down her brandy.",
+      "src": "audio/pages/59/lines/019_director_2af0825a619_norm.mp3",
+      "duration": 1.475,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 957,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Monica, we’ll sleep in the annexe.",
+      "src": "audio/pages/59/lines/020_penny_c279c57045f_norm.mp3",
+      "duration": 2.554,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 958,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "No, I wouldn’t hear of it. We’ve had the double bed for a week.",
+      "src": "audio/pages/59/lines/021_monica_080552889d8_norm.mp3",
+      "duration": 2.647,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 959,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "hopefully",
+      "src": "audio/pages/59/lines/022_director_b6b43f5eef5_norm.mp3",
+      "duration": 0.436,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 959,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Can we have the double bed?",
+      "src": "audio/pages/59/lines/023_pierce_465c32ca7ed_norm.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 960,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "No you can’t! It’s Penny and Parkes’ turn.",
+      "src": "audio/pages/59/lines/024_monica_cc9a96d3dfe_norm.mp3",
+      "duration": 2.09,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    }
+  ]
+}

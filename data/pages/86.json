@@ -1,0 +1,196 @@
+{
+  "page": 86,
+  "title": "Caravan — Page 86",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1398,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "I hope I look as good as you when I’m that old.",
+      "src": "audio/pages/86/lines/001_gwendolyn_69b19e49809_norm.mp3",
+      "duration": 2.461,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1399,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I hate her.",
+      "src": "audio/pages/86/lines/002_penny_d94ccfd439f_norm.mp3",
+      "duration": 1.022,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1400,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "You’ve succeeded in making us all feel very old. Thank you, Gwendolyn.",
+      "src": "audio/pages/86/lines/003_pierce_0bc50089ed1_norm.mp3",
+      "duration": 4.226,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1401,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "But you’re so experienced Piercie, Come to bed and we’ll make lovely, passionate lovely love.",
+      "src": "audio/pages/86/lines/004_gwendolyn_378185594bd_norm.mp3",
+      "duration": 6.455,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1402,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "No, we won’t. You’re very young, Gwendolyn. I’m going to sleep.",
+      "src": "audio/pages/86/lines/005_pierce_252f28628cf_norm.mp3",
+      "duration": 3.344,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1403,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "But I feel very uninhibited.",
+      "src": "audio/pages/86/lines/006_gwendolyn_573279533c0_norm.mp3",
+      "duration": 1.765,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1404,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "She’s making up for three years in an ashram.",
+      "src": "audio/pages/86/lines/007_monica_7f3b3904d5e_norm.mp3",
+      "duration": 2.043,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1405,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "We can’t go home even if we wanted to. The cars are stuck in the mud.",
+      "src": "audio/pages/86/lines/008_parkes_31352ba948d_norm.mp3",
+      "duration": 3.762,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1406,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Don’t worry, darling. We’re having a wonderful time.",
+      "src": "audio/pages/86/lines/009_penny_c4b333e512f_norm.mp3",
+      "duration": 3.529,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1407,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "We’re having a lovely purge.",
+      "src": "audio/pages/86/lines/010_monica_63d1fa6e460_norm.mp3",
+      "duration": 1.625,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1408,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I think I’ll get drunk.",
+      "src": "audio/pages/86/lines/011_parkes_bd5850331d2_norm.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1409,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "I think I’ll join you.",
+      "src": "audio/pages/86/lines/012_rodney_a3e3378679c_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1410,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Aaaaah…",
+      "src": "audio/pages/86/lines/013_pierce_c1ce3f894a6_norm.mp3",
+      "duration": 0.836,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1411,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "What is it?",
+      "src": "audio/pages/86/lines/014_parkes_82e614c07a3_norm.mp3",
+      "duration": 0.789,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1412,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I don’t know. Something in the bed. Shit. It might be a funnel-web. If it is, it’s bitten me. I’m sure it’s bitten me.",
+      "src": "audio/pages/86/lines/015_pierce_7ec939bbe88_norm.mp3",
+      "duration": 7.338,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1413,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Oh Pierce. No!",
+      "src": "audio/pages/86/lines/016_gwendolyn_9c9af74d43d_norm.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1414,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Oh my God. Feel my pulse. I’ve gone white. Have I gone white?",
+      "src": "audio/pages/86/lines/017_pierce_71d6edbb583_norm.mp3",
+      "duration": 3.715,
+      "speed": null,
+      "voiceName": "James"
+    }
+  ]
+}

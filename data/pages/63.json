@@ -1,0 +1,273 @@
+{
+  "page": 63,
+  "title": "Caravan — Page 63",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1012,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "She runs at him. PARKES backs away.",
+      "src": "audio/pages/63/lines/001_director_6fd0dfbbf20_norm.mp3",
+      "duration": 1.813,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1012,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "What about what you did to me last week!",
+      "src": "audio/pages/63/lines/002_parkes_451b5966d78_norm.mp3",
+      "duration": 2.09,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1013,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I’ll do it again if you’re not careful!",
+      "src": "audio/pages/63/lines/003_monica_559f72a5f36_norm.mp3",
+      "duration": 2.276,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1014,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PARKES backs away further.",
+      "src": "audio/pages/63/lines/004_director_d9d1c0bd4ce_norm.mp3",
+      "duration": 0.989,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1014,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Yes, you would, wouldn’t you? You’ve done nothing but pick, pick, pick since you got here. You’ve made the whole holiday a misery for everybody.",
+      "src": "audio/pages/63/lines/005_parkes_ea4b95e1d04_norm.mp3",
+      "duration": 7.43,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1015,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "outraged",
+      "src": "audio/pages/63/lines/006_director_c0f96e01189_norm.mp3",
+      "duration": 0.674,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1015,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I’ve made the holiday a misery! Oh, that’s wonderful. That’s really wonderful.",
+      "src": "audio/pages/63/lines/007_monica_d39717fa8a7_norm.mp3",
+      "duration": 4.598,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1015,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "At the top of her voice",
+      "src": "audio/pages/63/lines/008_director_937c0703477_norm.mp3",
+      "duration": 0.962,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1015,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I’ve put up with your banalities for fifteen years! Year after year we pussyfoot around you, placate you, and give into you. Just so we won’t have your vile temper inflicted on us. You’ve got poor Penny terrified out of her wits all the time.",
+      "src": "audio/pages/63/lines/009_monica_484c3e999fc_norm.mp3",
+      "duration": 19.319,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1015,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "She clutches a bewildered PENNY to her side",
+      "src": "audio/pages/63/lines/010_director_a67ec4e6a49_norm.mp3",
+      "duration": 1.643,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1015,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "She never knows when you’re going to erupt. My God, if it wasn’t for me she’d be in a loony bin. That’s the only reason I’ve come on this holiday. For her sake! You think I’d let myself be enclosed in a small space with you? For fun!!!",
+      "src": "audio/pages/63/lines/011_monica_826cd7e25e2_norm.mp3",
+      "duration": 17.137,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1016,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Monica, please.....",
+      "src": "audio/pages/63/lines/012_rodney_cdb977302fc_norm.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1017,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Oh shut up, Rodney. You’re no use, either.",
+      "src": "audio/pages/63/lines/013_monica_d6048a14e2d_norm.mp3",
+      "duration": 2.183,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1018,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Now look, calm down everybody....",
+      "src": "audio/pages/63/lines/014_pierce_a338e9b7ced_norm.mp3",
+      "duration": 1.95,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1019,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "It’s all right for you, isn’t it? You lie on your bum all the time while I clean up for you. You never even offer to help. You haven’t done a thing since you got here.",
+      "src": "audio/pages/63/lines/015_parkes_99850547759_norm.mp3",
+      "duration": 8.498,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1020,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I didn’t come here to work! This was supposed to be a holiday! Anyway, I just don’t think any of you are behaving well in front of Gwendolyn.",
+      "src": "audio/pages/63/lines/016_pierce_d29ded64d46_norm.mp3",
+      "duration": 7.477,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1021,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Oh, that’s all right.",
+      "src": "audio/pages/63/lines/017_gwendolyn_16027566da3_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 1022,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "She giggles, shakes her head.",
+      "src": "audio/pages/63/lines/018_director_483498765ca_norm.mp3",
+      "duration": 1.274,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 1022,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "PISS OFF, GWENDOLYN!",
+      "src": "audio/pages/63/lines/019_monica_ed7dab93df5_norm.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 1023,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Oh!",
+      "src": "audio/pages/63/lines/020_gwendolyn_f9780f9877c_norm.mp3",
+      "duration": 0.604,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 1023,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Her smile fades",
+      "src": "audio/pages/63/lines/021_director_d2f7a2ffe2a_norm.mp3",
+      "duration": 0.814,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 1024,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Right! That’s it! We’re going home.",
+      "src": "audio/pages/63/lines/022_pierce_468e9b64100_norm.mp3",
+      "duration": 2.276,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 1025,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Good. I think we should all go home.",
+      "src": "audio/pages/63/lines/023_monica_7ca139805cb_norm.mp3",
+      "duration": 1.858,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 1026,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Oh, that’s bloody lovely. You all want to go home now?",
+      "src": "audio/pages/63/lines/024_parkes_e60c74ba817_norm.mp3",
+      "duration": 2.694,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    }
+  ]
+}

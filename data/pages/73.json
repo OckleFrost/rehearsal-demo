@@ -1,0 +1,240 @@
+{
+  "page": 73,
+  "title": "Caravan — Page 73",
+  "act": "Act Two",
+  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1172,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "He holds the sheet up. She puts it back and lies on the blanket. RODNEY suddenly kisses her. She pulls away.",
+      "src": "audio/pages/73/lines/001_director_dc925e79a59_norm.mp3",
+      "duration": 5.326,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1172,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Rodney, don’t start something you can’t finish! You’re not fait….",
+      "src": "audio/pages/73/lines/002_penny_089b596db79_norm.mp3",
+      "duration": 4.365,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1173,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "He kisses her again and she succumbs.",
+      "src": "audio/pages/73/lines/003_director_d4973c7ccf5_norm.mp3",
+      "duration": 1.389,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1173,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh Rodney. Rodney. Darling, darling.",
+      "src": "audio/pages/73/lines/004_penny_1ffd17b059d_norm.mp3",
+      "duration": 3.669,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1174,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Darling, darling, darling.",
+      "src": "audio/pages/73/lines/005_rodney_2a03f53e69f_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1175,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "They sink into each other.",
+      "src": "audio/pages/73/lines/006_director_0f40e826e1c_norm.mp3",
+      "duration": 1.153,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1175,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Oh, my God. It’s a flood!",
+      "src": "audio/pages/73/lines/007_monica_7a012f4e09f_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1176,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PENNY and RODNEY sit up.",
+      "src": "audio/pages/73/lines/008_director_157e37c200f_norm.mp3",
+      "duration": 0.99,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1176,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "whispering",
+      "src": "audio/pages/73/lines/009_director_bf8fbdc105f_norm.mp3",
+      "duration": 0.615,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1176,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I knew this would happen!",
+      "src": "audio/pages/73/lines/010_penny_8fce0ca9acb_norm.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1177,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Shhh!",
+      "src": "audio/pages/73/lines/011_rodney_d9446beafc7_norm.mp3",
+      "duration": 0.511,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1178,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "He picks up his book.",
+      "src": "audio/pages/73/lines/012_director_811c4a75f68_norm.mp3",
+      "duration": 0.901,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1178,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "We would have been all right in the car.",
+      "src": "audio/pages/73/lines/013_penny_092c42966c9_norm.mp3",
+      "duration": 2.183,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1179,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Shhh!",
+      "src": "audio/pages/73/lines/014_rodney_d9446beafc7_norm.mp3",
+      "duration": 0.65,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1180,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "There is a loud splash outside and noises of wading.",
+      "src": "audio/pages/73/lines/015_director_33219b0d3a9_norm.mp3",
+      "duration": 1.988,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1180,
+      "speaker": "MONICA",
+      "kind": "spoken_offstage",
+      "text": "Gwendolyn, you’re not in the caravan yet, dear. This is the annexe. Come on. Just a little further. Come on.",
+      "src": "audio/pages/73/lines/016_monica_85d039cb0c3_norm.mp3",
+      "duration": 5.526,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1180,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_after_parse_split",
+      "text": "Loud giggles from GWENDOLYN. MONICA and GWENDOLYN stagger into the caravan.",
+      "src": "audio/pages/73/lines/017_director_ef09deebffe_norm.mp3",
+      "duration": 3.001,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 1181,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "They wear raincoats and hats. They have their nightdresses under the coats. They are obviously drunk. GWENDOLYN more than MONICA because she’s not used to it. MONICA supports her. GWENDOYN bumps her head on the door frame.",
+      "src": "audio/pages/73/lines/018_director_9df06657f1e_norm.mp3",
+      "duration": 9.753,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 1181,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Oh! Head bumpy.",
+      "src": "audio/pages/73/lines/019_gwendolyn_7e9294440a0_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 1181,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "She sinks to the floor",
+      "src": "audio/pages/73/lines/020_director_f05259b217d_norm.mp3",
+      "duration": 0.932,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 1181,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "I think I’ll just have a lovely little lie down.",
+      "src": "audio/pages/73/lines/021_gwendolyn_0e3700b10bb_norm.mp3",
+      "duration": 2.508,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    }
+  ]
+}
