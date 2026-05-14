@@ -1,0 +1,310 @@
+{
+  "page": 12,
+  "title": "Caravan — Page 12",
+  "act": "Act One",
+  "source": "newly rendered early-page rehearsal audio; generated for app coverage; needs final display-copy QA before export",
+  "status": "provisional-new-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 129,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Oh, I’m sure it will work itself out in time.",
+      "src": "audio/pages/12/lines/001_rodney_afa2264e2fa21dc2_norm.mp3",
+      "duration": 2.322,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 130,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I’m sure it will. I don’t want you to feel I’m making any demands on you. If there’s one thing I’ve learned in fifteen years of marriage, it’s not to make demands.",
+      "src": "audio/pages/12/lines/002_penny_7629201bc7c1524e_norm.mp3",
+      "duration": 11.099,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 130,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Moving closer to him",
+      "src": "audio/pages/12/lines/003_director_53d2ebbcb9356c87_norm.mp3",
+      "duration": 0.896,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 130,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Do you think we might make love while we’re here? There are sand hills on the beach, and it’s a very long beach.",
+      "src": "audio/pages/12/lines/004_penny_71c4233fcf2675a7_norm.mp3",
+      "duration": 6.966,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 131,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "She moves against him seductively.",
+      "src": "audio/pages/12/lines/005_director_d1418e8ace5a11d8_norm.mp3",
+      "duration": 1.259,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 131,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Penny. You surprise me. You really surprise me.",
+      "src": "audio/pages/12/lines/006_rodney_15eaa76a3989923d_norm.mp3",
+      "duration": 2.415,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 132,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "It’s best to be honest, isn’t it?",
+      "src": "audio/pages/12/lines/007_penny_0ea9d8eed42da0fc_norm.mp3",
+      "duration": 1.858,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 133,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "They embrace again. This time RODNEY responds passionately.",
+      "src": "audio/pages/12/lines/008_director_8ecca688c3c0693f_norm.mp3",
+      "duration": 2.775,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 133,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Oh darling.",
+      "src": "audio/pages/12/lines/009_rodney_2108048a7bc7eb70_norm.mp3",
+      "duration": 0.836,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 134,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh darling, darling.",
+      "src": "audio/pages/12/lines/010_penny_60e5a67f7a68fefb_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 135,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Darling, darling, darling.",
+      "src": "audio/pages/12/lines/011_rodney_5a1a12a03f53e69f_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 136,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Darling, darling, darling.",
+      "src": "audio/pages/12/lines/012_penny_afa0a7c18a6edab7_norm.mp3",
+      "duration": 1.486,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 137,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "They eat each other.",
+      "src": "audio/pages/12/lines/013_director_74619070b7693e05_norm.mp3",
+      "duration": 0.992,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 137,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Yoohoo!",
+      "src": "audio/pages/12/lines/014_monica_8387745d9e0a7cb6_norm.mp3",
+      "duration": 0.743,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 138,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "They spring apart guiltily. The door opens and MONICA RICE appears. She is tall, elegant, sophisticated. She is bored most of the time, and usually takes it out on her friends.",
+      "src": "audio/pages/12/lines/015_director_612740c3c74a1402_norm.mp3",
+      "duration": 10.37,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 138,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "What have you got the door shut for?",
+      "src": "audio/pages/12/lines/016_monica_cbd5773ec7a928d6_norm.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 139,
+      "speaker": "PENNY_RODNEY",
+      "kind": "same_text_duet",
+      "text": "Mind your head!",
+      "src": "audio/pages/12/lines/017_penny_rodney_b6e24fed3bcf8a9d_mix_norm.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "PENNY + RODNEY",
+      "chorusVoices": [
+        "PENNY",
+        "RODNEY"
+      ]
+    },
+    {
+      "n": 18,
+      "sourceEntry": 140,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "What?",
+      "src": "audio/pages/12/lines/018_monica_7af00da94ab34512_norm.mp3",
+      "duration": 0.511,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 140,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Bumping her head",
+      "src": "audio/pages/12/lines/019_director_7f1544fb94ef1cf7_norm.mp3",
+      "duration": 0.741,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 140,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Aaaah!",
+      "src": "audio/pages/12/lines/020_monica_35f15bf4098e4a73_norm.mp3",
+      "duration": 0.882,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 141,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Monica?",
+      "src": "audio/pages/12/lines/021_penny_a5a1366feb45f4c4_norm.mp3",
+      "duration": 0.836,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 142,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Aaaah!",
+      "src": "audio/pages/12/lines/022_monica_35f15bf4098e4a73_norm.mp3",
+      "duration": 0.557,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 143,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Monica?",
+      "src": "audio/pages/12/lines/023_rodney_36df2a77082504c6_norm.mp3",
+      "duration": 0.743,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 144,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Aaaah!",
+      "src": "audio/pages/12/lines/024_monica_35f15bf4098e4a73_norm.mp3",
+      "duration": 0.604,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 25,
+      "sourceEntry": 144,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Almost weeping with pain.",
+      "src": "audio/pages/12/lines/025_director_f60f48d886c153cf_norm.mp3",
+      "duration": 1.031,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 26,
+      "sourceEntry": 144,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Why didn’t you tell me?",
+      "src": "audio/pages/12/lines/026_monica_f5c844ac59ea6f06_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 27,
+      "sourceEntry": 145,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "We did tell you.",
+      "src": "audio/pages/12/lines/027_penny_579342bf3890dd55_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    }
+  ]
+}

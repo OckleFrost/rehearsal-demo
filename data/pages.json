@@ -1,8 +1,106 @@
 {
   "title": "Caravan Rehearsal Engine",
-  "version": "20260514-1954",
-  "defaultPage": 21,
+  "version": "20260514-2046",
+  "defaultPage": 7,
   "pages": [
+    {
+      "page": 7,
+      "title": "Page 7",
+      "act": "Act One",
+      "path": "data/pages/7.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 8,
+      "title": "Page 8",
+      "act": "Act One",
+      "path": "data/pages/8.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 9,
+      "title": "Page 9",
+      "act": "Act One",
+      "path": "data/pages/9.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 10,
+      "title": "Page 10",
+      "act": "Act One",
+      "path": "data/pages/10.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 11,
+      "title": "Page 11",
+      "act": "Act One",
+      "path": "data/pages/11.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 12,
+      "title": "Page 12",
+      "act": "Act One",
+      "path": "data/pages/12.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 13,
+      "title": "Page 13",
+      "act": "Act One",
+      "path": "data/pages/13.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 14,
+      "title": "Page 14",
+      "act": "Act One",
+      "path": "data/pages/14.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 15,
+      "title": "Page 15",
+      "act": "Act One",
+      "path": "data/pages/15.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 16,
+      "title": "Page 16",
+      "act": "Act One",
+      "path": "data/pages/16.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 17,
+      "title": "Page 17",
+      "act": "Act One",
+      "path": "data/pages/17.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 18,
+      "title": "Page 18",
+      "act": "Act One",
+      "path": "data/pages/18.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 19,
+      "title": "Page 19",
+      "act": "Act One",
+      "path": "data/pages/19.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 20,
+      "title": "Page 20",
+      "act": "Act One",
+      "path": "data/pages/20.json",
+      "status": "provisional-new-render"
+    },
     {
       "page": 21,
       "title": "Page 21",

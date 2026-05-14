@@ -1,0 +1,245 @@
+{
+  "page": 16,
+  "title": "Caravan — Page 16",
+  "act": "Act One",
+  "source": "newly rendered early-page rehearsal audio; generated for app coverage; needs final display-copy QA before export",
+  "status": "provisional-new-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 198,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "embarrassed",
+      "src": "audio/pages/16/lines/001_director_c4e2b56cbcc78d34_norm.mp3",
+      "duration": 0.704,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 198,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "There won’t be anything like that going on, will there?",
+      "src": "audio/pages/16/lines/002_penny_c138a2f7279b9c07_norm.mp3",
+      "duration": 2.554,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 199,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "RODNEY is also embarrassed.",
+      "src": "audio/pages/16/lines/003_director_925a2fdd726a4251_norm.mp3",
+      "duration": 1.178,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 199,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "What! You not only lock me away in the Never-Never, you expect me not to touch my husband. I thought this was supposed to be a holiday?",
+      "src": "audio/pages/16/lines/004_monica_f54c43d6e236151e_norm.mp3",
+      "duration": 8.034,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 200,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Monica, don’t go on.",
+      "src": "audio/pages/16/lines/005_rodney_ca9c576d09fb01f3_norm.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 201,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "These things are very important when you’re confined in a small space. I’m noisy. Rodney’s very noisy.",
+      "src": "audio/pages/16/lines/006_monica_e87995e5f4ce5b91_norm.mp3",
+      "duration": 5.666,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 202,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Really? I didn’t know that.",
+      "src": "audio/pages/16/lines/007_penny_f2bf1273e722aff7_norm.mp3",
+      "duration": 1.486,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 203,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You wouldn’t, would you?",
+      "src": "audio/pages/16/lines/008_monica_f175e26c61b8fccd_norm.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 204,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Monica, you never know when you’ve gone too far. We’ll sleep in the tent.",
+      "src": "audio/pages/16/lines/009_rodney_6d1d3de51da7a579_norm.mp3",
+      "duration": 3.39,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 205,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Don’t be ridiculous. I’m not sleeping in a tent. There might be dingoes.",
+      "src": "audio/pages/16/lines/010_monica_303ddac8ad622567_norm.mp3",
+      "duration": 4.18,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 206,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "This isn’t the outback.",
+      "src": "audio/pages/16/lines/011_rodney_11bd6cb2696253c2_norm.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 207,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "It’s outback enough for me. I intend to have what little comfort is available. I’ll sleep in a bed, thank you. If you’re so keen on the tent, sleep in it with someone else. Do you want to sleep with Rodney in the tent, Penny?",
+      "src": "audio/pages/16/lines/012_monica_254932442488c9e7_norm.mp3",
+      "duration": 14.629,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 208,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PENNY and RODNEY try to cover their embarrassment.",
+      "src": "audio/pages/16/lines/013_director_d87014aad78bc70b_norm.mp3",
+      "duration": 1.87,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 208,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "It’s a joke, Rodney. God, you should be used to my sense of humour by now. We’ve been married long enough. There’s no need to look so worried. Penny wouldn’t touch you. He’d be quite safe with you, wouldn’t he, darling?",
+      "src": "audio/pages/16/lines/014_monica_9ce3a01aae1edd76_norm.mp3",
+      "duration": 13.282,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 209,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/16/lines/015_director_99850f6cc1935563_norm.mp3",
+      "duration": 0.397,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 209,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I think I’ll have a drink.",
+      "src": "audio/pages/16/lines/016_penny_1dddbfd2976926b2_norm.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 210,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "I think I’ll join you.",
+      "src": "audio/pages/16/lines/017_rodney_31dc3a3e3378679c_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 211,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Goodie! That’s more like it.",
+      "src": "audio/pages/16/lines/018_monica_122bdc8356df83d9_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 212,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PARKES enters, beaming.",
+      "src": "audio/pages/16/lines/019_director_29216ba11b729e79_norm.mp3",
+      "duration": 0.901,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 212,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Hello, hello, hello.",
+      "src": "audio/pages/16/lines/020_parkes_20b39d6ec02d0977_norm.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 213,
+      "speaker": "PENNY_RODNEY_MONICA",
+      "kind": "same_text_trio",
+      "text": "Mind your head!",
+      "src": "audio/pages/16/lines/021_penny_rodney_monica_08b3c343e2849617_mix_norm.mp3",
+      "duration": 1.255,
+      "speed": null,
+      "voiceName": "PENNY + RODNEY + MONICA",
+      "chorusVoices": [
+        "PENNY",
+        "RODNEY",
+        "MONICA"
+      ]
+    }
+  ]
+}

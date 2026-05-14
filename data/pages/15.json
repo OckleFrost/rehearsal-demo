@@ -1,0 +1,262 @@
+{
+  "page": 15,
+  "title": "Caravan — Page 15",
+  "act": "Act One",
+  "source": "newly rendered early-page rehearsal audio; generated for app coverage; needs final display-copy QA before export",
+  "status": "provisional-new-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 179,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Did you get someone to look after them?",
+      "src": "audio/pages/15/lines/001_penny_a66f7dc6accd6b2e_norm.mp3",
+      "duration": 2.043,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 180,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "The next door neighbour. But Clarissa will pine and Ralph wouldn’t speak to me. If he sulks he won’t eat. I wish I could have brought them with me.",
+      "src": "audio/pages/15/lines/002_monica_2d09b87e7a25aaa1_norm.mp3",
+      "duration": 7.338,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 181,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "You would have had to lock them in the car.",
+      "src": "audio/pages/15/lines/003_penny_bf178937210ca96c_norm.mp3",
+      "duration": 2.229,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 182,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "And Ralph would have peed everywhere. I’m very glad you didn’t bring them.",
+      "src": "audio/pages/15/lines/004_rodney_a5454a99a69d96ec_norm.mp3",
+      "duration": 3.019,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 183,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You have no paternal instincts.",
+      "src": "audio/pages/15/lines/005_monica_678c69c1013e5718_norm.mp3",
+      "duration": 1.765,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 184,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "They’re only cats for God’s sake!",
+      "src": "audio/pages/15/lines/006_rodney_2e215188330f5cb7_norm.mp3",
+      "duration": 1.95,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 185,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "They may be only cats to you, Rodney, but to me, they are little people with coats on.",
+      "src": "audio/pages/15/lines/007_monica_75ab723f9e61accd_norm.mp3",
+      "duration": 4.226,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 185,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Pause",
+      "src": "audio/pages/15/lines/008_director_42c82360f0c227d7_norm.mp3",
+      "duration": 0.59,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 185,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Where do we sleep?",
+      "src": "audio/pages/15/lines/009_monica_4d4497826c6989a0_norm.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 186,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "quickly",
+      "src": "audio/pages/15/lines/010_director_bcc445b1f3914a07_norm.mp3",
+      "duration": 0.553,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 186,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "In the annexe.",
+      "src": "audio/pages/15/lines/011_rodney_969f1e515c27279b_norm.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 187,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "What’s that?",
+      "src": "audio/pages/15/lines/012_monica_381201da9dd9a3bb_norm.mp3",
+      "duration": 0.789,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 188,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "It’s a tent. Four in here. And two in a tent.",
+      "src": "audio/pages/15/lines/013_penny_aa90846034b7f408_norm.mp3",
+      "duration": 3.437,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 189,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "We sleep in the tent.",
+      "src": "audio/pages/15/lines/014_rodney_ae30b7432df8a822_norm.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 190,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "horrified",
+      "src": "audio/pages/15/lines/015_director_ffa314c53ef447a5_norm.mp3",
+      "duration": 0.498,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 190,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "In a tent! You must be mad. Why can’t we sleep in here?",
+      "src": "audio/pages/15/lines/016_monica_c57d30bd513160b0_norm.mp3",
+      "duration": 2.786,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 191,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Um....ah.....",
+      "src": "audio/pages/15/lines/017_penny_049ecf5c4af125dd_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 192,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Surely we can sleep in here with Penny and Parkes? It will be fun. We can laugh and talk the night away, like in boarding school.",
+      "src": "audio/pages/15/lines/018_monica_b599eb67d5680ac1_norm.mp3",
+      "duration": 8.173,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 193,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Monica, you never went to boarding school.",
+      "src": "audio/pages/15/lines/019_penny_3061a647fe6fc787_norm.mp3",
+      "duration": 2.601,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 194,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "It’s what I imagine boarding school would be like. Or prison. I hope you’re not noisy.",
+      "src": "audio/pages/15/lines/020_monica_f14fc321a7b341d8_norm.mp3",
+      "duration": 4.83,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 195,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I don’t snore, if that’s what you mean.",
+      "src": "audio/pages/15/lines/021_penny_63830874c466661c_norm.mp3",
+      "duration": 2.137,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 196,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Monica, don’t be disgusting.",
+      "src": "audio/pages/15/lines/022_rodney_a69c4e51b2bd2834_norm.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 197,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You don’t know people until you live with them, Rodney. But I’m willing to take a risk. Penny, please let me sleep in the caravan. I won’t listen or look at you and Parkes, I promise. And you’re not to look and listen to us.",
+      "src": "audio/pages/15/lines/023_monica_e6875d9818b1f458_norm.mp3",
+      "duration": 14.582,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    }
+  ]
+}

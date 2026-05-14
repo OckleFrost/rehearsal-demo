@@ -1,0 +1,273 @@
+{
+  "page": 18,
+  "title": "Caravan — Page 18",
+  "act": "Act One",
+  "source": "newly rendered early-page rehearsal audio; generated for app coverage; needs final display-copy QA before export",
+  "status": "provisional-new-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 228,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I can’t wait to see you naked on the beach.",
+      "src": "audio/pages/18/lines/001_parkes_a5e50928eaca6880_norm.mp3",
+      "duration": 2.043,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 229,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "He attempts to touch her again. She grabs his groin. He backs away very quickly.",
+      "src": "audio/pages/18/lines/002_director_e02f1b1504e1e6ab_norm.mp3",
+      "duration": 3.107,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 229,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Hey! Go easy!",
+      "src": "audio/pages/18/lines/003_parkes_05c75f1081e64b76_norm.mp3",
+      "duration": 1.022,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 230,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You won’t be seeing any part of me on the beach. I don’t go in the sun.",
+      "src": "audio/pages/18/lines/004_monica_a40d9d47c985f689_norm.mp3",
+      "duration": 3.715,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 231,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You can wear a hat. You won’t get to see me naked unless you do.",
+      "src": "audio/pages/18/lines/005_parkes_e19c855d588f9334_norm.mp3",
+      "duration": 3.344,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 232,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Oh go on. You flash that tired old body anywhere and everywhere.",
+      "src": "audio/pages/18/lines/006_monica_85823892798dbcd7_norm.mp3",
+      "duration": 3.39,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 233,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PARKES pulls down his shorts to show his naked bottom.",
+      "src": "audio/pages/18/lines/007_director_fa4d99d84f535854_norm.mp3",
+      "duration": 1.953,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 233,
+      "speaker": "PARKES",
+      "kind": "spoken_parse_stage_split",
+      "text": "Sneak preview!",
+      "src": "audio/pages/18/lines/008_parkes_0b77be5aaa2d1267_norm.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 233,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_after_parse_split",
+      "text": "MONICA, PENNY and RODNEY find it completely unappealing.",
+      "src": "audio/pages/18/lines/009_director_4ca96e8a3ea52975_norm.mp3",
+      "duration": 2.164,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 234,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Thank you.",
+      "src": "audio/pages/18/lines/010_monica_8ae9fb4662c0dd53_norm.mp3",
+      "duration": 0.929,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 234,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "He grabs her bottom. She hits him away.",
+      "src": "audio/pages/18/lines/011_director_9f687697fc29829e_norm.mp3",
+      "duration": 1.735,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 234,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Parkes please don’t do that......",
+      "src": "audio/pages/18/lines/012_monica_33c56d1be1a20e1e_norm.mp3",
+      "duration": 1.533,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 235,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "changing the subject",
+      "src": "audio/pages/18/lines/013_director_3fa1a887f9ce2b77_norm.mp3",
+      "duration": 0.669,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 235,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Where’s Pierce?",
+      "src": "audio/pages/18/lines/014_rodney_d332873563242045_norm.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 236,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "He should be here at any moment.",
+      "src": "audio/pages/18/lines/015_penny_7aaedd21b59273f0_norm.mp3",
+      "duration": 1.858,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 237,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "He’s bringing somebody with him.",
+      "src": "audio/pages/18/lines/016_parkes_d9ac6b8736abff5c_norm.mp3",
+      "duration": 1.579,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 238,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "loudly",
+      "src": "audio/pages/18/lines/017_director_8afefc3469ffe706_norm.mp3",
+      "duration": 0.583,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 238,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Who?!!",
+      "src": "audio/pages/18/lines/018_rodney_ae5c0babc3cb7e0d_norm.mp3",
+      "duration": 0.604,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 239,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "We couldn’t ask him not to.",
+      "src": "audio/pages/18/lines/019_penny_615f6c5464f4e9b1_norm.mp3",
+      "duration": 1.718,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 240,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Why not? It’s supposed to be a holiday for just us.",
+      "src": "audio/pages/18/lines/020_monica_52bae8ad5344888b_norm.mp3",
+      "duration": 2.786,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 241,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Who’s he bringing?",
+      "src": "audio/pages/18/lines/021_rodney_498fd9d2d5f607d8_norm.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 242,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "His new girlfriend.",
+      "src": "audio/pages/18/lines/022_penny_5888e9df0d8164bc_norm.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 243,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Not another one! Oh hell. We only invited him on this holiday because we felt sorry for him after he’d broken up with that Norwegian person. Yodie...Yokie...Wolvie. Whatever her name was.",
+      "src": "audio/pages/18/lines/023_monica_663461c9a52930a0_norm.mp3",
+      "duration": 15.139,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 244,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Yolanda.",
+      "src": "audio/pages/18/lines/024_penny_2c4732603c5637d4_norm.mp3",
+      "duration": 0.975,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    }
+  ]
+}

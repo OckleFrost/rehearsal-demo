@@ -1,0 +1,262 @@
+{
+  "page": 20,
+  "title": "Caravan — Page 20",
+  "act": "Act One",
+  "source": "newly rendered early-page rehearsal audio; generated for app coverage; needs final display-copy QA before export",
+  "status": "provisional-new-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 263,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Won’t it make it rather hard for you and Penny in single bunks? If you’re at it all the time, that is.",
+      "src": "audio/pages/20/lines/001_monica_11d910341e348e58_norm.mp3",
+      "duration": 5.759,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 264,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "laughing over-heartily.",
+      "src": "audio/pages/20/lines/002_director_18a6bf4168444929_norm.mp3",
+      "duration": 0.732,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 264,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "We’ll manage.",
+      "src": "audio/pages/20/lines/003_parkes_898ca3310fdc3b67_norm.mp3",
+      "duration": 0.929,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 265,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I’m sure we will.",
+      "src": "audio/pages/20/lines/004_penny_6546f1d9ffe6c93a_norm.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 266,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "That’s settled then. Rodney and I will take the double bed. I think it’s really boring of Pierce to bring a girlfriend along.",
+      "src": "audio/pages/20/lines/005_monica_350b162ef03e3ae7_norm.mp3",
+      "duration": 6.594,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 267,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "It might be nice to have someone new. We’re all so incestuous together...",
+      "src": "audio/pages/20/lines/006_penny_0238bae44c7fe3be_norm.mp3",
+      "duration": 4.783,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 267,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "She falters, looks at RODNEY",
+      "src": "audio/pages/20/lines/007_director_a88182ebb826ca49_norm.mp3",
+      "duration": 1.461,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 267,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": ".....I mean, it’s the poor girl I feel sorry for. You mustn’t exclude her now.",
+      "src": "audio/pages/20/lines/008_penny_23e538bb466af6bb_norm.mp3",
+      "duration": 5.898,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 268,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "She’ll have to take us as she finds us.",
+      "src": "audio/pages/20/lines/009_monica_a27cb64f65466dc1_norm.mp3",
+      "duration": 2.09,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 269,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "That’s what I’m worried about.",
+      "src": "audio/pages/20/lines/010_penny_51cbd5748cc7c4c6_norm.mp3",
+      "duration": 1.579,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 270,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "The SOUND of a CAR. PENNY goes to the door and looks out.",
+      "src": "audio/pages/20/lines/011_director_46681a054cc84197_norm.mp3",
+      "duration": 2.327,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 270,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Here they are.",
+      "src": "audio/pages/20/lines/012_penny_8f207773c8e65e7a_norm.mp3",
+      "duration": 0.975,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 271,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Of course we’ll be nice to her. It’s just disappointing that Pierce has brought her. This is our first holiday together ever.",
+      "src": "audio/pages/20/lines/013_rodney_f960e65e984970ba_norm.mp3",
+      "duration": 5.155,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 272,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "And it was Pierce’s idea.",
+      "src": "audio/pages/20/lines/014_parkes_3534d8adf2a501e0_norm.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 273,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Yes. I must talk to Pierce about that.",
+      "src": "audio/pages/20/lines/015_monica_0ee68a3e278bd13f_norm.mp3",
+      "duration": 2.09,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 274,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "The sound of PIERCE and his girlfriend, shouting to PENNY. She waves.",
+      "src": "audio/pages/20/lines/016_director_2dd4c834c7e2c266_norm.mp3",
+      "duration": 2.861,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 274,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Hello!",
+      "src": "audio/pages/20/lines/017_penny_2cf7de896cef0a88_norm.mp3",
+      "duration": 0.743,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 275,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "The others all crowd behind her, to try and see. PENNY pushes them away.",
+      "src": "audio/pages/20/lines/018_director_af15e4536e1c72ae_norm.mp3",
+      "duration": 2.674,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 275,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "She’s very pretty, and she’s.... she’s looking young. Quite young.",
+      "src": "audio/pages/20/lines/019_penny_a5f1f5fb41576c78_norm.mp3",
+      "duration": 5.387,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 276,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I knew it!",
+      "src": "audio/pages/20/lines/020_monica_a138dcf7d890cf83_norm.mp3",
+      "duration": 0.882,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 277,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "It doesn’t matter. Be nice to her. She’s probably terrified.",
+      "src": "audio/pages/20/lines/021_penny_993dedfa0b0bc81e_norm.mp3",
+      "duration": 4.458,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 278,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I shall drip charm.",
+      "src": "audio/pages/20/lines/022_monica_71ea81cec46ee08b_norm.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 279,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Don’t overdo it, dear.",
+      "src": "audio/pages/20/lines/023_rodney_1b71d04022bd0e55_norm.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    }
+  ]
+}

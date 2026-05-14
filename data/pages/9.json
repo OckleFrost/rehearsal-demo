@@ -1,0 +1,240 @@
+{
+  "page": 9,
+  "title": "Caravan — Page 9",
+  "act": "Act One",
+  "source": "newly rendered early-page rehearsal audio; generated for app coverage; needs final display-copy QA before export",
+  "status": "provisional-new-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 71,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I know! If Parkes ever found out.....",
+      "src": "audio/pages/9/lines/001_penny_c938d54a768a43b4_norm.mp3",
+      "duration": 2.276,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 72,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "I know! I know! Which is why we’ve got to be careful.",
+      "src": "audio/pages/9/lines/002_rodney_93d843a6c1f59990_norm.mp3",
+      "duration": 2.554,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 73,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "We have been careful. We couldn’t be more careful! Once in two weeks. Pause.",
+      "src": "audio/pages/9/lines/003_penny_2b607300fbf1ee5d_norm.mp3",
+      "duration": 6.269,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 74,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Penny, we were drunk.",
+      "src": "audio/pages/9/lines/004_rodney_8166d98069658956_norm.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 75,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Not that drunk! It was wonderful. It was wonderful for you, wasn’t it?",
+      "src": "audio/pages/9/lines/005_penny_b48ccf45d838b49e_norm.mp3",
+      "duration": 4.737,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 76,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Yes, yes of course, but.....",
+      "src": "audio/pages/9/lines/006_rodney_f1b07219c349a5b7_norm.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 77,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh, darling. Darling.",
+      "src": "audio/pages/9/lines/007_penny_e18690aa073fcca5_norm.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 78,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "She embraces him. He leaps away and back to the door.",
+      "src": "audio/pages/9/lines/008_director_a3fd5c0ba0993926_norm.mp3",
+      "duration": 2.269,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 78,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Penny, Penny, Penny!!! They could come in at any moment!",
+      "src": "audio/pages/9/lines/009_rodney_36c8847d7f4b9049_norm.mp3",
+      "duration": 2.74,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 79,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Wouldn’t you have done it if you had been sober?",
+      "src": "audio/pages/9/lines/010_penny_60d7a831448d1826_norm.mp3",
+      "duration": 2.508,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 80,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "I.....yes, of course....but.... I might have thought more seriously about the consequences.",
+      "src": "audio/pages/9/lines/011_rodney_5cbde672bcec5628_norm.mp3",
+      "duration": 5.341,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 81,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I see. Fine.",
+      "src": "audio/pages/9/lines/012_penny_8cb0c99867c9859f_norm.mp3",
+      "duration": 0.975,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 81,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "A pause, and then a wail.",
+      "src": "audio/pages/9/lines/013_director_12693ec08f090fc9_norm.mp3",
+      "duration": 1.333,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 81,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Why couldn’t I have had my first affair with somebody else? Why did it have to be my best friend who’s married to my other best friend?",
+      "src": "audio/pages/9/lines/014_penny_001c2528e4948c97_norm.mp3",
+      "duration": 8.034,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 82,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "You’re talking very loudly.",
+      "src": "audio/pages/9/lines/015_rodney_ea7a5b3546c4bd19_norm.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 83,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I don’t care!",
+      "src": "audio/pages/9/lines/016_penny_950718c410f8f8bc_norm.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 84,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Shhhh!!",
+      "src": "audio/pages/9/lines/017_rodney_5e4fd9b24ac6bc23_norm.mp3",
+      "duration": 0.882,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 85,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I can’t help it. I’ve never been unfaithful before, Rodney. I’ve never taken a lover before. In all these years. Rodney, please. Kiss me.",
+      "src": "audio/pages/9/lines/018_penny_f9bf1d9b3ade4068_norm.mp3",
+      "duration": 11.703,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 86,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "No! Monica and Parkes could come in. We have to be careful.",
+      "src": "audio/pages/9/lines/019_rodney_7d6cb300067fc57e_norm.mp3",
+      "duration": 2.833,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 87,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I can’t stand it. I don’t think I’ll be able to stand it.",
+      "src": "audio/pages/9/lines/020_penny_f4976199ddd19912_norm.mp3",
+      "duration": 3.576,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 88,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "You really have to control yourself. Look, it was only one night. It’s hardly",
+      "src": "audio/pages/9/lines/021_rodney_f75ff6cae344f6c9_norm.mp3",
+      "duration": 3.669,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    }
+  ]
+}
