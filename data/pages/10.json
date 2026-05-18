@@ -10,9 +10,9 @@
       "sourceEntry": 89,
       "speaker": "DIRECTOR",
       "kind": "stage_direction_before",
-      "text": "an affair. We can’t have an affair. A long pause.",
-      "src": "audio/pages/10/lines/001_director_5bd90296dec28300_norm.mp3",
-      "duration": 2.905,
+      "text": "A long pause.",
+      "src": "audio/pages/10/lines/001_director_long_pause_bdcbde73faf2010d_norm.mp3",
+      "duration": 0.838,
       "speed": "1.5x",
       "voiceName": "Ockle Jane - Dry Wit"
     },
@@ -371,19 +371,19 @@
   ],
   "stitchedAudio": {
     "full_cast": {
-      "src": "audio/stitched_pages/page_10_full_cast.mp3",
-      "duration": 74.157,
-      "bytes": 1484321,
+      "src": "audio/stitched_pages/page_10_full_cast_longpause.mp3",
+      "duration": 72.09,
+      "bytes": 1443048,
       "segments": 33
     },
     "learn_rodney_director": {
-      "src": "audio/stitched_pages/page_10_learn_rodney_director.mp3",
-      "duration": 74.148,
-      "bytes": 1484321,
+      "src": "audio/stitched_pages/page_10_learn_rodney_director_longpause.mp3",
+      "duration": 72.081,
+      "bytes": 1443048,
       "segments": 33
     },
     "learn_rodney_no_director": {
-      "src": "audio/stitched_pages/page_10_learn_rodney_no_director.mp3",
+      "src": "audio/stitched_pages/page_10_learn_rodney_no_director_longpause.mp3",
       "duration": 65.704,
       "bytes": 1315570,
       "segments": 25
