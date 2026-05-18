@@ -1,6 +1,6 @@
 {
   "title": "Caravan Rehearsal Engine",
-  "version": "20260519-0750",
+  "version": "20260519-0855",
   "defaultPage": 4,
   "pages": [
     {
@@ -146,21 +146,21 @@
       "status": "provisional-new-render",
       "stitchedAudio": {
         "full_cast": {
-          "src": "audio/stitched_pages/page_09_full_cast.mp3",
-          "duration": 67.829,
-          "bytes": 1357888,
+          "src": "audio/stitched_pages/page_09_full_cast_nopause.mp3",
+          "duration": 66.397,
+          "bytes": 1329154,
           "segments": 21
         },
         "learn_rodney_director": {
-          "src": "audio/stitched_pages/page_09_learn_rodney_director.mp3",
-          "duration": 67.822,
-          "bytes": 1357888,
+          "src": "audio/stitched_pages/page_09_learn_rodney_director_nopause.mp3",
+          "duration": 66.39,
+          "bytes": 1329154,
           "segments": 21
         },
         "learn_rodney_no_director": {
-          "src": "audio/stitched_pages/page_09_learn_rodney_no_director.mp3",
-          "duration": 64.22,
-          "bytes": 1285791,
+          "src": "audio/stitched_pages/page_09_learn_rodney_no_director_nopause.mp3",
+          "duration": 62.787,
+          "bytes": 1257056,
           "segments": 19
         }
       }

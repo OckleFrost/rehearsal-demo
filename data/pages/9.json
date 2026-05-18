@@ -32,9 +32,9 @@
       "sourceEntry": 73,
       "speaker": "PENNY",
       "kind": "spoken",
-      "text": "We have been careful. We couldn’t be more careful! Once in two weeks. Pause.",
-      "src": "audio/pages/9/lines/003_penny_2b607300fbf1ee5d_norm.mp3",
-      "duration": 6.269,
+      "text": "We have been careful. We couldn’t be more careful! Once in two weeks.",
+      "src": "audio/pages/9/lines/003_penny_2b607300fbf1ee5d_nopause_norm.mp3",
+      "duration": 4.837,
       "speed": null,
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
@@ -239,21 +239,21 @@
   ],
   "stitchedAudio": {
     "full_cast": {
-      "src": "audio/stitched_pages/page_09_full_cast.mp3",
-      "duration": 67.829,
-      "bytes": 1357888,
+      "src": "audio/stitched_pages/page_09_full_cast_nopause.mp3",
+      "duration": 66.397,
+      "bytes": 1329154,
       "segments": 21
     },
     "learn_rodney_director": {
-      "src": "audio/stitched_pages/page_09_learn_rodney_director.mp3",
-      "duration": 67.822,
-      "bytes": 1357888,
+      "src": "audio/stitched_pages/page_09_learn_rodney_director_nopause.mp3",
+      "duration": 66.39,
+      "bytes": 1329154,
       "segments": 21
     },
     "learn_rodney_no_director": {
-      "src": "audio/stitched_pages/page_09_learn_rodney_no_director.mp3",
-      "duration": 64.22,
-      "bytes": 1285791,
+      "src": "audio/stitched_pages/page_09_learn_rodney_no_director_nopause.mp3",
+      "duration": 62.787,
+      "bytes": 1257056,
       "segments": 19
     }
   }
