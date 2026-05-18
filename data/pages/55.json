@@ -324,5 +324,25 @@
       "speed": null,
       "voiceName": "Charlotte - Warm & Conversational"
     }
-  ]
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_55_full_cast.mp3",
+      "duration": 44.277,
+      "bytes": 886640,
+      "segments": 29
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_55_learn_rodney_director.mp3",
+      "duration": 44.273,
+      "bytes": 886640,
+      "segments": 29
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_55_learn_rodney_no_director.mp3",
+      "duration": 31.762,
+      "bytes": 636386,
+      "segments": 20
+    }
+  }
 }

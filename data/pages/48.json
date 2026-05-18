@@ -159,5 +159,25 @@
       "speed": null,
       "voiceName": "Dave - Expressive Australian English"
     }
-  ]
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_48_full_cast.mp3",
+      "duration": 25.49,
+      "bytes": 510999,
+      "segments": 14
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_48_learn_rodney_director.mp3",
+      "duration": 25.49,
+      "bytes": 510999,
+      "segments": 14
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_48_learn_rodney_no_director.mp3",
+      "duration": 15.001,
+      "bytes": 301497,
+      "segments": 10
+    }
+  }
 }

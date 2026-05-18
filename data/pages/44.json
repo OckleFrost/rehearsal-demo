@@ -302,5 +302,25 @@
       "speed": null,
       "voiceName": "James"
     }
-  ]
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_44_full_cast.mp3",
+      "duration": 55.053,
+      "bytes": 1102411,
+      "segments": 27
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_44_learn_rodney_director.mp3",
+      "duration": 55.05,
+      "bytes": 1102411,
+      "segments": 27
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_44_learn_rodney_no_director.mp3",
+      "duration": 40.169,
+      "bytes": 804615,
+      "segments": 18
+    }
+  }
 }

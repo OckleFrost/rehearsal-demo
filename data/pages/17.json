@@ -313,5 +313,25 @@
       "speed": "1.5x",
       "voiceName": "Ockle Jane - Dry Wit"
     }
-  ]
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_17_full_cast.mp3",
+      "duration": 72.19,
+      "bytes": 1445137,
+      "segments": 28
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_17_learn_rodney_director.mp3",
+      "duration": 72.19,
+      "bytes": 1445137,
+      "segments": 28
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_17_learn_rodney_no_director.mp3",
+      "duration": 52.848,
+      "bytes": 1058525,
+      "segments": 17
+    }
+  }
 }

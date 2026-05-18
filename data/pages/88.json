@@ -203,5 +203,25 @@
       "speed": null,
       "voiceName": "PENNY + MONICA + RODNEY + PARKES + PIERCE + GWENDOLYN"
     }
-  ]
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_88_full_cast.mp3",
+      "duration": 27.314,
+      "bytes": 547570,
+      "segments": 18
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_88_learn_rodney_director.mp3",
+      "duration": 27.314,
+      "bytes": 547570,
+      "segments": 18
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_88_learn_rodney_no_director.mp3",
+      "duration": 25.014,
+      "bytes": 501595,
+      "segments": 16
+    }
+  }
 }

@@ -280,5 +280,25 @@
       "speed": null,
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     }
-  ]
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_07_full_cast.mp3",
+      "duration": 63.202,
+      "bytes": 1265415,
+      "segments": 25
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_07_learn_rodney_director.mp3",
+      "duration": 63.202,
+      "bytes": 1265415,
+      "segments": 25
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_07_learn_rodney_no_director.mp3",
+      "duration": 36.13,
+      "bytes": 724158,
+      "segments": 15
+    }
+  }
 }

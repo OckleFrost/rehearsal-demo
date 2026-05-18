@@ -269,5 +269,25 @@
       "speed": null,
       "voiceName": "Ty Frost private clone"
     }
-  ]
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_46_full_cast.mp3",
+      "duration": 93.18,
+      "bytes": 1865186,
+      "segments": 24
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_46_learn_rodney_director.mp3",
+      "duration": 93.176,
+      "bytes": 1864664,
+      "segments": 24
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_46_learn_rodney_no_director.mp3",
+      "duration": 89.255,
+      "bytes": 1786297,
+      "segments": 20
+    }
+  }
 }

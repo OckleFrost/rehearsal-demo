@@ -302,5 +302,25 @@
       "speed": null,
       "voiceName": "Lily - Velvety Actress"
     }
-  ]
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_57_full_cast.mp3",
+      "duration": 60.715,
+      "bytes": 1215782,
+      "segments": 27
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_57_learn_rodney_director.mp3",
+      "duration": 60.714,
+      "bytes": 1215782,
+      "segments": 27
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_57_learn_rodney_no_director.mp3",
+      "duration": 42.77,
+      "bytes": 856860,
+      "segments": 16
+    }
+  }
 }

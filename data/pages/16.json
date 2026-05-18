@@ -241,5 +241,25 @@
         "MONICA"
       ]
     }
-  ]
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_16_full_cast.mp3",
+      "duration": 68.347,
+      "bytes": 1368337,
+      "segments": 21
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_16_learn_rodney_director.mp3",
+      "duration": 68.345,
+      "bytes": 1368337,
+      "segments": 21
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_16_learn_rodney_no_director.mp3",
+      "duration": 63.296,
+      "bytes": 1267505,
+      "segments": 16
+    }
+  }
 }

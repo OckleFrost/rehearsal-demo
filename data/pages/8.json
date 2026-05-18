@@ -313,5 +313,25 @@
       "speed": null,
       "voiceName": "Ty Frost 25Minute"
     }
-  ]
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_08_full_cast.mp3",
+      "duration": 57.89,
+      "bytes": 1159358,
+      "segments": 28
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_08_learn_rodney_director.mp3",
+      "duration": 57.883,
+      "bytes": 1158835,
+      "segments": 28
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_08_learn_rodney_no_director.mp3",
+      "duration": 41.094,
+      "bytes": 823423,
+      "segments": 19
+    }
+  }
 }
