@@ -231,7 +231,7 @@
       "speaker": "RODNEY",
       "kind": "spoken",
       "text": "You really have to control yourself. Look, it was only one night. It’s hardly an affair. We can’t have an affair.",
-      "src": "audio/pages/9/lines/021_rodney_full_affair_22e308c1dbd70211_norm.mp3",
+      "src": "audio/pages/9/lines/021_rodney_full_affair_22e308c1dbd70211_eq_norm.mp3",
       "duration": 5.433,
       "speed": null,
       "voiceName": "Ty Frost 25Minute"
@@ -239,19 +239,19 @@
   ],
   "stitchedAudio": {
     "full_cast": {
-      "src": "audio/stitched_pages/page_09_full_cast_affairfix.mp3",
+      "src": "audio/stitched_pages/page_09_full_cast_affairfix_eq.mp3",
       "duration": 68.161,
       "bytes": 1364680,
       "segments": 21
     },
     "learn_rodney_director": {
-      "src": "audio/stitched_pages/page_09_learn_rodney_director_affairfix.mp3",
+      "src": "audio/stitched_pages/page_09_learn_rodney_director_affairfix_eq.mp3",
       "duration": 68.155,
       "bytes": 1364680,
       "segments": 21
     },
     "learn_rodney_no_director": {
-      "src": "audio/stitched_pages/page_09_learn_rodney_no_director_affairfix.mp3",
+      "src": "audio/stitched_pages/page_09_learn_rodney_no_director_affairfix_eq.mp3",
       "duration": 64.551,
       "bytes": 1292582,
       "segments": 19
