@@ -1,8 +1,29 @@
 {
   "title": "Caravan Rehearsal Engine",
-  "version": "20260514-2152",
-  "defaultPage": 7,
+  "version": "20260518-1735",
+  "defaultPage": 4,
   "pages": [
+    {
+      "page": 4,
+      "title": "Page 4",
+      "act": "Act One",
+      "path": "data/pages/4.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 5,
+      "title": "Page 5",
+      "act": "Act One",
+      "path": "data/pages/5.json",
+      "status": "provisional-new-render"
+    },
+    {
+      "page": 6,
+      "title": "Page 6",
+      "act": "Act One",
+      "path": "data/pages/6.json",
+      "status": "provisional-new-render"
+    },
     {
       "page": 7,
       "title": "Page 7",

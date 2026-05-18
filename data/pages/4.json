@@ -1,0 +1,141 @@
+{
+  "page": 4,
+  "title": "Caravan — Page 4",
+  "act": "Act One",
+  "source": "newly rendered opening Act One rehearsal audio; generated to fill pages 4-6 app coverage; needs final display-copy QA before export",
+  "status": "provisional-new-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 0,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "The interior of PARKES and PENNY ROBINSON’S caravan. This summer. Although not luxurious, the caravan is large and has every convenience. PARKES has owned it for four years and there is not a scratch on it. It is his proud possession. The caravan sleeps four and has an annexe for two. It features a large double bed, and two single bunks lie perpendicular to the double bed. When the CURTAIN rises, PARKES and PENNY have just arrived at the caravan reserve which is in a National Park. Down the curving dirt track leading from the reserve is a beautiful uninhabited beach. Only about fifty holiday-makers come here every year. Very few people as yet know about it. The Caravan door opens and PENNY comes up the stairs, carrying groceries. She is in her late thirties, or early forties. It is hard to tell. She is attractive but often covers her emotions with a bright, fixed smile, particularly when on this Caravan holiday. The door frame of the Caravan hangs low. As PENNY enters, she bumps her head. It hurts.",
+      "src": "audio/pages/4/lines/001_director_68fb2c51e0a9292e_norm.mp3",
+      "duration": 47.743,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 0,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh!!!",
+      "src": "audio/pages/4/lines/002_penny_ab561a276c8af21c_norm.mp3",
+      "duration": 0.743,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "She drops her groceries on the kitchen table. She holds her head, rocking in silent pain.",
+      "src": "audio/pages/4/lines/003_director_6bebc29b2cfa5a3a_norm.mp3",
+      "duration": 3.622,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1,
+      "speaker": "PENNY",
+      "kind": "spoken_parse_stage_split",
+      "text": "Oh. I do it every time. Oh.",
+      "src": "audio/pages/4/lines/004_penny_6cdb2cb0eb572c03_norm.mp3",
+      "duration": 1.625,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_after_parse_split",
+      "text": "PARKES, her husband, enters carrying luggage. He is good-looking, tanned and balding. He has mad eyes.",
+      "src": "audio/pages/4/lines/005_director_53e2e22d82069ec1_norm.mp3",
+      "duration": 5.037,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 2,
+      "speaker": "PENNY",
+      "kind": "spoken_parse_stage_split",
+      "text": "Mind your head....",
+      "src": "audio/pages/4/lines/006_penny_e66d7721faee4b6d_norm.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 2,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_after_parse_split",
+      "text": "Too late. PARKES drops the luggage he is carrying.",
+      "src": "audio/pages/4/lines/007_director_972da89cc0f52a7c_norm.mp3",
+      "duration": 2.326,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 3,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Shit! Bloody shit!",
+      "src": "audio/pages/4/lines/008_parkes_85f3ce1bd3e73d94_norm.mp3",
+      "duration": 1.486,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 4,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "He jumps noisily around the caravan. PENNY patiently picks up the luggage he has dropped.",
+      "src": "audio/pages/4/lines/009_director_60fe1358cb3afc37_norm.mp3",
+      "duration": 3.629,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 4,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "That bloody door. I do it every time.",
+      "src": "audio/pages/4/lines/010_parkes_536b1fb2d0a9478f_norm.mp3",
+      "duration": 2.461,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 5,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "So do I. Are you all right?",
+      "src": "audio/pages/4/lines/011_penny_b1fc1bb785a596c2_norm.mp3",
+      "duration": 1.625,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 6,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "No. I’m not all right. I’m in pain.",
+      "src": "audio/pages/4/lines/012_parkes_8613d7bcccb91077_norm.mp3",
+      "duration": 1.997,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    }
+  ]
+}

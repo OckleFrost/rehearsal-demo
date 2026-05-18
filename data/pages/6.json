@@ -1,0 +1,273 @@
+{
+  "page": 6,
+  "title": "Caravan — Page 6",
+  "act": "Act One",
+  "source": "newly rendered opening Act One rehearsal audio; generated to fill pages 4-6 app coverage; needs final display-copy QA before export",
+  "status": "provisional-new-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 23,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "No, no. I love it here, I really do. I look forward to it every year and our friends are looking forward to it. Even Monica. So don’t worry about her. Just be nice to her. Be nice to everybody but be especially nice to Monica.",
+      "src": "audio/pages/6/lines/001_penny_7b2d5fccc330f2aa_norm.mp3",
+      "duration": 18.808,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 24,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I try. But she never laughs at my jokes.",
+      "src": "audio/pages/6/lines/002_parkes_417c74bda82f7c36_norm.mp3",
+      "duration": 2.229,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 25,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Don’t worry about that. Just laugh at hers. Don’t worry about anything, Parkes.",
+      "src": "audio/pages/6/lines/003_penny_b1262c1a173f89d2_norm.mp3",
+      "duration": 6.084,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 26,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I’m not worried, Penny. You’re the one who worries. My friends have known me for twenty years.",
+      "src": "audio/pages/6/lines/004_parkes_42c448932750dbb8_norm.mp3",
+      "duration": 4.876,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 26,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Pause",
+      "src": "audio/pages/6/lines/005_director_42c82360f0c227d7_norm.mp3",
+      "duration": 0.59,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 26,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "It’s just they’ve never been on holiday in my caravan before.",
+      "src": "audio/pages/6/lines/006_parkes_c580055133ac193e_norm.mp3",
+      "duration": 3.019,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 27,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I know, dear. They’ve never been on holiday with you before, either.",
+      "src": "audio/pages/6/lines/007_penny_b1b0b16a269d526d_norm.mp3",
+      "duration": 4.087,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 28,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "What’s that supposed to mean?",
+      "src": "audio/pages/6/lines/008_parkes_9f35706fe6e2403b_norm.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 29,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "If you’re going to upset yourself over silly little things.....",
+      "src": "audio/pages/6/lines/009_penny_bcc88f215b2411f2_norm.mp3",
+      "duration": 3.669,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 30,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Silly little things! It’s of huge importance where we park the caravan. We’re going to be here for two weeks.",
+      "src": "audio/pages/6/lines/010_parkes_8595368786575cb0_norm.mp3",
+      "duration": 6.641,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 31,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "If you enjoy yourself, everybody else will too. Try and relax.",
+      "src": "audio/pages/6/lines/011_penny_ee1fbe5b9a2631a9_norm.mp3",
+      "duration": 3.947,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 32,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I am relaxed! I’m trying to be relaxed. You are making me very un-relaxed, Penny, if I may say so.",
+      "src": "audio/pages/6/lines/012_parkes_9748258d82cf2a6d_norm.mp3",
+      "duration": 6.13,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 33,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "placating",
+      "src": "audio/pages/6/lines/013_director_4dabbb48c9a16fd8_norm.mp3",
+      "duration": 0.612,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 33,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I’m sorry. I didn’t mean to.",
+      "src": "audio/pages/6/lines/014_penny_69127e496ae85822_norm.mp3",
+      "duration": 1.672,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 34,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You never mean to, but you do! I can’t be nice all the time. It’s not in my nature.",
+      "src": "audio/pages/6/lines/015_parkes_dde05720bd2332dc_norm.mp3",
+      "duration": 4.458,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 35,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Just some of the time, dear.",
+      "src": "audio/pages/6/lines/016_penny_4ed8d0938b1a39d7_norm.mp3",
+      "duration": 1.579,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 36,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You’re nice enough for both of us, and frankly it puts my nerves on edge. Perhaps if you didn’t try so hard to be so bloody bright all the time, I could relax. And our friends would relax, too.",
+      "src": "audio/pages/6/lines/017_parkes_aa7caf03a7618ca8_norm.mp3",
+      "duration": 10.17,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 37,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/6/lines/018_director_99850f6cc1935563_norm.mp3",
+      "duration": 0.397,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 37,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I don’t know what you mean, Parkes. I’m really very relaxed.",
+      "src": "audio/pages/6/lines/019_penny_e96dca14f6d8646d_norm.mp3",
+      "duration": 3.855,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 38,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You don’t look it.",
+      "src": "audio/pages/6/lines/020_parkes_4032a6b841daa046_norm.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 39,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "more brightly",
+      "src": "audio/pages/6/lines/021_director_cf30831cc995583f_norm.mp3",
+      "duration": 0.526,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 39,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I really am, darling. I just want everybody to have a nice holiday.",
+      "src": "audio/pages/6/lines/022_penny_ec5f062b91f21b61_norm.mp3",
+      "duration": 4.18,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 40,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "shouting",
+      "src": "audio/pages/6/lines/023_director_03a2e892abc139c4_norm.mp3",
+      "duration": 0.56,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 40,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "So do I, for god’s sake......",
+      "src": "audio/pages/6/lines/024_parkes_62d5b41f58bfc9c3_norm.mp3",
+      "duration": 1.625,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    }
+  ]
+}

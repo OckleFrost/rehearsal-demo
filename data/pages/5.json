@@ -1,0 +1,207 @@
+{
+  "page": 5,
+  "title": "Caravan — Page 5",
+  "act": "Act One",
+  "source": "newly rendered opening Act One rehearsal audio; generated to fill pages 4-6 app coverage; needs final display-copy QA before export",
+  "status": "provisional-new-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 7,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "It will pass in a minute, darling. I bumped my head, too.",
+      "src": "audio/pages/5/lines/001_penny_3e8445aa4ac39c4e_norm.mp3",
+      "duration": 3.065,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 8,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Bloody door. That’s all I need. Somebody takes my spot and then I bump my head on the bloody door.",
+      "src": "audio/pages/5/lines/002_parkes_683663333218a535_norm.mp3",
+      "duration": 4.969,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 9,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "This spot is perfectly fine.",
+      "src": "audio/pages/5/lines/003_penny_4da7137f85f4e3e8_norm.mp3",
+      "duration": 1.579,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 10,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_before",
+      "text": "PARKES looks out the door.",
+      "src": "audio/pages/5/lines/004_director_277c166db72374fa_norm.mp3",
+      "duration": 0.938,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 10,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "It’s not the same. We’ve had that corner of the park for the last four years and now some bastard’s taken it. It will be as hot as hell in here without that tree to give us shade. It’s further to walk to the showers and the dunny and it’s further to walk to the beach.",
+      "src": "audio/pages/5/lines/005_parkes_f3ab6e6b67326bbd_norm.mp3",
+      "duration": 13.978,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 11,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes please don’t lose your temper. This spot is perfectly fine.",
+      "src": "audio/pages/5/lines/006_penny_bd18599e12f419f8_norm.mp3",
+      "duration": 4.273,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 12,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "It’s not the same. Twenty-five caravans at the most come here in January. He’s got the whole reserve. Why does he have to pick my spot?",
+      "src": "audio/pages/5/lines/007_parkes_cfea6ee59b5f42f8_norm.mp3",
+      "duration": 7.616,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 13,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "He didn’t know it was your spot. He’s entitled to park where he wants to.",
+      "src": "audio/pages/5/lines/008_penny_006c4dfe4215e457_norm.mp3",
+      "duration": 4.458,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 14,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I’ve a good mind to go over and punch his face in.",
+      "src": "audio/pages/5/lines/009_parkes_931dd310cbc36351_norm.mp3",
+      "duration": 2.415,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 15,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "terrified",
+      "src": "audio/pages/5/lines/010_director_b0bbca79b666df9b_norm.mp3",
+      "duration": 0.592,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 15,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh, Parkes please don’t! Please. Remember what happened last year when you tried to punch that surfie. You had concussion for a week!",
+      "src": "audio/pages/5/lines/011_penny_75f99b5ebb886242_norm.mp3",
+      "duration": 8.777,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 16,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "So would you if somebody bashed you over the head with a surfboard.",
+      "src": "audio/pages/5/lines/012_parkes_d061a73d621028bd_norm.mp3",
+      "duration": 3.483,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 17,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "You kicked his barbecue in!",
+      "src": "audio/pages/5/lines/013_penny_433dfce1e1223f03_norm.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 18,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "He was making noise after midnight! Anyway, he and his mates ganged up on me.",
+      "src": "audio/pages/5/lines/014_parkes_870940af20f47f92_norm.mp3",
+      "duration": 4.226,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 19,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes, I don’t want any scenes on this holiday. This is our first holiday with our best friends. We have planned this holiday for a very long time. Please try and be nice, dear.",
+      "src": "audio/pages/5/lines/015_penny_9af48d0baed3a6a2_norm.mp3",
+      "duration": 10.403,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 20,
+      "speaker": "PARKES",
+      "kind": "spoken_page_wrap_fix",
+      "text": "It’s not the same. Wouldn’t you know he’d pick this year to take my spot. I wanted everything to be perfect. If it’s hot in here, Monica will complain. She hates the heat.",
+      "src": "audio/pages/5/lines/016_parkes_ce3640a6eb35e5f8_norm.mp3",
+      "duration": 9.056,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 21,
+      "speaker": "PENNY",
+      "kind": "spoken_page_wrap_fix",
+      "text": "She’s not alone in that.",
+      "src": "audio/pages/5/lines/017_penny_866f4d4cba43da5c_norm.mp3",
+      "duration": 1.533,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 22,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Don’t you like it here? You never said so.",
+      "src": "audio/pages/5/lines/018_parkes_f67267f800e10e3b_norm.mp3",
+      "duration": 2.183,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    }
+  ]
+}
