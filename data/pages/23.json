@@ -1,0 +1,326 @@
+{
+  "page": 23,
+  "title": "Caravan — Page 23",
+  "act": "Act One",
+  "source": "pages21-25 accepted current-style manifest; added to app after missing page report",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 313,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Pierce said you were forty one. How did you get to be forty one? We were at school together.",
+      "src": "audio/pages/23/lines/001_parkes_17acd4e3950b.mp3",
+      "duration": 5.387,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 314,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "No. You were a year ahead of me.",
+      "src": "audio/pages/23/lines/002_rodney_04cff6159135.mp3",
+      "duration": 1.579,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 315,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "That’s because you repeated. We’re the same age.",
+      "src": "audio/pages/23/lines/003_parkes_7facdd776d10.mp3",
+      "duration": 2.276,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 316,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Old man, I’m definitely forty one.",
+      "src": "audio/pages/23/lines/004_rodney_1242f935fb66.mp3",
+      "duration": 1.858,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 317,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I am forty two. We are the same age.",
+      "src": "audio/pages/23/lines/005_parkes_7f342344cfb9.mp3",
+      "duration": 2.229,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 318,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "No, I think you’ve got that wrong.",
+      "src": "audio/pages/23/lines/006_rodney_fe4fa3161150.mp3",
+      "duration": 1.533,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 319,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I know hold old I am. I am forty two, and Penny is...",
+      "src": "audio/pages/23/lines/007_parkes_ae8b8fea19bd.mp3",
+      "duration": 3.065,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 320,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "interrupting brightly",
+      "src": "audio/pages/23/lines/008_director_b8ccf480a96b.mp3",
+      "duration": 0.748,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 320,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Stop this talk about age. It really doesn’t matter.",
+      "src": "audio/pages/23/lines/009_penny_6d072ddb3567.mp3",
+      "duration": 3.483,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 321,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I’m not ashamed of how old I am, Penny. I look very good for my age.",
+      "src": "audio/pages/23/lines/010_parkes_0694911f32ef.mp3",
+      "duration": 3.715,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 321,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "No-one replies to this. He doesn’t look that good. A pause, which PENNY breaks.",
+      "src": "audio/pages/23/lines/011_director_6dfef0f498c7.mp3",
+      "duration": 2.975,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 322,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/23/lines/012_director_a9d6bcd55124.mp3",
+      "duration": 0.53,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 322,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Yes. You do.",
+      "src": "audio/pages/23/lines/013_penny_dc30da37437f.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 323,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You’re losing your hair.",
+      "src": "audio/pages/23/lines/014_monica_aa780a075b35.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 324,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I look younger than practically everyone here.",
+      "src": "audio/pages/23/lines/015_parkes_26e2f53e7db8.mp3",
+      "duration": 2.322,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 325,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "He doesn’t of course.",
+      "src": "audio/pages/23/lines/016_director_2ca8e89a5fe7.mp3",
+      "duration": 0.777,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 325,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Thanks very much.",
+      "src": "audio/pages/23/lines/017_pierce_eac7966852e1.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 326,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Young for forty two, perhaps.",
+      "src": "audio/pages/23/lines/018_rodney_4c5b6f1c1c28.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 327,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You are forty two, too!",
+      "src": "audio/pages/23/lines/019_parkes_125adf96fdbc.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 328,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "No, I’m not. I’ll let you know when I’ve reached forty two.",
+      "src": "audio/pages/23/lines/020_rodney_05ea7f4321f4.mp3",
+      "duration": 2.508,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 329,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Now, look. I can prove you are forty two. You had your twenty first birthday on....",
+      "src": "audio/pages/23/lines/021_parkes_b5bf15fc804c.mp3",
+      "duration": 4.69,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 330,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/23/lines/022_director_eb94e6097728.mp3",
+      "duration": 0.651,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 330,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes, why do you have to keep on about it? We don’t care how old Rodney is. If he wants to be forty one, let him be forty one....",
+      "src": "audio/pages/23/lines/023_penny_f401e3404c80.mp3",
+      "duration": 7.709,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 331,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "I am forty one!",
+      "src": "audio/pages/23/lines/024_rodney_d72d029c04f7.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 25,
+      "sourceEntry": 332,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Yes. We’re all round about.....",
+      "src": "audio/pages/23/lines/025_penny_3c0ba521d5f9.mp3",
+      "duration": 2.09,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 26,
+      "sourceEntry": 332,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Realising she’s got herself into a trap",
+      "src": "audio/pages/23/lines/026_director_3fd56aeee397.mp3",
+      "duration": 1.337,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 27,
+      "sourceEntry": 332,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "....middle.......late.........thirties...",
+      "src": "audio/pages/23/lines/027_penny_f8bba5fc3e8c.mp3",
+      "duration": 4.319,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_23_full_cast_p22p23fix.mp3",
+      "duration": 63.351,
+      "bytes": 1268550,
+      "segments": 27
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_23_learn_rodney_director_p22p23fix.mp3",
+      "duration": 63.353,
+      "bytes": 1268550,
+      "segments": 27
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_23_learn_rodney_no_director_p22p23fix.mp3",
+      "duration": 56.334,
+      "bytes": 1128011,
+      "segments": 21
+    }
+  }
+}

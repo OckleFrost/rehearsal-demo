@@ -1,0 +1,271 @@
+{
+  "page": 22,
+  "title": "Caravan — Page 22",
+  "act": "Act One",
+  "source": "pages21-25 accepted current-style manifest; added to app after missing page report",
+  "status": "provisional-existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 295,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "That young! How dare you bring a twenty two year old on our holiday. Are you deliberately trying to make us feel old!",
+      "src": "audio/pages/22/lines/001_monica_88fafa567a0e.mp3",
+      "duration": 6.687,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 296,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "MONICA hurriedly takes a compact out and examines her face.",
+      "src": "audio/pages/22/lines/002_director_19e459713d30.mp3",
+      "duration": 2.17,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 296,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Twenty two! That’s a bit young for you, isn’t it?",
+      "src": "audio/pages/22/lines/003_rodney_4761bfe5b7cc.mp3",
+      "duration": 2.508,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 297,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "What do you mean? It’s only...well, I’m only.....",
+      "src": "audio/pages/22/lines/004_pierce_2a803547441b.mp3",
+      "duration": 3.344,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 298,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Forty.",
+      "src": "audio/pages/22/lines/005_monica_968aeafbecb7.mp3",
+      "duration": 0.743,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 299,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Monica, why do you always say that? You know very well I am not forty yet. I am six months younger than you. That makes me thirty nine and a half. Why do you always insist on saying I’m forty?",
+      "src": "audio/pages/22/lines/006_pierce_9977bdce6f74.mp3",
+      "duration": 11.703,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 300,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I thought you were older than Monica.",
+      "src": "audio/pages/22/lines/007_parkes_40f12df9cd7f.mp3",
+      "duration": 1.672,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 301,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "No, I am not! I am the youngest here, if you remember. You are forty one, Parkes is forty two, Penny is....",
+      "src": "audio/pages/22/lines/008_pierce_c487be103617.mp3",
+      "duration": 6.409,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 302,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Interrupting brightly",
+      "src": "audio/pages/22/lines/009_director_f143947ea030.mp3",
+      "duration": 0.749,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 302,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I really hate all this talk about age. It really doesn’t matter. It really doesn’t. I don’t think you should dwell on it. You’re as old as you feel.",
+      "src": "audio/pages/22/lines/010_penny_b5560c022f9a.mp3",
+      "duration": 10.31,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 303,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I can’t be that old.",
+      "src": "audio/pages/22/lines/011_monica_66670d61b4d0.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 304,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Changing the subject",
+      "src": "audio/pages/22/lines/012_director_3b9c0fc2b6ba.mp3",
+      "duration": 0.902,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 304,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Anyhow, we will be very nice to your young lady, Pierce. We promise.",
+      "src": "audio/pages/22/lines/013_penny_1a676116f6ec.mp3",
+      "duration": 5.062,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 305,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I think it’s boring of you to bring her. It was your idea to come on this holiday and it was going to be just us.",
+      "src": "audio/pages/22/lines/014_monica_d9d972af8657.mp3",
+      "duration": 6.548,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 306,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Yes, why did you have to bring anyone?",
+      "src": "audio/pages/22/lines/015_rodney_1b10f922dc0e.mp3",
+      "duration": 1.672,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 307,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I would have had a wonderful time, wouldn’t I? You’d be all pairing off and what would I do? The sun makes you very randy, you know.",
+      "src": "audio/pages/22/lines/016_pierce_340a4b7fbbbb.mp3",
+      "duration": 7.43,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 308,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "At least you could have brought someone we knew.",
+      "src": "audio/pages/22/lines/017_monica_bb9aa6f81c27.mp3",
+      "duration": 2.183,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 309,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Monica, I don’t do things with anyone we know.",
+      "src": "audio/pages/22/lines/018_pierce_d6061a4866c0.mp3",
+      "duration": 2.786,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 310,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You mean you don’t do things with senior citizens.",
+      "src": "audio/pages/22/lines/019_monica_89534049d5ab.mp3",
+      "duration": 2.694,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 311,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "thoughtfully",
+      "src": "audio/pages/22/lines/020_director_a4500aca29a4.mp3",
+      "duration": 0.773,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 311,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I’m not older than Rodney.",
+      "src": "audio/pages/22/lines/021_parkes_4e15b0c0b6a6.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 312,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "What?",
+      "src": "audio/pages/22/lines/022_rodney_415cc0cca886.mp3",
+      "duration": 0.604,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_22_full_cast_p22p23fix.mp3",
+      "duration": 79.408,
+      "bytes": 1589333,
+      "segments": 22
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_22_learn_rodney_director_p22p23fix.mp3",
+      "duration": 79.411,
+      "bytes": 1589333,
+      "segments": 22
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_22_learn_rodney_no_director_p22p23fix.mp3",
+      "duration": 74.817,
+      "bytes": 1497905,
+      "segments": 18
+    }
+  }
+}
