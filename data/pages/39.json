@@ -74,13 +74,13 @@
     {
       "n": 7,
       "sourceEntry": 613,
-      "speaker": "DIRECTOR",
-      "kind": "stage_direction_before",
-      "text": "RODNEY Penny!",
-      "src": "audio/pages/39/lines/007_director_11cc86b83a0_norm.mp3",
-      "duration": 0.739,
-      "speed": "1.5x",
-      "voiceName": "Ockle Jane - Dry Wit"
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Penny!",
+      "src": "audio/pages/39/lines/007_rodney_penny_fix.mp3",
+      "duration": 0.65,
+      "speed": null,
+      "voiceName": "Ty Frost private clone"
     },
     {
       "n": 8,
@@ -360,22 +360,22 @@
   ],
   "stitchedAudio": {
     "full_cast": {
-      "src": "audio/stitched_pages/page_39_full_cast.mp3",
-      "duration": 81.41,
-      "bytes": 1629562,
+      "src": "audio/stitched_pages/page_39_full_cast_penny_fix.mp3",
+      "duration": 81.322,
+      "bytes": 1627995,
       "segments": 32
     },
     "learn_rodney_director": {
-      "src": "audio/stitched_pages/page_39_learn_rodney_director.mp3",
-      "duration": 81.402,
-      "bytes": 1629562,
+      "src": "audio/stitched_pages/page_39_learn_rodney_director_penny_fix.mp3",
+      "duration": 81.312,
+      "bytes": 1627472,
       "segments": 32
     },
     "learn_rodney_no_director": {
-      "src": "audio/stitched_pages/page_39_learn_rodney_no_director.mp3",
-      "duration": 56.653,
-      "bytes": 1134280,
-      "segments": 20
+      "src": "audio/stitched_pages/page_39_learn_rodney_no_director_penny_fix.mp3",
+      "duration": 57.303,
+      "bytes": 1147342,
+      "segments": 21
     }
   }
 }
