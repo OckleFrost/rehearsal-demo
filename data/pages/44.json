@@ -63,13 +63,29 @@
     {
       "n": 6,
       "sourceEntry": 692,
-      "speaker": "PENNY",
-      "kind": "spoken",
+      "speaker": "PENNY_RODNEY",
+      "kind": "same_text_duet",
       "text": "Goodnight.",
-      "src": "audio/pages/44/lines/006_penny_698883c62cb_norm.mp3",
+      "src": "audio/pages/44/lines/006_penny_rodney_goodnight_mix_norm.mp3",
       "duration": 0.836,
       "speed": null,
-      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+      "voiceName": "PENNY + RODNEY",
+      "chorusVoices": [
+        "PENNY",
+        "RODNEY"
+      ],
+      "chorusParts": [
+        {
+          "speaker": "PENNY",
+          "src": "audio/pages/44/lines/006_penny_698883c62cb_norm.mp3",
+          "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+        },
+        {
+          "speaker": "RODNEY",
+          "src": "audio/pages/44/lines/006_rodney_goodnight_norm.mp3",
+          "voiceName": "Ty Frost private clone"
+        }
+      ]
     },
     {
       "n": 7,
@@ -305,20 +321,20 @@
   ],
   "stitchedAudio": {
     "full_cast": {
-      "src": "audio/stitched_pages/page_44_full_cast.mp3",
+      "src": "audio/stitched_pages/page_44_full_cast_duet_fix.mp3",
       "duration": 55.053,
       "bytes": 1102411,
       "segments": 27
     },
     "learn_rodney_director": {
-      "src": "audio/stitched_pages/page_44_learn_rodney_director.mp3",
+      "src": "audio/stitched_pages/page_44_learn_rodney_director_duet_fix.mp3",
       "duration": 55.05,
       "bytes": 1102411,
       "segments": 27
     },
     "learn_rodney_no_director": {
-      "src": "audio/stitched_pages/page_44_learn_rodney_no_director.mp3",
-      "duration": 40.169,
+      "src": "audio/stitched_pages/page_44_learn_rodney_no_director_duet_fix.mp3",
+      "duration": 40.17,
       "bytes": 804615,
       "segments": 18
     }
