@@ -213,23 +213,34 @@
       "duration": 4.412,
       "speed": null,
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 20,
+      "sourceEntry": "page47_end_act_one",
+      "speaker": "DIRECTOR",
+      "kind": "trailing_page_stage_direction",
+      "text": "There is a loud rumble of thunder. They all look up. Another rumble, and then a CRASH of thunder. The sound of heavy rain. BLACKOUT END ACT ONE",
+      "src": "audio/pages/47/lines/020_director_thunder_end_act_one_fix.mp3",
+      "duration": 7.431,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
     }
   ],
   "stitchedAudio": {
     "full_cast": {
-      "src": "audio/stitched_pages/page_47_full_cast.mp3",
-      "duration": 56.392,
-      "bytes": 1129056,
-      "segments": 19
+      "src": "audio/stitched_pages/page_47_full_cast_thunder_fix.mp3",
+      "duration": 63.823,
+      "bytes": 1277954,
+      "segments": 20
     },
     "learn_rodney_director": {
-      "src": "audio/stitched_pages/page_47_learn_rodney_director.mp3",
-      "duration": 56.39,
-      "bytes": 1129056,
-      "segments": 19
+      "src": "audio/stitched_pages/page_47_learn_rodney_director_thunder_fix.mp3",
+      "duration": 63.821,
+      "bytes": 1277954,
+      "segments": 20
     },
     "learn_rodney_no_director": {
-      "src": "audio/stitched_pages/page_47_learn_rodney_no_director.mp3",
+      "src": "audio/stitched_pages/page_47_learn_rodney_no_director_thunder_fix.mp3",
       "duration": 45.092,
       "bytes": 903358,
       "segments": 15
