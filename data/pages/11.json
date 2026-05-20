@@ -74,17 +74,6 @@
     {
       "n": 7,
       "sourceEntry": 113,
-      "speaker": "DIRECTOR",
-      "kind": "stage_direction_before",
-      "text": "a year!",
-      "src": "audio/pages/11/lines/007_director_39f52a89346caafa_norm.mp3",
-      "duration": 0.497,
-      "speed": "1.5x",
-      "voiceName": "Ockle Jane - Dry Wit"
-    },
-    {
-      "n": 8,
-      "sourceEntry": 113,
       "speaker": "RODNEY",
       "kind": "spoken",
       "text": "Good for you.",
@@ -94,7 +83,7 @@
       "voiceName": "Ty Frost 25Minute"
     },
     {
-      "n": 9,
+      "n": 8,
       "sourceEntry": 114,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -105,7 +94,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 10,
+      "n": 9,
       "sourceEntry": 115,
       "speaker": "RODNEY",
       "kind": "spoken",
@@ -116,7 +105,7 @@
       "voiceName": "Ty Frost 25Minute"
     },
     {
-      "n": 11,
+      "n": 10,
       "sourceEntry": 116,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -127,7 +116,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 12,
+      "n": 11,
       "sourceEntry": 117,
       "speaker": "RODNEY",
       "kind": "spoken",
@@ -138,7 +127,7 @@
       "voiceName": "Ty Frost 25Minute"
     },
     {
-      "n": 13,
+      "n": 12,
       "sourceEntry": 117,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -149,7 +138,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 14,
+      "n": 13,
       "sourceEntry": 117,
       "speaker": "RODNEY",
       "kind": "spoken",
@@ -160,7 +149,7 @@
       "voiceName": "Ty Frost 25Minute"
     },
     {
-      "n": 15,
+      "n": 14,
       "sourceEntry": 118,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -171,7 +160,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 16,
+      "n": 15,
       "sourceEntry": 119,
       "speaker": "RODNEY",
       "kind": "spoken",
@@ -182,7 +171,7 @@
       "voiceName": "Ty Frost 25Minute"
     },
     {
-      "n": 17,
+      "n": 16,
       "sourceEntry": 120,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -193,7 +182,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 18,
+      "n": 17,
       "sourceEntry": 121,
       "speaker": "RODNEY",
       "kind": "spoken",
@@ -204,7 +193,7 @@
       "voiceName": "Ty Frost 25Minute"
     },
     {
-      "n": 19,
+      "n": 18,
       "sourceEntry": 121,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -215,7 +204,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 20,
+      "n": 19,
       "sourceEntry": 121,
       "speaker": "RODNEY",
       "kind": "spoken",
@@ -226,7 +215,7 @@
       "voiceName": "Ty Frost 25Minute"
     },
     {
-      "n": 21,
+      "n": 20,
       "sourceEntry": 122,
       "speaker": "PENNY",
       "kind": "spoken_parse_stage_split",
@@ -237,7 +226,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 22,
+      "n": 21,
       "sourceEntry": 122,
       "speaker": "DIRECTOR",
       "kind": "stage_direction_after_parse_split",
@@ -248,7 +237,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 23,
+      "n": 22,
       "sourceEntry": 123,
       "speaker": "RODNEY",
       "kind": "spoken",
@@ -259,7 +248,7 @@
       "voiceName": "Ty Frost 25Minute"
     },
     {
-      "n": 24,
+      "n": 23,
       "sourceEntry": 124,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -270,7 +259,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 25,
+      "n": 24,
       "sourceEntry": 125,
       "speaker": "RODNEY",
       "kind": "spoken",
@@ -281,7 +270,7 @@
       "voiceName": "Ty Frost 25Minute"
     },
     {
-      "n": 26,
+      "n": 25,
       "sourceEntry": 126,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -292,7 +281,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 27,
+      "n": 26,
       "sourceEntry": 127,
       "speaker": "RODNEY",
       "kind": "spoken",
@@ -303,7 +292,7 @@
       "voiceName": "Ty Frost 25Minute"
     },
     {
-      "n": 28,
+      "n": 27,
       "sourceEntry": 128,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -314,7 +303,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 29,
+      "n": 28,
       "sourceEntry": 128,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -325,7 +314,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 30,
+      "n": 29,
       "sourceEntry": 128,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -338,19 +327,19 @@
   ],
   "stitchedAudio": {
     "full_cast": {
-      "src": "audio/stitched_pages/page_11_full_cast.mp3",
-      "duration": 67.815,
-      "bytes": 1357888,
-      "segments": 30
+      "src": "audio/stitched_pages/page_11_full_cast_line7fix.mp3",
+      "duration": 67.319,
+      "bytes": 1347962,
+      "segments": 29
     },
     "learn_rodney_director": {
-      "src": "audio/stitched_pages/page_11_learn_rodney_director.mp3",
-      "duration": 67.808,
-      "bytes": 1357366,
-      "segments": 30
+      "src": "audio/stitched_pages/page_11_learn_rodney_director_line7fix.mp3",
+      "duration": 67.311,
+      "bytes": 1347440,
+      "segments": 29
     },
     "learn_rodney_no_director": {
-      "src": "audio/stitched_pages/page_11_learn_rodney_no_director.mp3",
+      "src": "audio/stitched_pages/page_11_learn_rodney_no_director_line7fix.mp3",
       "duration": 60.088,
       "bytes": 1203244,
       "segments": 23
