@@ -1,6 +1,6 @@
 {
   "title": "Caravan Rehearsal Engine",
-  "version": "20260520-1205",
+  "version": "20260520-1209",
   "defaultPage": 4,
   "pages": [
     {
@@ -497,7 +497,7 @@
       "status": "provisional-existing-render",
       "stitchedAudio": {
         "full_cast": {
-          "src": "audio/stitched_pages/page_22_full_cast_p22p23fix.mp3",
+          "src": "audio/stitched_pages/page_22_full_cast_rodlevel.mp3",
           "duration": 79.408,
           "bytes": 1589333,
           "segments": 22
@@ -524,7 +524,7 @@
       "status": "provisional-existing-render",
       "stitchedAudio": {
         "full_cast": {
-          "src": "audio/stitched_pages/page_23_full_cast_p22p23fix.mp3",
+          "src": "audio/stitched_pages/page_23_full_cast_rodlevel.mp3",
           "duration": 63.351,
           "bytes": 1268550,
           "segments": 27

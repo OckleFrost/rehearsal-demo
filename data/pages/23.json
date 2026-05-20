@@ -22,7 +22,7 @@
       "speaker": "RODNEY",
       "kind": "spoken",
       "text": "No. You were a year ahead of me.",
-      "src": "audio/pages/23/lines/002_rodney_04cff6159135.mp3",
+      "src": "audio/pages/23/lines/002_rodney_04cff6159135_level.mp3",
       "duration": 1.579,
       "speed": null,
       "voiceName": "Ty Frost 25Minute"
@@ -44,7 +44,7 @@
       "speaker": "RODNEY",
       "kind": "spoken",
       "text": "Old man, I’m definitely forty one.",
-      "src": "audio/pages/23/lines/004_rodney_1242f935fb66.mp3",
+      "src": "audio/pages/23/lines/004_rodney_1242f935fb66_level.mp3",
       "duration": 1.858,
       "speed": null,
       "voiceName": "Ty Frost 25Minute"
@@ -66,7 +66,7 @@
       "speaker": "RODNEY",
       "kind": "spoken",
       "text": "No, I think you’ve got that wrong.",
-      "src": "audio/pages/23/lines/006_rodney_fe4fa3161150.mp3",
+      "src": "audio/pages/23/lines/006_rodney_fe4fa3161150_level.mp3",
       "duration": 1.533,
       "speed": null,
       "voiceName": "Ty Frost 25Minute"
@@ -198,7 +198,7 @@
       "speaker": "RODNEY",
       "kind": "spoken",
       "text": "Young for forty two, perhaps.",
-      "src": "audio/pages/23/lines/018_rodney_4c5b6f1c1c28.mp3",
+      "src": "audio/pages/23/lines/018_rodney_4c5b6f1c1c28_level.mp3",
       "duration": 1.393,
       "speed": null,
       "voiceName": "Ty Frost 25Minute"
@@ -220,7 +220,7 @@
       "speaker": "RODNEY",
       "kind": "spoken",
       "text": "No, I’m not. I’ll let you know when I’ve reached forty two.",
-      "src": "audio/pages/23/lines/020_rodney_05ea7f4321f4.mp3",
+      "src": "audio/pages/23/lines/020_rodney_05ea7f4321f4_level.mp3",
       "duration": 2.508,
       "speed": null,
       "voiceName": "Ty Frost 25Minute"
@@ -264,7 +264,7 @@
       "speaker": "RODNEY",
       "kind": "spoken",
       "text": "I am forty one!",
-      "src": "audio/pages/23/lines/024_rodney_d72d029c04f7.mp3",
+      "src": "audio/pages/23/lines/024_rodney_d72d029c04f7_level.mp3",
       "duration": 1.115,
       "speed": null,
       "voiceName": "Ty Frost 25Minute"
@@ -305,7 +305,7 @@
   ],
   "stitchedAudio": {
     "full_cast": {
-      "src": "audio/stitched_pages/page_23_full_cast_p22p23fix.mp3",
+      "src": "audio/stitched_pages/page_23_full_cast_rodlevel.mp3",
       "duration": 63.351,
       "bytes": 1268550,
       "segments": 27
