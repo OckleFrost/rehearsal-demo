@@ -2,8 +2,8 @@
   "page": 85,
   "title": "Caravan — Page 85",
   "act": "Act Two",
-  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
-  "status": "provisional-existing-render",
+  "source": "existing rendered rehearsal audio, with page 85 Penny monologue split from stage directions and regenerated for rehearsal-grade playback",
+  "status": "page85-penny-monologue-fixed",
   "lines": [
     {
       "n": 1,
@@ -226,18 +226,175 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 21,
       "sourceEntry": 1394,
       "speaker": "DIRECTOR",
       "kind": "stage_direction_before",
-      "text": "Pause. They all wait expectantly. PENNY takes a deep breath. I’m...f…f…f…f… (She wipes her brow.) I’m perspiring.....I’m f…. f…f…..f….. (She gags.) I think I’m going to be sick. I’m f…f…forty… (Pause) One! There. I’ve said it. (Looks at them in horror) Oh God, what have I done? (Starts to cry.) I should never have told you. You’ll never let me forget it. (Wails) I don’t want to be f…that age.",
-      "src": "audio/pages/85/lines/021_director_39501c6cc25_norm.mp3",
-      "duration": 24.676,
+      "text": "Pause. They all wait expectantly. PENNY takes a deep breath.",
+      "src": "audio/pages/85/lines/021_director_6cb3850a1e01_norm.mp3",
+      "duration": 2.284,
       "speed": "1.5x",
-      "voiceName": "Ockle Jane - Dry Wit"
+      "voiceName": "Ockle Jane - Dry Wit",
+      "ttsPerformanceNote": null,
+      "n": 21
     },
     {
-      "n": 22,
+      "sourceEntry": 1394,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I’m...f…f…f…f…",
+      "src": "audio/pages/85/lines/022_penny_93259bec1ea6_norm.mp3",
+      "duration": 2.415,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM",
+      "ttsPerformanceNote": "TTS-only stutter shaping; display text remains source-facing.",
+      "n": 22
+    },
+    {
+      "sourceEntry": 1394,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "She wipes her brow.",
+      "src": "audio/pages/85/lines/023_director_0c8d24f972a6_norm.mp3",
+      "duration": 0.906,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "ttsPerformanceNote": null,
+      "n": 23
+    },
+    {
+      "sourceEntry": 1394,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I’m perspiring.....I’m f…. f…f…..f…..",
+      "src": "audio/pages/85/lines/024_penny_2f54677368c4_norm.mp3",
+      "duration": 4.969,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM",
+      "ttsPerformanceNote": "TTS-only stutter shaping; display text remains source-facing.",
+      "n": 24
+    },
+    {
+      "sourceEntry": 1394,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "She gags.",
+      "src": "audio/pages/85/lines/025_director_ff93600306a8_norm.mp3",
+      "duration": 0.672,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "ttsPerformanceNote": null,
+      "n": 25
+    },
+    {
+      "sourceEntry": 1394,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I think I’m going to be sick. I’m f…f…forty…",
+      "src": "audio/pages/85/lines/026_penny_cbde48f5fa09_norm.mp3",
+      "duration": 7.895,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM",
+      "ttsPerformanceNote": "TTS-only stutter shaping; display text remains source-facing.",
+      "n": 26
+    },
+    {
+      "sourceEntry": 1394,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Pause",
+      "src": "audio/pages/85/lines/027_director_c308f1f264d4_norm.mp3",
+      "duration": 0.682,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "ttsPerformanceNote": null,
+      "n": 27
+    },
+    {
+      "sourceEntry": 1394,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "One! There. I’ve said it.",
+      "src": "audio/pages/85/lines/028_penny_4d4ece516316_norm.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM",
+      "ttsPerformanceNote": null,
+      "n": 28
+    },
+    {
+      "sourceEntry": 1394,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Looks at them in horror",
+      "src": "audio/pages/85/lines/029_director_04d6811d85c0_norm.mp3",
+      "duration": 0.9,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "ttsPerformanceNote": null,
+      "n": 29
+    },
+    {
+      "sourceEntry": 1394,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh God, what have I done?",
+      "src": "audio/pages/85/lines/030_penny_bfb662c303dd_norm.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM",
+      "ttsPerformanceNote": null,
+      "n": 30
+    },
+    {
+      "sourceEntry": 1394,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Starts to cry.",
+      "src": "audio/pages/85/lines/031_director_a6b840ed9ea4_norm.mp3",
+      "duration": 0.867,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "ttsPerformanceNote": null,
+      "n": 31
+    },
+    {
+      "sourceEntry": 1394,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I should never have told you. You’ll never let me forget it.",
+      "src": "audio/pages/85/lines/032_penny_ec1adc8ea0fd_norm.mp3",
+      "duration": 3.715,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM",
+      "ttsPerformanceNote": null,
+      "n": 32
+    },
+    {
+      "sourceEntry": 1394,
+      "speaker": "DIRECTOR",
+      "kind": "inline_stage_direction",
+      "text": "Wails",
+      "src": "audio/pages/85/lines/033_director_298554ef666f_norm.mp3",
+      "duration": 0.745,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "ttsPerformanceNote": null,
+      "n": 33
+    },
+    {
+      "sourceEntry": 1394,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I don’t want to be f…that age.",
+      "src": "audio/pages/85/lines/034_penny_cf4c84723812_norm.mp3",
+      "duration": 3.855,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM",
+      "ttsPerformanceNote": "TTS-only stutter shaping; display text remains source-facing.",
+      "n": 34
+    },
+    {
+      "n": 35,
       "sourceEntry": 1394,
       "speaker": "MONICA",
       "kind": "spoken",
@@ -248,7 +405,7 @@
       "voiceName": "Charlotte - Warm & Conversational"
     },
     {
-      "n": 23,
+      "n": 36,
       "sourceEntry": 1395,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -259,7 +416,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 24,
+      "n": 37,
       "sourceEntry": 1395,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -270,7 +427,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 25,
+      "n": 38,
       "sourceEntry": 1396,
       "speaker": "GWENDOLYN",
       "kind": "spoken",
@@ -281,7 +438,7 @@
       "voiceName": "Lily - Velvety Actress"
     },
     {
-      "n": 26,
+      "n": 39,
       "sourceEntry": 1397,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -295,21 +452,21 @@
   "stitchedAudio": {
     "full_cast": {
       "src": "audio/stitched_pages/page_85_full_cast.mp3",
-      "duration": 90.701,
-      "bytes": 1815554,
-      "segments": 26
+      "duration": 98.762,
+      "bytes": 1976468,
+      "segments": 39
     },
     "learn_rodney_director": {
       "src": "audio/stitched_pages/page_85_learn_rodney_director.mp3",
-      "duration": 90.699,
-      "bytes": 1815554,
-      "segments": 26
+      "duration": 98.761,
+      "bytes": 1976468,
+      "segments": 39
     },
     "learn_rodney_no_director": {
       "src": "audio/stitched_pages/page_85_learn_rodney_no_director.mp3",
-      "duration": 57.259,
-      "bytes": 1146297,
-      "segments": 21
+      "duration": 82.94,
+      "bytes": 1660386,
+      "segments": 28
     }
   }
 }
