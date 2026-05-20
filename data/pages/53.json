@@ -64,17 +64,6 @@
       "n": 6,
       "sourceEntry": 848,
       "speaker": "DIRECTOR",
-      "kind": "stage_direction_before",
-      "text": "PARKES (laughing and nudging PENNY) It certainly is, eh girl? RODNEY looks up. Now PENNY is embarrassed.",
-      "src": "audio/pages/53/lines/006_director_f5455940f10_norm.mp3",
-      "duration": 5.513,
-      "speed": "1.5x",
-      "voiceName": "Ockle Jane - Dry Wit"
-    },
-    {
-      "n": 7,
-      "sourceEntry": 848,
-      "speaker": "DIRECTOR",
       "kind": "stage_direction_before_recovered_line",
       "text": "PARKES laughing and nudging PENNY.",
       "src": "audio/pages/53/lines/007_director_2984cf5577b_norm.mp3",
@@ -83,7 +72,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 8,
+      "n": 7,
       "sourceEntry": 848,
       "speaker": "PARKES",
       "kind": "spoken_recovered_from_stage_before",
@@ -94,7 +83,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 9,
+      "n": 8,
       "sourceEntry": 848,
       "speaker": "DIRECTOR",
       "kind": "stage_direction_before",
@@ -105,7 +94,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 10,
+      "n": 9,
       "sourceEntry": 848,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -116,7 +105,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 11,
+      "n": 10,
       "sourceEntry": 849,
       "speaker": "MONICA",
       "kind": "spoken",
@@ -127,7 +116,7 @@
       "voiceName": "Charlotte - Warm & Conversational"
     },
     {
-      "n": 12,
+      "n": 11,
       "sourceEntry": 850,
       "speaker": "PARKES",
       "kind": "spoken",
@@ -138,7 +127,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 13,
+      "n": 12,
       "sourceEntry": 851,
       "speaker": "MONICA",
       "kind": "spoken",
@@ -149,7 +138,7 @@
       "voiceName": "Charlotte - Warm & Conversational"
     },
     {
-      "n": 14,
+      "n": 13,
       "sourceEntry": 852,
       "speaker": "PARKES",
       "kind": "spoken",
@@ -160,7 +149,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 15,
+      "n": 14,
       "sourceEntry": 853,
       "speaker": "DIRECTOR",
       "kind": "stage_direction_before",
@@ -171,7 +160,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 16,
+      "n": 15,
       "sourceEntry": 853,
       "speaker": "PARKES",
       "kind": "spoken_parse_wrap_fix",
@@ -182,7 +171,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 17,
+      "n": 16,
       "sourceEntry": 854,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -193,7 +182,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 18,
+      "n": 17,
       "sourceEntry": 855,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -204,7 +193,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 19,
+      "n": 18,
       "sourceEntry": 855,
       "speaker": "PARKES",
       "kind": "spoken",
@@ -215,7 +204,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 20,
+      "n": 19,
       "sourceEntry": 856,
       "speaker": "MONICA",
       "kind": "spoken",
@@ -226,7 +215,7 @@
       "voiceName": "Charlotte - Warm & Conversational"
     },
     {
-      "n": 21,
+      "n": 20,
       "sourceEntry": 857,
       "speaker": "PARKES",
       "kind": "spoken",
@@ -237,7 +226,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 22,
+      "n": 21,
       "sourceEntry": 858,
       "speaker": "MONICA",
       "kind": "spoken",
@@ -248,7 +237,7 @@
       "voiceName": "Charlotte - Warm & Conversational"
     },
     {
-      "n": 23,
+      "n": 22,
       "sourceEntry": 859,
       "speaker": "DIRECTOR",
       "kind": "stage_direction_before",
@@ -259,7 +248,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 24,
+      "n": 23,
       "sourceEntry": 859,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -270,7 +259,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 25,
+      "n": 24,
       "sourceEntry": 859,
       "speaker": "PARKES",
       "kind": "spoken_parse_stage_split",
@@ -281,7 +270,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 26,
+      "n": 25,
       "sourceEntry": 859,
       "speaker": "DIRECTOR",
       "kind": "stage_direction_after_parse_split",
@@ -292,7 +281,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 27,
+      "n": 26,
       "sourceEntry": 860,
       "speaker": "MONICA",
       "kind": "spoken",
@@ -303,7 +292,7 @@
       "voiceName": "Charlotte - Warm & Conversational"
     },
     {
-      "n": 28,
+      "n": 27,
       "sourceEntry": 861,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -314,7 +303,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 29,
+      "n": 28,
       "sourceEntry": 861,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -328,15 +317,15 @@
   "stitchedAudio": {
     "full_cast": {
       "src": "audio/stitched_pages/page_53_full_cast.mp3",
-      "duration": 71.039,
-      "bytes": 1422150,
-      "segments": 29
+      "duration": 65.526,
+      "bytes": 1311913,
+      "segments": 28
     },
     "learn_rodney_director": {
       "src": "audio/stitched_pages/page_53_learn_rodney_director.mp3",
-      "duration": 71.039,
-      "bytes": 1422150,
-      "segments": 29
+      "duration": 65.526,
+      "bytes": 1311913,
+      "segments": 28
     },
     "learn_rodney_no_director": {
       "src": "audio/stitched_pages/page_53_learn_rodney_no_director.mp3",
