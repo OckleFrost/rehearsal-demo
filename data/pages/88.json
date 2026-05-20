@@ -2,11 +2,23 @@
   "page": 88,
   "title": "Caravan — Page 88",
   "act": "Act Two",
-  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
-  "status": "provisional-existing-render",
+  "source": "Caravan printed page 88 with restored source stage directions and existing dialogue/audio retained",
+  "status": "page88-stage-directions-restored",
   "lines": [
     {
-      "n": 1,
+      "sourceEntry": null,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_restored",
+      "text": "They all drink.",
+      "src": "audio/pages/88/lines/001_director_1dc6c61ff4e9_norm.mp3",
+      "duration": 0.919,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "restoredFromSource": "printed script page direction",
+      "n": 1
+    },
+    {
+      "n": 2,
       "sourceEntry": 1429,
       "speaker": "PARKES",
       "kind": "spoken",
@@ -17,7 +29,19 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 2,
+      "sourceEntry": null,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_restored",
+      "text": "They listen.",
+      "src": "audio/pages/88/lines/003_director_8aa1a82aff6c_norm.mp3",
+      "duration": 0.673,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "restoredFromSource": "printed script page direction",
+      "n": 3
+    },
+    {
+      "n": 4,
       "sourceEntry": 1430,
       "speaker": "PARKES",
       "kind": "spoken",
@@ -28,7 +52,19 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 3,
+      "sourceEntry": null,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_restored",
+      "text": "He runs out.",
+      "src": "audio/pages/88/lines/005_director_9ce968e64bd0_norm.mp3",
+      "duration": 0.748,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "restoredFromSource": "printed script page direction",
+      "n": 5
+    },
+    {
+      "n": 6,
       "sourceEntry": 1431,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -39,7 +75,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 4,
+      "n": 7,
       "sourceEntry": 1432,
       "speaker": "MONICA",
       "kind": "spoken",
@@ -50,7 +86,7 @@
       "voiceName": "Charlotte - Warm & Conversational"
     },
     {
-      "n": 5,
+      "n": 8,
       "sourceEntry": 1433,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -61,7 +97,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 6,
+      "n": 9,
       "sourceEntry": 1434,
       "speaker": "DIRECTOR",
       "kind": "stage_direction_before",
@@ -72,7 +108,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 7,
+      "n": 10,
       "sourceEntry": 1434,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -83,7 +119,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 8,
+      "n": 11,
       "sourceEntry": 1435,
       "speaker": "ALL",
       "kind": "mixed_chorus",
@@ -94,7 +130,7 @@
       "voiceName": "PENNY + MONICA + RODNEY + PARKES + PIERCE + GWENDOLYN"
     },
     {
-      "n": 9,
+      "n": 12,
       "sourceEntry": 1436,
       "speaker": "PARKES",
       "kind": "spoken_offstage",
@@ -105,7 +141,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 10,
+      "n": 13,
       "sourceEntry": 1437,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -116,7 +152,19 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 11,
+      "sourceEntry": null,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_restored",
+      "text": "PARKES enters.",
+      "src": "audio/pages/88/lines/014_director_da470885beb3_norm.mp3",
+      "duration": 0.75,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "restoredFromSource": "printed script page direction",
+      "n": 14
+    },
+    {
+      "n": 15,
       "sourceEntry": 1438,
       "speaker": "PARKES",
       "kind": "spoken",
@@ -127,7 +175,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 12,
+      "n": 16,
       "sourceEntry": 1439,
       "speaker": "ALL",
       "kind": "mixed_chorus",
@@ -138,7 +186,7 @@
       "voiceName": "PENNY + MONICA + RODNEY + PARKES + PIERCE + GWENDOLYN"
     },
     {
-      "n": 13,
+      "n": 17,
       "sourceEntry": 1439,
       "speaker": "DIRECTOR",
       "kind": "stage_direction_after_parse_split",
@@ -149,7 +197,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 14,
+      "n": 18,
       "sourceEntry": 1440,
       "speaker": "PARKES",
       "kind": "spoken",
@@ -160,7 +208,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 15,
+      "n": 19,
       "sourceEntry": 1441,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -171,7 +219,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 16,
+      "n": 20,
       "sourceEntry": 1442,
       "speaker": "PARKES",
       "kind": "spoken",
@@ -182,7 +230,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 17,
+      "n": 21,
       "sourceEntry": 1443,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -193,7 +241,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 18,
+      "n": 22,
       "sourceEntry": 1444,
       "speaker": "ALL",
       "kind": "mixed_chorus",
@@ -202,20 +250,32 @@
       "duration": 1.139,
       "speed": null,
       "voiceName": "PENNY + MONICA + RODNEY + PARKES + PIERCE + GWENDOLYN"
+    },
+    {
+      "sourceEntry": null,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_restored",
+      "text": "CURTAIN.",
+      "src": "audio/pages/88/lines/023_director_5c27933f0b85_norm.mp3",
+      "duration": 0.707,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "restoredFromSource": "printed script page direction",
+      "n": 23
     }
   ],
   "stitchedAudio": {
     "full_cast": {
       "src": "audio/stitched_pages/page_88_full_cast.mp3",
-      "duration": 27.314,
-      "bytes": 547570,
-      "segments": 18
+      "duration": 31.111,
+      "bytes": 623325,
+      "segments": 23
     },
     "learn_rodney_director": {
       "src": "audio/stitched_pages/page_88_learn_rodney_director.mp3",
-      "duration": 27.314,
-      "bytes": 547570,
-      "segments": 18
+      "duration": 31.111,
+      "bytes": 623325,
+      "segments": 23
     },
     "learn_rodney_no_director": {
       "src": "audio/stitched_pages/page_88_learn_rodney_no_director.mp3",

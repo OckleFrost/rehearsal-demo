@@ -2,11 +2,23 @@
   "page": 87,
   "title": "Caravan — Page 87",
   "act": "Act Two",
-  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
-  "status": "provisional-existing-render",
+  "source": "Caravan printed page 87 with restored source stage directions and existing dialogue/audio retained",
+  "status": "page87-stage-directions-restored",
   "lines": [
     {
-      "n": 1,
+      "sourceEntry": null,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_restored",
+      "text": "He sinks down on the double bed.",
+      "src": "audio/pages/87/lines/001_director_36b81234ab93_norm.mp3",
+      "duration": 1.367,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "restoredFromSource": "printed script page direction",
+      "n": 1
+    },
+    {
+      "n": 2,
       "sourceEntry": 1415,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -17,7 +29,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 2,
+      "n": 3,
       "sourceEntry": 1415,
       "speaker": "PARKES",
       "kind": "spoken",
@@ -28,7 +40,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 3,
+      "n": 4,
       "sourceEntry": 1416,
       "speaker": "PIERCE",
       "kind": "spoken",
@@ -39,7 +51,7 @@
       "voiceName": "James"
     },
     {
-      "n": 4,
+      "n": 5,
       "sourceEntry": 1417,
       "speaker": "RODNEY",
       "kind": "spoken_parse_stage_split",
@@ -50,7 +62,7 @@
       "voiceName": "Ty Frost private clone"
     },
     {
-      "n": 5,
+      "n": 6,
       "sourceEntry": 1417,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -61,7 +73,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 6,
+      "n": 7,
       "sourceEntry": 1417,
       "speaker": "RODNEY",
       "kind": "spoken_parse_stage_split",
@@ -72,7 +84,7 @@
       "voiceName": "Ty Frost private clone"
     },
     {
-      "n": 7,
+      "n": 8,
       "sourceEntry": 1418,
       "speaker": "PIERCE",
       "kind": "spoken",
@@ -83,7 +95,19 @@
       "voiceName": "James"
     },
     {
-      "n": 8,
+      "sourceEntry": null,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_restored",
+      "text": "PARKES has a broom. He very carefully pulls back the sheets off the top bunk and hits the bunk savagely.",
+      "src": "audio/pages/87/lines/009_director_d74891b972f8_norm.mp3",
+      "duration": 3.842,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "restoredFromSource": "printed script page direction",
+      "n": 9
+    },
+    {
+      "n": 10,
       "sourceEntry": 1419,
       "speaker": "RODNEY",
       "kind": "spoken",
@@ -94,7 +118,19 @@
       "voiceName": "Ty Frost private clone"
     },
     {
-      "n": 9,
+      "sourceEntry": null,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_restored",
+      "text": "PARKES holds something up.",
+      "src": "audio/pages/87/lines/011_director_826b7ed0fe91_norm.mp3",
+      "duration": 1.131,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "restoredFromSource": "printed script page direction",
+      "n": 11
+    },
+    {
+      "n": 12,
       "sourceEntry": 1420,
       "speaker": "PARKES",
       "kind": "spoken",
@@ -105,7 +141,31 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 10,
+      "sourceEntry": null,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_restored",
+      "text": "They all laugh with relief.",
+      "src": "audio/pages/87/lines/013_director_231cb7334039_norm.mp3",
+      "duration": 1.055,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "restoredFromSource": "printed script page direction",
+      "n": 13
+    },
+    {
+      "sourceEntry": null,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_restored",
+      "text": "PENNY puts the mask on PIERCE.",
+      "src": "audio/pages/87/lines/014_director_f5a8ba7df225_norm.mp3",
+      "duration": 1.196,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "restoredFromSource": "printed script page direction",
+      "n": 14
+    },
+    {
+      "n": 15,
       "sourceEntry": 1421,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -116,7 +176,19 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 11,
+      "sourceEntry": null,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_restored",
+      "text": "They all laugh, except PIERCE.",
+      "src": "audio/pages/87/lines/016_director_9c802e4e72ab_norm.mp3",
+      "duration": 1.303,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "restoredFromSource": "printed script page direction",
+      "n": 16
+    },
+    {
+      "n": 17,
       "sourceEntry": 1422,
       "speaker": "PIERCE",
       "kind": "spoken",
@@ -127,7 +199,7 @@
       "voiceName": "James"
     },
     {
-      "n": 12,
+      "n": 18,
       "sourceEntry": 1423,
       "speaker": "PARKES",
       "kind": "spoken",
@@ -138,7 +210,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 13,
+      "n": 19,
       "sourceEntry": 1424,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -149,7 +221,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 14,
+      "n": 20,
       "sourceEntry": 1424,
       "speaker": "GWENDOLYN",
       "kind": "spoken",
@@ -160,7 +232,7 @@
       "voiceName": "Lily - Velvety Actress"
     },
     {
-      "n": 15,
+      "n": 21,
       "sourceEntry": 1425,
       "speaker": "PIERCE",
       "kind": "spoken",
@@ -171,7 +243,19 @@
       "voiceName": "James"
     },
     {
-      "n": 16,
+      "sourceEntry": null,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction_restored",
+      "text": "PARKES pours drinks. MONICA and PENNY clutch each other hysterically.",
+      "src": "audio/pages/87/lines/022_director_37dba561216c_norm.mp3",
+      "duration": 2.477,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit",
+      "restoredFromSource": "printed script page direction",
+      "n": 22
+    },
+    {
+      "n": 23,
       "sourceEntry": 1426,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -182,7 +266,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 17,
+      "n": 24,
       "sourceEntry": 1427,
       "speaker": "PARKES",
       "kind": "spoken_parse_stage_split",
@@ -193,7 +277,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 18,
+      "n": 25,
       "sourceEntry": 1427,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -204,7 +288,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 19,
+      "n": 26,
       "sourceEntry": 1427,
       "speaker": "PARKES",
       "kind": "spoken_parse_stage_split",
@@ -215,7 +299,7 @@
       "voiceName": "Dave - Expressive Australian English"
     },
     {
-      "n": 20,
+      "n": 27,
       "sourceEntry": 1427,
       "speaker": "DIRECTOR",
       "kind": "stage_direction_after_parse_split",
@@ -226,7 +310,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 21,
+      "n": 28,
       "sourceEntry": 1428,
       "speaker": "PIERCE",
       "kind": "spoken",
@@ -240,15 +324,15 @@
   "stitchedAudio": {
     "full_cast": {
       "src": "audio/stitched_pages/page_87_full_cast.mp3",
-      "duration": 39.77,
-      "bytes": 796778,
-      "segments": 21
+      "duration": 52.139,
+      "bytes": 1043897,
+      "segments": 28
     },
     "learn_rodney_director": {
       "src": "audio/stitched_pages/page_87_learn_rodney_director.mp3",
-      "duration": 39.769,
-      "bytes": 796778,
-      "segments": 21
+      "duration": 52.139,
+      "bytes": 1043897,
+      "segments": 28
     },
     "learn_rodney_no_director": {
       "src": "audio/stitched_pages/page_87_learn_rodney_no_director.mp3",
