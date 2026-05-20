@@ -1,0 +1,326 @@
+{
+  "page": 37,
+  "title": "Page 37",
+  "act": "Act One",
+  "source": "Caravan pages 37-39 phone-safe accepted render split by raw page markers",
+  "status": "existing-render-phone-safe",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 565,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I’m not doing anything in front of them.",
+      "src": "audio/pages/37/lines/001_penny_i_m_not_doing_anything_i.mp3",
+      "duration": 2.183,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 566,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You’re being over-sensitive.",
+      "src": "audio/pages/37/lines/002_parkes_you_re_being_over_sensit.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 567,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "And all that talk this morning. Suggesting we’re at it all the time. Like a pair of rabbits. Why do you lie like that?",
+      "src": "audio/pages/37/lines/003_penny_and_all_that_talk_this_m.mp3",
+      "duration": 7.616,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 568,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "It was only a joke, Penny.",
+      "src": "audio/pages/37/lines/004_parkes_it_was_only_a_joke_penny.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 569,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Hmmm. Yes.",
+      "src": "audio/pages/37/lines/005_penny_hmmm_yes.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 570,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "grabbing her",
+      "src": "audio/pages/37/lines/006_director_grabbing_her.mp3",
+      "duration": 0.625,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 571,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I really fancy you in that nightie.",
+      "src": "audio/pages/37/lines/007_parkes_i_really_fancy_you_in_th.mp3",
+      "duration": 2.09,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 572,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "PARKES holds her and kisses her. As she struggles with him, RODNEY enters.",
+      "src": "audio/pages/37/lines/008_director_parkes_holds_her_and_kis.mp3",
+      "duration": 2.607,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 573,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Oh sorry. My apologies. Sorry.",
+      "src": "audio/pages/37/lines/009_rodney_oh_sorry_my_apologies_so.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 574,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "He backs out, trying not to look.",
+      "src": "audio/pages/37/lines/010_director_he_backs_out_trying_not_.mp3",
+      "duration": 1.327,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 575,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "That’s all right, mate. Come in, come in.",
+      "src": "audio/pages/37/lines/011_parkes_that_s_all_right_mate_co.mp3",
+      "duration": 1.95,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 576,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "He holds onto PENNY, who tries to pull away. PARKES holds her bottom.",
+      "src": "audio/pages/37/lines/012_director_he_holds_onto_penny_who_.mp3",
+      "duration": 2.976,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 577,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "She looks good in her nightie, doesn’t she?",
+      "src": "audio/pages/37/lines/013_parkes_she_looks_good_in_her_ni.mp3",
+      "duration": 1.904,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 578,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "not looking",
+      "src": "audio/pages/37/lines/014_director_not_looking.mp3",
+      "duration": 0.441,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 579,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Very nice, yes. I just wanted my towel. I’m going for a shower.",
+      "src": "audio/pages/37/lines/015_rodney_very_nice_yes_i_just_wan.mp3",
+      "duration": 3.065,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 580,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Where are the others?",
+      "src": "audio/pages/37/lines/016_parkes_where_are_the_others.mp3",
+      "duration": 1.022,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 581,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Pierce and Gwendolyn have gone for a walk. And Monica’s taking a shower.",
+      "src": "audio/pages/37/lines/017_rodney_pierce_and_gwendolyn_hav.mp3",
+      "duration": 3.529,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 582,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Did she take the torch?",
+      "src": "audio/pages/37/lines/018_penny_did_she_take_the_torch.mp3",
+      "duration": 1.533,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 583,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "No? Why?",
+      "src": "audio/pages/37/lines/019_rodney_no_why.mp3",
+      "duration": 0.604,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 584,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "There are no lights in the shower.",
+      "src": "audio/pages/37/lines/020_penny_there_are_no_lights_in_t.mp3",
+      "duration": 2.043,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 585,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I’ll take a torch up to her.",
+      "src": "audio/pages/37/lines/021_parkes_i_ll_take_a_torch_up_to_.mp3",
+      "duration": 1.486,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 586,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "It’s all right. I’m going.",
+      "src": "audio/pages/37/lines/022_rodney_it_s_all_right_i_m_going.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 587,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "suddenly enthusiastic",
+      "src": "audio/pages/37/lines/023_director_suddenly_enthusiastic.mp3",
+      "duration": 0.834,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 588,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh let Parkes. He knows how the shower works.",
+      "src": "audio/pages/37/lines/024_penny_oh_let_parkes_he_knows_h.mp3",
+      "duration": 2.554,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 25,
+      "sourceEntry": 589,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "It’s just like any other shower.",
+      "src": "audio/pages/37/lines/025_parkes_it_s_just_like_any_other.mp3",
+      "duration": 1.625,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 26,
+      "sourceEntry": 590,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Show Monica the taps.",
+      "src": "audio/pages/37/lines/026_penny_show_monica_the_taps.mp3",
+      "duration": 1.486,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 27,
+      "sourceEntry": 591,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "PARKES eyes her curiously.",
+      "src": "audio/pages/37/lines/027_director_parkes_eyes_her_curiousl.mp3",
+      "duration": 1.016,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_37_full_cast_addpages.mp3",
+      "duration": 51.157,
+      "bytes": 1024566,
+      "segments": 27
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_37_learn_rodney_director_addpages.mp3",
+      "duration": 51.152,
+      "bytes": 1024566,
+      "segments": 27
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_37_learn_rodney_no_director_addpages.mp3",
+      "duration": 41.327,
+      "bytes": 828125,
+      "segments": 20
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "page": 27,
+  "title": "Page 27",
+  "act": "Act One",
+  "source": "Caravan printed pages 26-28 accepted render",
+  "status": "existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 387,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Did a snake jump on your knee when you were a child, too?",
+      "src": "audio/pages/27/lines/001_monica_did_a_snake_jump_on_your.mp3",
+      "duration": 2.786,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 388,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Gwendolyn will beat the nasty snakes off for you.",
+      "src": "audio/pages/27/lines/002_gwendolyn_gwendolyn_will_beat_the_.mp3",
+      "duration": 2.879,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 389,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Gwendolyn, don’t be silly please. It’s a very real fear I have.",
+      "src": "audio/pages/27/lines/003_pierce_gwendolyn_don_t_be_silly.mp3",
+      "duration": 3.947,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 390,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "You didn’t say anything about snakes!",
+      "src": "audio/pages/27/lines/004_rodney_you_didn_t_say_anything_.mp3",
+      "duration": 2.09,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 391,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "That’s because I’ve never seen a bloody snake!",
+      "src": "audio/pages/27/lines/005_parkes_that_s_because_i_ve_neve.mp3",
+      "duration": 2.322,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 392,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes, please don’t lose your temper.",
+      "src": "audio/pages/27/lines/006_penny_parkes_please_don_t_lose.mp3",
+      "duration": 2.554,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 393,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "controls himself",
+      "src": "audio/pages/27/lines/007_director_controls_himself.mp3",
+      "duration": 0.761,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 393,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "All right. You and Gwendolyn sleep in here. Penny and I will sleep in the annexe.",
+      "src": "audio/pages/27/lines/008_parkes_all_right_you_and_gwendo.mp3",
+      "duration": 4.69,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 394,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "What!!",
+      "src": "audio/pages/27/lines/009_penny_what.mp3",
+      "duration": 0.697,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 395,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Now don’t tell me you’re scared of spiders?",
+      "src": "audio/pages/27/lines/010_parkes_now_don_t_tell_me_you_re.mp3",
+      "duration": 2.09,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 396,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/27/lines/011_director_brightly.mp3",
+      "duration": 0.592,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 396,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "No, no. Not at all.",
+      "src": "audio/pages/27/lines/012_penny_no_no_not_at_all.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 396,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Firmly",
+      "src": "audio/pages/27/lines/013_director_firmly.mp3",
+      "duration": 0.465,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 396,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "There’s never been anything out there.",
+      "src": "audio/pages/27/lines/014_penny_there_s_never_been_anyth.mp3",
+      "duration": 2.043,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 397,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "How lovely, Pierce. Then Rodney and I can listen to you and Gwendolyn. I hope you’re not noisy.",
+      "src": "audio/pages/27/lines/015_monica_how_lovely_pierce_then_r.mp3",
+      "duration": 6.177,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 398,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Monica!",
+      "src": "audio/pages/27/lines/016_rodney_monica.mp3",
+      "duration": 0.697,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 399,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "puzzled",
+      "src": "audio/pages/27/lines/017_director_puzzled.mp3",
+      "duration": 0.623,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 399,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Sorry?",
+      "src": "audio/pages/27/lines/018_gwendolyn_sorry.mp3",
+      "duration": 0.697,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 400,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "When you’re tucked up at night with Piercie-wiercie in your weenie little beddie-weddie. It could be embarrassing.",
+      "src": "audio/pages/27/lines/019_monica_when_you_re_tucked_up_at.mp3",
+      "duration": 6.873,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 400,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "GWENDOLYN’S joyful beam fades for the first time. She is desperately embarrassed. She shakes her head silently, giggles and looks at the floor.",
+      "src": "audio/pages/27/lines/020_director_gwendolyn_s_joyful_beam_.mp3",
+      "duration": 6.039,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 401,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "We’ll sleep in the annexe.",
+      "src": "audio/pages/27/lines/021_pierce_we_ll_sleep_in_the_annex.mp3",
+      "duration": 1.579,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 402,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You’re sure?",
+      "src": "audio/pages/27/lines/022_parkes_you_re_sure.mp3",
+      "duration": 0.836,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 403,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Yes, yes, positive.",
+      "src": "audio/pages/27/lines/023_pierce_yes_yes_positive.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 404,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I’ll give you some insect repellent.",
+      "src": "audio/pages/27/lines/024_parkes_i_ll_give_you_some_insec.mp3",
+      "duration": 1.765,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 25,
+      "sourceEntry": 405,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Thank you very much. I’ll go and get the stuff out of the car.",
+      "src": "audio/pages/27/lines/025_pierce_thank_you_very_much_i_ll.mp3",
+      "duration": 3.529,
+      "speed": null,
+      "voiceName": "James"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_27_full_cast_addpages.mp3",
+      "duration": 59.564,
+      "bytes": 1192795,
+      "segments": 25
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_27_learn_rodney_director_addpages.mp3",
+      "duration": 59.566,
+      "bytes": 1192795,
+      "segments": 25
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_27_learn_rodney_no_director_addpages.mp3",
+      "duration": 51.085,
+      "bytes": 1022999,
+      "segments": 20
+    }
+  }
+}

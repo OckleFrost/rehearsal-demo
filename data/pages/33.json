@@ -1,0 +1,381 @@
+{
+  "page": 33,
+  "title": "Page 33",
+  "act": "Act One",
+  "source": "Caravan printed page 33 through page 34 accepted render",
+  "status": "existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 495,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I hardly think that’s possible under the circumstances. But I will try. God knows, I will try. I promise.",
+      "src": "audio/pages/33/lines/001_monica_i_hardly_think_that_s_po.mp3",
+      "duration": 6.177,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 496,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Thank you. It’s going to be fun. You’ll see. We’re all going to relax and have fun.",
+      "src": "audio/pages/33/lines/002_penny_thank_you_it_s_going_to_.mp3",
+      "duration": 5.619,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 497,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "OFF",
+      "src": "audio/pages/33/lines/003_director_off.mp3",
+      "duration": 0.336,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 497,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Don’t put that bloody stuff there!",
+      "src": "audio/pages/33/lines/004_parkes_don_t_put_that_bloody_st.mp3",
+      "duration": 2.136,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 498,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "OFF",
+      "src": "audio/pages/33/lines/005_director_off.mp3",
+      "duration": 0.467,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 498,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Where do you want me to put it then?",
+      "src": "audio/pages/33/lines/006_pierce_where_do_you_want_me_to_.mp3",
+      "duration": 1.672,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 499,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "OFF",
+      "src": "audio/pages/33/lines/007_director_off.mp3",
+      "duration": 0.498,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 499,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Can’t it wait till I get the annexe up?",
+      "src": "audio/pages/33/lines/008_parkes_can_t_it_wait_till_i_get.mp3",
+      "duration": 2.043,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 500,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "OFF",
+      "src": "audio/pages/33/lines/009_director_off.mp3",
+      "duration": 0.524,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 500,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I’m only trying to help.",
+      "src": "audio/pages/33/lines/010_pierce_i_m_only_trying_to_help.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 501,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "OFF",
+      "src": "audio/pages/33/lines/011_director_off.mp3",
+      "duration": 0.38,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 501,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Well, don’t just stand there. Hold this.",
+      "src": "audio/pages/33/lines/012_rodney_well_don_t_just_stand_th.mp3",
+      "duration": 2.043,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 502,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Fun, fun, fun.",
+      "src": "audio/pages/33/lines/013_monica_fun_fun_fun.mp3",
+      "duration": 1.022,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 503,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "GWENDOLYN enters, carrying a suitcase, and looking flustered.",
+      "src": "audio/pages/33/lines/014_director_gwendolyn_enters_carryin.mp3",
+      "duration": 1.926,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 503,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "I thought I’d get out of the way.",
+      "src": "audio/pages/33/lines/015_gwendolyn_i_thought_i_d_get_out_of.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 504,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "OFF",
+      "src": "audio/pages/33/lines/016_director_off.mp3",
+      "duration": 0.465,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 504,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Not that, you idiot!!",
+      "src": "audio/pages/33/lines/017_parkes_not_that_you_idiot.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 505,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/33/lines/018_director_brightly.mp3",
+      "duration": 0.63,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 505,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Don’t take any notice of Parkes. His bark is much worse than his bite.",
+      "src": "audio/pages/33/lines/019_penny_don_t_take_any_notice_of.mp3",
+      "duration": 4.365,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 506,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "OFF",
+      "src": "audio/pages/33/lines/020_director_off.mp3",
+      "duration": 0.56,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 506,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Look out, you stupid...",
+      "src": "audio/pages/33/lines/021_parkes_look_out_you_stupid.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 507,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "OFF",
+      "src": "audio/pages/33/lines/022_director_off.mp3",
+      "duration": 0.406,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 507,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Don’t just stand there, Pierce.",
+      "src": "audio/pages/33/lines/023_rodney_don_t_just_stand_there_p.mp3",
+      "duration": 1.625,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 508,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "OFF",
+      "src": "audio/pages/33/lines/024_director_off.mp3",
+      "duration": 0.438,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 25,
+      "sourceEntry": 508,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I’m only trying to help! Aaah!",
+      "src": "audio/pages/33/lines/025_pierce_i_m_only_trying_to_help_.mp3",
+      "duration": 1.904,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 26,
+      "sourceEntry": 509,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "A loud crash outside. Yells and curses. Silence. RODNEY pokes his head in the door.",
+      "src": "audio/pages/33/lines/026_director_a_loud_crash_outside_yel.mp3",
+      "duration": 3.563,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 27,
+      "sourceEntry": 509,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "The annexe fell down.",
+      "src": "audio/pages/33/lines/027_rodney_the_annexe_fell_down.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 28,
+      "sourceEntry": 510,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "He exits again. Then PARKES appears, holding his hand in pain.",
+      "src": "audio/pages/33/lines/028_director_he_exits_again_then_park.mp3",
+      "duration": 2.932,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 29,
+      "sourceEntry": 510,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Bloody shit. Bloody, bloody shit.",
+      "src": "audio/pages/33/lines/029_parkes_bloody_shit_bloody_blood.mp3",
+      "duration": 2.136,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 30,
+      "sourceEntry": 511,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "GWENDOLYN giggles, and looks at the floor.",
+      "src": "audio/pages/33/lines/030_director_gwendolyn_giggles_and_lo.mp3",
+      "duration": 1.198,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 31,
+      "sourceEntry": 511,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "What have you done?",
+      "src": "audio/pages/33/lines/031_penny_what_have_you_done.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 32,
+      "sourceEntry": 512,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I’ve cut my hand...",
+      "src": "audio/pages/33/lines/032_parkes_i_ve_cut_my_hand.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_33_full_cast_addpages.mp3",
+      "duration": 54.724,
+      "bytes": 1095619,
+      "segments": 32
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_33_learn_rodney_director_addpages.mp3",
+      "duration": 54.724,
+      "bytes": 1095619,
+      "segments": 32
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_33_learn_rodney_no_director_addpages.mp3",
+      "duration": 40.402,
+      "bytes": 809317,
+      "segments": 18
+    }
+  }
+}

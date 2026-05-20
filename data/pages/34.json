@@ -1,0 +1,381 @@
+{
+  "page": 34,
+  "title": "Page 34",
+  "act": "Act One",
+  "source": "Caravan printed page 33 through page 34 accepted render",
+  "status": "existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 513,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "He bumps his head on the door.",
+      "src": "audio/pages/34/lines/001_director_he_bumps_his_head_on_the.mp3",
+      "duration": 1.086,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 513,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Ow! Bloody shit! Bloody shit!",
+      "src": "audio/pages/34/lines/002_parkes_ow_bloody_shit_bloody_sh.mp3",
+      "duration": 2.183,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 514,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Indicating GWENDOLYN",
+      "src": "audio/pages/34/lines/003_director_indicating_gwendolyn.mp3",
+      "duration": 0.737,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 514,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes, please!",
+      "src": "audio/pages/34/lines/004_penny_parkes_please.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 515,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Oh. Sorry.",
+      "src": "audio/pages/34/lines/005_parkes_oh_sorry.mp3",
+      "duration": 0.882,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 516,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "That’s all right.",
+      "src": "audio/pages/34/lines/006_gwendolyn_that_s_all_right.mp3",
+      "duration": 0.975,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 517,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Shit. Bloody shit.",
+      "src": "audio/pages/34/lines/007_parkes_shit_bloody_shit.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 518,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "RODNEY enters.",
+      "src": "audio/pages/34/lines/008_director_rodney_enters.mp3",
+      "duration": 0.861,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 518,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Are you all right, Parkes?",
+      "src": "audio/pages/34/lines/009_rodney_are_you_all_right_parkes.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 518,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "He bumps his head.",
+      "src": "audio/pages/34/lines/010_director_he_bumps_his_head.mp3",
+      "duration": 0.994,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 518,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Oh god. Oh God.",
+      "src": "audio/pages/34/lines/011_rodney_oh_god_oh_god.mp3",
+      "duration": 1.022,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 518,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "He leaps around in pain. PARKES laughs.",
+      "src": "audio/pages/34/lines/012_director_he_leaps_around_in_pain_.mp3",
+      "duration": 1.553,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 518,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Don’t you laugh!",
+      "src": "audio/pages/34/lines/013_rodney_don_t_you_laugh.mp3",
+      "duration": 0.975,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 519,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "PIERCE appears in the doorway, dishevelled.",
+      "src": "audio/pages/34/lines/014_director_pierce_appears_in_the_do.mp3",
+      "duration": 1.742,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 519,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I was under that bloody tent!",
+      "src": "audio/pages/34/lines/015_pierce_i_was_under_that_bloody_.mp3",
+      "duration": 1.765,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 519,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "He bumps his head",
+      "src": "audio/pages/34/lines/016_director_he_bumps_his_head.mp3",
+      "duration": 0.902,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 519,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Oh no! I can’t stand it!",
+      "src": "audio/pages/34/lines/017_pierce_oh_no_i_can_t_stand_it.mp3",
+      "duration": 1.486,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 520,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "He kicks the frame of the caravan door, savagely.",
+      "src": "audio/pages/34/lines/018_director_he_kicks_the_frame_of_th.mp3",
+      "duration": 2.077,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 520,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Hey, don’t you kick my caravan!",
+      "src": "audio/pages/34/lines/019_parkes_hey_don_t_you_kick_my_ca.mp3",
+      "duration": 1.625,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 521,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "What did you buy such a bloody silly caravan for, anyway?",
+      "src": "audio/pages/34/lines/020_pierce_what_did_you_buy_such_a_.mp3",
+      "duration": 3.251,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 522,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "horrified",
+      "src": "audio/pages/34/lines/021_director_horrified.mp3",
+      "duration": 0.529,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 522,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You’ve dented the door.",
+      "src": "audio/pages/34/lines/022_parkes_you_ve_dented_the_door.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 523,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "What about my head?",
+      "src": "audio/pages/34/lines/023_pierce_what_about_my_head.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 524,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I’ve only had this caravan for four years.",
+      "src": "audio/pages/34/lines/024_parkes_i_ve_only_had_this_carav.mp3",
+      "duration": 2.136,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 25,
+      "sourceEntry": 525,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/34/lines/025_director_brightly.mp3",
+      "duration": 0.497,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 26,
+      "sourceEntry": 525,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes, please. Remember your temper...",
+      "src": "audio/pages/34/lines/026_penny_parkes_please_remember_y.mp3",
+      "duration": 2.508,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 27,
+      "sourceEntry": 526,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "This is a practically new caravan. How could you do that?",
+      "src": "audio/pages/34/lines/027_parkes_this_is_a_practically_ne.mp3",
+      "duration": 2.926,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 28,
+      "sourceEntry": 527,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I’m sorry. I banged my head. The tent fell on me...",
+      "src": "audio/pages/34/lines/028_pierce_i_m_sorry_i_banged_my_he.mp3",
+      "duration": 3.204,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 29,
+      "sourceEntry": 528,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I banged my head. I cut my hand...",
+      "src": "audio/pages/34/lines/029_parkes_i_banged_my_head_i_cut_m.mp3",
+      "duration": 2.229,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 30,
+      "sourceEntry": 529,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "I banged my head, too!",
+      "src": "audio/pages/34/lines/030_rodney_i_banged_my_head_too.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 31,
+      "sourceEntry": 530,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "He banged his head. He didn’t try to kick the caravan down...",
+      "src": "audio/pages/34/lines/031_parkes_he_banged_his_head_he_di.mp3",
+      "duration": 2.972,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 32,
+      "sourceEntry": 531,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes, please. It doesn’t matter.",
+      "src": "audio/pages/34/lines/032_penny_parkes_please_it_doesn_t.mp3",
+      "duration": 2.09,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_34_full_cast_addpages.mp3",
+      "duration": 51.15,
+      "bytes": 1024566,
+      "segments": 32
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_34_learn_rodney_director_addpages.mp3",
+      "duration": 51.15,
+      "bytes": 1024566,
+      "segments": 32
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_34_learn_rodney_no_director_addpages.mp3",
+      "duration": 40.171,
+      "bytes": 804615,
+      "segments": 22
+    }
+  }
+}

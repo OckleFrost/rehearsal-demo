@@ -1,0 +1,359 @@
+{
+  "page": 38,
+  "title": "Page 38",
+  "act": "Act One",
+  "source": "Caravan pages 37-39 phone-safe accepted render split by raw page markers",
+  "status": "existing-render-phone-safe",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 584,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "I’m quite capable.",
+      "src": "audio/pages/38/lines/001_rodney_i_m_quite_capable.mp3",
+      "duration": 1.022,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 585,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "No, I’ll go.",
+      "src": "audio/pages/38/lines/002_parkes_no_i_ll_go.mp3",
+      "duration": 0.975,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 586,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes, will go.",
+      "src": "audio/pages/38/lines/003_penny_parkes_will_go.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 587,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Give Rodney the other torch.",
+      "src": "audio/pages/38/lines/004_parkes_give_rodney_the_other_to.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 588,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Yes.",
+      "src": "audio/pages/38/lines/005_penny_yes.mp3",
+      "duration": 0.789,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 589,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "as he goes",
+      "src": "audio/pages/38/lines/006_director_as_he_goes.mp3",
+      "duration": 0.51,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 590,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I hope I don’t give her a fright.",
+      "src": "audio/pages/38/lines/007_parkes_i_hope_i_don_t_give_her_.mp3",
+      "duration": 1.579,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 591,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "PARKES exits. PENNY stands looking expectantly at RODNEY. He nervously avoids her gaze. She closes the door.",
+      "src": "audio/pages/38/lines/008_director_parkes_exits_penny_stand.mp3",
+      "duration": 5.548,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 592,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "You’ve got some colour.",
+      "src": "audio/pages/38/lines/009_penny_you_ve_got_some_colour.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 593,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Yes. So have you.",
+      "src": "audio/pages/38/lines/010_rodney_yes_so_have_you.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 594,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I don’t know if I can stand this, Rodney. Having you so close. In that bed. With Monica.",
+      "src": "audio/pages/38/lines/011_penny_i_don_t_know_if_i_can_st.mp3",
+      "duration": 7.059,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 595,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Yes, it will be faintly embarrassing.",
+      "src": "audio/pages/38/lines/012_rodney_yes_it_will_be_faintly_e.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 596,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "It will be very embarrassing for me.",
+      "src": "audio/pages/38/lines/013_penny_it_will_be_very_embarras.mp3",
+      "duration": 2.183,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 597,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Pause",
+      "src": "audio/pages/38/lines/014_director_pause.mp3",
+      "duration": 0.453,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 598,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "You won’t? Will you? With Monica?",
+      "src": "audio/pages/38/lines/015_penny_you_won_t_will_you_with_.mp3",
+      "duration": 3.111,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 599,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Rodney hesitates",
+      "src": "audio/pages/38/lines/016_director_rodney_hesitates.mp3",
+      "duration": 0.809,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 600,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I won’t with Parkes.",
+      "src": "audio/pages/38/lines/017_penny_i_won_t_with_parkes.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 601,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "You said you never did.",
+      "src": "audio/pages/38/lines/018_rodney_you_said_you_never_did.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 602,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "We don’t. Not often.",
+      "src": "audio/pages/38/lines/019_penny_we_don_t_not_often.mp3",
+      "duration": 1.486,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 603,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "What were you doing when I came in?",
+      "src": "audio/pages/38/lines/020_rodney_what_were_you_doing_when.mp3",
+      "duration": 1.672,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 604,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "That didn’t mean anything. Parkes always picks a time when he’s sure he’ll be interrupted.",
+      "src": "audio/pages/38/lines/021_penny_that_didn_t_mean_anythin.mp3",
+      "duration": 4.83,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 605,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Pause",
+      "src": "audio/pages/38/lines/022_director_pause.mp3",
+      "duration": 0.501,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 606,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "To be honest, I don’t often feel like anything with Parkes. I want you all the time.",
+      "src": "audio/pages/38/lines/023_penny_to_be_honest_i_don_t_oft.mp3",
+      "duration": 5.387,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 607,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "laughing nervously",
+      "src": "audio/pages/38/lines/024_director_laughing_nervously.mp3",
+      "duration": 0.849,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 25,
+      "sourceEntry": 608,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Ha, ha, ha. That’s an exaggeration, surely?",
+      "src": "audio/pages/38/lines/025_rodney_ha_ha_ha_that_s_an_exagg.mp3",
+      "duration": 2.043,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 26,
+      "sourceEntry": 609,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "No, Rodney, it’s not.",
+      "src": "audio/pages/38/lines/026_penny_no_rodney_it_s_not.mp3",
+      "duration": 1.533,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 27,
+      "sourceEntry": 610,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Really? Ha, Ha, ha. Thank you.",
+      "src": "audio/pages/38/lines/027_rodney_really_ha_ha_ha_thank_yo.mp3",
+      "duration": 2.043,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 28,
+      "sourceEntry": 611,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Comforting",
+      "src": "audio/pages/38/lines/028_director_comforting.mp3",
+      "duration": 0.558,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 29,
+      "sourceEntry": 612,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "That’s a very nice nightie.",
+      "src": "audio/pages/38/lines/029_rodney_that_s_a_very_nice_night.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 30,
+      "sourceEntry": 613,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh, oh darling. Darling.",
+      "src": "audio/pages/38/lines/030_penny_oh_oh_darling_darling.mp3",
+      "duration": 1.486,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_38_full_cast_addpages.mp3",
+      "duration": 57.387,
+      "bytes": 1148909,
+      "segments": 30
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_38_learn_rodney_director_addpages.mp3",
+      "duration": 57.384,
+      "bytes": 1148909,
+      "segments": 30
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_38_learn_rodney_no_director_addpages.mp3",
+      "duration": 48.157,
+      "bytes": 964484,
+      "segments": 23
+    }
+  }
+}

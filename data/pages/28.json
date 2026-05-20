@@ -1,0 +1,84 @@
+{
+  "page": 28,
+  "title": "Page 28",
+  "act": "Act One",
+  "source": "Caravan printed pages 26-28 accepted render",
+  "status": "existing-render",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 406,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Rodney, help me put up the annexe, will you?",
+      "src": "audio/pages/28/lines/001_parkes_rodney_help_me_put_up_th.mp3",
+      "duration": 2.694,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 407,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Yes, fine.",
+      "src": "audio/pages/28/lines/002_rodney_yes_fine.mp3",
+      "duration": 0.836,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 407,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "To MONICA",
+      "src": "audio/pages/28/lines/003_director_to_monica.mp3",
+      "duration": 0.49,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 407,
+      "speaker": "RODNEY",
+      "kind": "spoken",
+      "text": "Will you behave yourself?",
+      "src": "audio/pages/28/lines/004_rodney_will_you_behave_yourself.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": "Ty Frost 25Minute"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 408,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "RODNEY & PARKES exit. The three women are left alone. An awkward moment.",
+      "src": "audio/pages/28/lines/005_director_rodney_parkes_exit_the_t.mp3",
+      "duration": 3.252,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_28_full_cast_addpages.mp3",
+      "duration": 8.386,
+      "bytes": 169317,
+      "segments": 5
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_28_learn_rodney_director_addpages.mp3",
+      "duration": 8.388,
+      "bytes": 169317,
+      "segments": 5
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_28_learn_rodney_no_director_addpages.mp3",
+      "duration": 4.646,
+      "bytes": 94084,
+      "segments": 3
+    }
+  }
+}
