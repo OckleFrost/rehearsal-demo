@@ -1,6 +1,6 @@
 {
   "title": "Caravan Rehearsal Engine",
-  "version": "20260520-1246",
+  "version": "20260520-1559",
   "defaultPage": 4,
   "pages": [
     {
@@ -875,19 +875,19 @@
       "status": "provisional-existing-render",
       "stitchedAudio": {
         "full_cast": {
-          "src": "audio/stitched_pages/page_42_full_cast.mp3",
-          "duration": 66.277,
-          "bytes": 1327064,
-          "segments": 25
+          "src": "audio/stitched_pages/page_42_full_cast_pagebreak_fix.mp3",
+          "duration": 69.347,
+          "bytes": 1388191,
+          "segments": 26
         },
         "learn_rodney_director": {
-          "src": "audio/stitched_pages/page_42_learn_rodney_director.mp3",
-          "duration": 66.274,
-          "bytes": 1327064,
-          "segments": 25
+          "src": "audio/stitched_pages/page_42_learn_rodney_director_pagebreak_fix.mp3",
+          "duration": 69.344,
+          "bytes": 1388191,
+          "segments": 26
         },
         "learn_rodney_no_director": {
-          "src": "audio/stitched_pages/page_42_learn_rodney_no_director.mp3",
+          "src": "audio/stitched_pages/page_42_learn_rodney_no_director_pagebreak_fix.mp3",
           "duration": 25.679,
           "bytes": 515178,
           "segments": 13
@@ -902,19 +902,19 @@
       "status": "provisional-existing-render",
       "stitchedAudio": {
         "full_cast": {
-          "src": "audio/stitched_pages/page_43_full_cast.mp3",
-          "duration": 57.262,
-          "bytes": 1146819,
-          "segments": 32
+          "src": "audio/stitched_pages/page_43_full_cast_pagebreak_fix.mp3",
+          "duration": 54.192,
+          "bytes": 1085170,
+          "segments": 31
         },
         "learn_rodney_director": {
-          "src": "audio/stitched_pages/page_43_learn_rodney_director.mp3",
-          "duration": 57.259,
-          "bytes": 1146297,
-          "segments": 32
+          "src": "audio/stitched_pages/page_43_learn_rodney_director_pagebreak_fix.mp3",
+          "duration": 54.189,
+          "bytes": 1085170,
+          "segments": 31
         },
         "learn_rodney_no_director": {
-          "src": "audio/stitched_pages/page_43_learn_rodney_no_director.mp3",
+          "src": "audio/stitched_pages/page_43_learn_rodney_no_director_pagebreak_fix.mp3",
           "duration": 45.509,
           "bytes": 911717,
           "segments": 21

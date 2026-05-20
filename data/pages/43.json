@@ -29,17 +29,6 @@
     },
     {
       "n": 3,
-      "sourceEntry": 670,
-      "speaker": "DIRECTOR",
-      "kind": "trailing_page_stage_direction",
-      "text": "A long silence. They all stand around, not knowing what to say.",
-      "src": "audio/pages/43/lines/003_director_d0413753b55_norm.mp3",
-      "duration": 3.07,
-      "speed": "1.5x",
-      "voiceName": "Ockle Jane - Dry Wit"
-    },
-    {
-      "n": 4,
       "sourceEntry": 671,
       "speaker": "PIERCE",
       "kind": "spoken",
@@ -50,7 +39,7 @@
       "voiceName": "James"
     },
     {
-      "n": 5,
+      "n": 4,
       "sourceEntry": 672,
       "speaker": "GWENDOLYN",
       "kind": "spoken",
@@ -61,7 +50,7 @@
       "voiceName": "Lily - Velvety Actress"
     },
     {
-      "n": 6,
+      "n": 5,
       "sourceEntry": 672,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -72,7 +61,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 7,
+      "n": 6,
       "sourceEntry": 672,
       "speaker": "GWENDOLYN",
       "kind": "spoken",
@@ -83,7 +72,7 @@
       "voiceName": "Lily - Velvety Actress"
     },
     {
-      "n": 8,
+      "n": 7,
       "sourceEntry": 672,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -94,7 +83,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 9,
+      "n": 8,
       "sourceEntry": 672,
       "speaker": "GWENDOLYN",
       "kind": "spoken",
@@ -105,7 +94,7 @@
       "voiceName": "Lily - Velvety Actress"
     },
     {
-      "n": 10,
+      "n": 9,
       "sourceEntry": 673,
       "speaker": "DIRECTOR",
       "kind": "stage_direction_before",
@@ -116,7 +105,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 11,
+      "n": 10,
       "sourceEntry": 673,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -127,7 +116,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 12,
+      "n": 11,
       "sourceEntry": 673,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -138,7 +127,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 13,
+      "n": 12,
       "sourceEntry": 674,
       "speaker": "RODNEY",
       "kind": "spoken",
@@ -149,7 +138,7 @@
       "voiceName": "Ty Frost private clone"
     },
     {
-      "n": 14,
+      "n": 13,
       "sourceEntry": 675,
       "speaker": "PIERCE",
       "kind": "spoken",
@@ -160,7 +149,7 @@
       "voiceName": "James"
     },
     {
-      "n": 15,
+      "n": 14,
       "sourceEntry": 676,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -171,7 +160,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 16,
+      "n": 15,
       "sourceEntry": 677,
       "speaker": "RODNEY",
       "kind": "spoken",
@@ -182,7 +171,7 @@
       "voiceName": "Ty Frost private clone"
     },
     {
-      "n": 17,
+      "n": 16,
       "sourceEntry": 678,
       "speaker": "PIERCE",
       "kind": "spoken",
@@ -193,7 +182,7 @@
       "voiceName": "James"
     },
     {
-      "n": 18,
+      "n": 17,
       "sourceEntry": 678,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -204,7 +193,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 19,
+      "n": 18,
       "sourceEntry": 678,
       "speaker": "PIERCE",
       "kind": "spoken",
@@ -215,7 +204,7 @@
       "voiceName": "James"
     },
     {
-      "n": 20,
+      "n": 19,
       "sourceEntry": 678,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -226,7 +215,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 21,
+      "n": 20,
       "sourceEntry": 679,
       "speaker": "RODNEY",
       "kind": "spoken",
@@ -237,7 +226,7 @@
       "voiceName": "Ty Frost private clone"
     },
     {
-      "n": 22,
+      "n": 21,
       "sourceEntry": 680,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -248,7 +237,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 23,
+      "n": 22,
       "sourceEntry": 681,
       "speaker": "PIERCE",
       "kind": "spoken",
@@ -259,7 +248,7 @@
       "voiceName": "James"
     },
     {
-      "n": 24,
+      "n": 23,
       "sourceEntry": 682,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -270,7 +259,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 25,
+      "n": 24,
       "sourceEntry": 682,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -281,7 +270,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 26,
+      "n": 25,
       "sourceEntry": 683,
       "speaker": "PIERCE",
       "kind": "spoken",
@@ -292,7 +281,7 @@
       "voiceName": "James"
     },
     {
-      "n": 27,
+      "n": 26,
       "sourceEntry": 684,
       "speaker": "DIRECTOR",
       "kind": "inline_stage_direction",
@@ -303,7 +292,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 28,
+      "n": 27,
       "sourceEntry": 684,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -314,7 +303,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 29,
+      "n": 28,
       "sourceEntry": 685,
       "speaker": "PIERCE",
       "kind": "spoken",
@@ -325,7 +314,7 @@
       "voiceName": "James"
     },
     {
-      "n": 30,
+      "n": 29,
       "sourceEntry": 686,
       "speaker": "DIRECTOR",
       "kind": "stage_direction_before",
@@ -336,7 +325,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 31,
+      "n": 30,
       "sourceEntry": 686,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -347,7 +336,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 32,
+      "n": 31,
       "sourceEntry": 687,
       "speaker": "PIERCE",
       "kind": "spoken",
@@ -360,19 +349,19 @@
   ],
   "stitchedAudio": {
     "full_cast": {
-      "src": "audio/stitched_pages/page_43_full_cast.mp3",
-      "duration": 57.262,
-      "bytes": 1146819,
-      "segments": 32
+      "src": "audio/stitched_pages/page_43_full_cast_pagebreak_fix.mp3",
+      "duration": 54.192,
+      "bytes": 1085170,
+      "segments": 31
     },
     "learn_rodney_director": {
-      "src": "audio/stitched_pages/page_43_learn_rodney_director.mp3",
-      "duration": 57.259,
-      "bytes": 1146297,
-      "segments": 32
+      "src": "audio/stitched_pages/page_43_learn_rodney_director_pagebreak_fix.mp3",
+      "duration": 54.189,
+      "bytes": 1085170,
+      "segments": 31
     },
     "learn_rodney_no_director": {
-      "src": "audio/stitched_pages/page_43_learn_rodney_no_director.mp3",
+      "src": "audio/stitched_pages/page_43_learn_rodney_no_director_pagebreak_fix.mp3",
       "duration": 45.509,
       "bytes": 911717,
       "segments": 21
