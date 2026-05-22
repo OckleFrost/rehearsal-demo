@@ -1,6 +1,6 @@
 {
   "title": "Caravan Rehearsal Engine",
-  "version": "20260523-0818",
+  "version": "20260523-0836",
   "defaultPage": 4,
   "pages": [
     {
@@ -683,25 +683,25 @@
       "title": "Page 29",
       "act": "Act One",
       "path": "data/pages/29.json",
-      "status": "generated-2026-05-23-pages28-32",
+      "status": "corrected-2026-05-23-penny-monica-overlap",
       "stitchedAudio": {
         "full_cast": {
           "src": "audio/stitched_pages/page_29_full_cast.mp3",
-          "duration": 58.862,
-          "bytes": 1178688,
-          "segments": 29
+          "duration": 58.398,
+          "bytes": 1169284,
+          "segments": 28
         },
         "learn_rodney_director": {
           "src": "audio/stitched_pages/page_29_learn_rodney_director.mp3",
-          "duration": 58.862,
-          "bytes": 1178688,
-          "segments": 29
+          "duration": 58.398,
+          "bytes": 1169284,
+          "segments": 28
         },
         "learn_rodney_no_director": {
           "src": "audio/stitched_pages/page_29_learn_rodney_no_director.mp3",
-          "duration": 53.127,
-          "bytes": 1063750,
-          "segments": 23
+          "duration": 52.664,
+          "bytes": 1054868,
+          "segments": 22
         }
       }
     },

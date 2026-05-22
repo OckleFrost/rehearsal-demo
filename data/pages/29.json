@@ -2,8 +2,8 @@
   "page": 29,
   "title": "Page 29",
   "act": "Act One",
-  "status": "generated-2026-05-23-pages28-32",
-  "source": "Caravan printed pages 28-32 generated from structured parse with local page fixes",
+  "status": "corrected-2026-05-23-penny-monica-overlap",
+  "source": "Caravan printed page 29 corrected so Penny and Monica say Oh simultaneously",
   "lines": [
     {
       "n": 1,
@@ -140,27 +140,16 @@
     {
       "n": 13,
       "sourceEntry": 426,
-      "speaker": "PENNY",
+      "speaker": "PENNY_MONICA",
       "kind": "spoken",
       "text": "Oh.",
-      "src": "audio/pages/29/lines/013_penny_oh.mp3",
+      "src": "audio/pages/29/lines/013_penny_monica_oh.mp3",
       "duration": 0.557,
       "speed": null,
-      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+      "voiceName": "KYLIE + Charlotte"
     },
     {
       "n": 14,
-      "sourceEntry": 426,
-      "speaker": "MONICA",
-      "kind": "spoken",
-      "text": "Oh.",
-      "src": "audio/pages/29/lines/014_monica_oh.mp3",
-      "duration": 0.464,
-      "speed": null,
-      "voiceName": "Charlotte - Warm & Conversational"
-    },
-    {
-      "n": 15,
       "sourceEntry": 427,
       "speaker": "DIRECTOR",
       "kind": "stage_direction",
@@ -171,7 +160,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 16,
+      "n": 15,
       "sourceEntry": 427,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -182,7 +171,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 17,
+      "n": 16,
       "sourceEntry": 428,
       "speaker": "GWENDOLYN",
       "kind": "spoken",
@@ -193,7 +182,7 @@
       "voiceName": "Lily - Velvety Actress"
     },
     {
-      "n": 18,
+      "n": 17,
       "sourceEntry": 429,
       "speaker": "MONICA",
       "kind": "spoken",
@@ -204,7 +193,7 @@
       "voiceName": "Charlotte - Warm & Conversational"
     },
     {
-      "n": 19,
+      "n": 18,
       "sourceEntry": 430,
       "speaker": "DIRECTOR",
       "kind": "stage_direction",
@@ -215,7 +204,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 20,
+      "n": 19,
       "sourceEntry": 430,
       "speaker": "GWENDOLYN",
       "kind": "spoken",
@@ -226,7 +215,7 @@
       "voiceName": "Lily - Velvety Actress"
     },
     {
-      "n": 21,
+      "n": 20,
       "sourceEntry": 431,
       "speaker": "DIRECTOR",
       "kind": "stage_direction",
@@ -237,7 +226,7 @@
       "voiceName": "Ockle Jane - Dry Wit"
     },
     {
-      "n": 22,
+      "n": 21,
       "sourceEntry": 431,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -248,7 +237,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 23,
+      "n": 22,
       "sourceEntry": 432,
       "speaker": "MONICA",
       "kind": "spoken",
@@ -259,7 +248,7 @@
       "voiceName": "Charlotte - Warm & Conversational"
     },
     {
-      "n": 24,
+      "n": 23,
       "sourceEntry": 433,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -270,7 +259,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 25,
+      "n": 24,
       "sourceEntry": 434,
       "speaker": "MONICA",
       "kind": "spoken",
@@ -281,7 +270,7 @@
       "voiceName": "Charlotte - Warm & Conversational"
     },
     {
-      "n": 26,
+      "n": 25,
       "sourceEntry": 435,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -292,7 +281,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 27,
+      "n": 26,
       "sourceEntry": 436,
       "speaker": "GWENDOLYN",
       "kind": "spoken",
@@ -303,7 +292,7 @@
       "voiceName": "Lily - Velvety Actress"
     },
     {
-      "n": 28,
+      "n": 27,
       "sourceEntry": 437,
       "speaker": "PENNY",
       "kind": "spoken",
@@ -314,7 +303,7 @@
       "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
     },
     {
-      "n": 29,
+      "n": 28,
       "sourceEntry": 438,
       "speaker": "MONICA",
       "kind": "spoken",
@@ -328,21 +317,21 @@
   "stitchedAudio": {
     "full_cast": {
       "src": "audio/stitched_pages/page_29_full_cast.mp3",
-      "duration": 58.862,
-      "bytes": 1178688,
-      "segments": 29
+      "duration": 58.398,
+      "bytes": 1169284,
+      "segments": 28
     },
     "learn_rodney_director": {
       "src": "audio/stitched_pages/page_29_learn_rodney_director.mp3",
-      "duration": 58.862,
-      "bytes": 1178688,
-      "segments": 29
+      "duration": 58.398,
+      "bytes": 1169284,
+      "segments": 28
     },
     "learn_rodney_no_director": {
       "src": "audio/stitched_pages/page_29_learn_rodney_no_director.mp3",
-      "duration": 53.127,
-      "bytes": 1063750,
-      "segments": 23
+      "duration": 52.664,
+      "bytes": 1054868,
+      "segments": 22
     }
   }
 }
