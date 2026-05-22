@@ -1,0 +1,337 @@
+{
+  "page": 66,
+  "title": "Page 66",
+  "act": "Act Two",
+  "status": "generated-2026-05-23-pages65bottom-67",
+  "source": "Caravan printed page 65 bottom plus pages 66-67 generated from raw page markers with local stage-direction fixes",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1050,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Yes. Fine.",
+      "src": "audio/pages/66/lines/001_penny_yes_fine.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1051,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "She smiles brightly.",
+      "src": "audio/pages/66/lines/002_stage_directions_she_smiles_brightly.mp3",
+      "duration": 0.921,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1052,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You’re drinking a bit.",
+      "src": "audio/pages/66/lines/003_parkes_you_re_drinking_a_bit.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1053,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "PENNY re-fills her glass.",
+      "src": "audio/pages/66/lines/004_stage_directions_penny_re_fills_her_glass.mp3",
+      "duration": 0.981,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1054,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "politely",
+      "src": "audio/pages/66/lines/005_stage_directions_politely.mp3",
+      "duration": 0.593,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1054,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "No, no. If you want a drink, you have it. As long as everybody’s happy.",
+      "src": "audio/pages/66/lines/006_parkes_no_no_if_you_want_a_drink_you_.mp3",
+      "duration": 3.204,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1055,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes, what would you do if I had an affair?",
+      "src": "audio/pages/66/lines/007_penny_parkes_what_would_you_do_if_i_.mp3",
+      "duration": 2.74,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1056,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You wouldn’t have an affair. Not you! You’re too nice.",
+      "src": "audio/pages/66/lines/008_parkes_you_wouldn_t_have_an_affair_no.mp3",
+      "duration": 3.111,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1057,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Would you like to come outside and take me in the car?",
+      "src": "audio/pages/66/lines/009_penny_would_you_like_to_come_outside.mp3",
+      "duration": 2.786,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1058,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "It’s raining!",
+      "src": "audio/pages/66/lines/010_parkes_it_s_raining.mp3",
+      "duration": 0.929,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1059,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I didn’t think so.",
+      "src": "audio/pages/66/lines/011_penny_i_didn_t_think_so.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1060,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You’d better pull yourself together. If you’re not careful you’ll ruin the holiday.",
+      "src": "audio/pages/66/lines/012_parkes_you_d_better_pull_yourself_tog.mp3",
+      "duration": 3.762,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1061,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "PARKES starts to exit but collides with PIERCE in the doorway. PIERCE is carrying two very wet sleeping bags.",
+      "src": "audio/pages/66/lines/013_stage_directions_parkes_starts_to_exit_but_coll.mp3",
+      "duration": 4.155,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1062,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "polite",
+      "src": "audio/pages/66/lines/014_stage_directions_polite.mp3",
+      "duration": 0.407,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1062,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Sorry, Pierce. After you.",
+      "src": "audio/pages/66/lines/015_parkes_sorry_pierce_after_you.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1063,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "polite",
+      "src": "audio/pages/66/lines/016_stage_directions_polite.mp3",
+      "duration": 0.407,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1063,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "No, no, Parkes. After you.",
+      "src": "audio/pages/66/lines/017_pierce_no_no_parkes_after_you.mp3",
+      "duration": 1.533,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 1064,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "They dodge a couple of times, apologising politely. PARKES exits. PIERCE enters. He is wearing boots, raincoat and hat.",
+      "src": "audio/pages/66/lines/018_stage_directions_they_dodge_a_couple_of_times_a.mp3",
+      "duration": 4.709,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 1065,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "It’s a flood out there. My cold will turn into pneumonia at this rate.",
+      "src": "audio/pages/66/lines/019_pierce_it_s_a_flood_out_there_my_cold.mp3",
+      "duration": 4.226,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 1065,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "PENNY glares at him",
+      "src": "audio/pages/66/lines/020_stage_directions_penny_glares_at_him.mp3",
+      "duration": 0.776,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 1065,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "But it doesn’t matter! What’s pneumonia when you’re having fun!",
+      "src": "audio/pages/66/lines/021_pierce_but_it_doesn_t_matter_what_s_p.mp3",
+      "duration": 3.762,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 1065,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Pause",
+      "src": "audio/pages/66/lines/022_stage_directions_pause.mp3",
+      "duration": 0.59,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 1065,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Are you all right?",
+      "src": "audio/pages/66/lines/023_pierce_are_you_all_right.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 1066,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/66/lines/024_stage_directions_brightly.mp3",
+      "duration": 0.397,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 25,
+      "sourceEntry": 1066,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Fine.",
+      "src": "audio/pages/66/lines/025_penny_fine.mp3",
+      "duration": 0.697,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 26,
+      "sourceEntry": 1067,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "You’re sure?",
+      "src": "audio/pages/66/lines/026_pierce_you_re_sure.mp3",
+      "duration": 1.022,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 27,
+      "sourceEntry": 1068,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Yes. Fine. Very fine.",
+      "src": "audio/pages/66/lines/027_penny_yes_fine_very_fine.mp3",
+      "duration": 1.672,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 28,
+      "sourceEntry": 1069,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Would you like to talk about it?",
+      "src": "audio/pages/66/lines/028_pierce_would_you_like_to_talk_about_i.mp3",
+      "duration": 1.533,
+      "speed": null,
+      "voiceName": "James"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_66_full_cast.mp3",
+      "duration": 50.95,
+      "bytes": 1020386,
+      "segments": 28
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_66_learn_rodney_director.mp3",
+      "duration": 50.95,
+      "bytes": 1020386,
+      "segments": 28
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_66_learn_rodney_no_director.mp3",
+      "duration": 37.013,
+      "bytes": 741399,
+      "segments": 18
+    }
+  }
+}

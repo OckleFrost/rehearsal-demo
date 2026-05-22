@@ -1,0 +1,392 @@
+{
+  "page": 67,
+  "title": "Page 67",
+  "act": "Act Two",
+  "status": "generated-2026-05-23-pages65bottom-67",
+  "source": "Caravan printed page 65 bottom plus pages 66-67 generated from raw page markers with local stage-direction fixes",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 1070,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "No. I’m fine.",
+      "src": "audio/pages/67/lines/001_penny_no_i_m_fine.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 1071,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I know you have a lot on your mind.",
+      "src": "audio/pages/67/lines/002_pierce_i_know_you_have_a_lot_on_your_.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 1071,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Pause",
+      "src": "audio/pages/67/lines/003_stage_directions_pause.mp3",
+      "duration": 0.59,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 1071,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I’m your friend you can tell me.",
+      "src": "audio/pages/67/lines/004_pierce_i_m_your_friend_you_can_tell_m.mp3",
+      "duration": 1.579,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 1072,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I’m sorry. I lost my temper. I’m sorry.",
+      "src": "audio/pages/67/lines/005_penny_i_m_sorry_i_lost_my_temper_i_m.mp3",
+      "duration": 2.322,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 1073,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Oh, that’s all right. You’re so controlled most of time. It’s good to see you lose a little control.",
+      "src": "audio/pages/67/lines/006_pierce_oh_that_s_all_right_you_re_so_.mp3",
+      "duration": 5.433,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 1074,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "irritated",
+      "src": "audio/pages/67/lines/007_stage_directions_irritated.mp3",
+      "duration": 0.609,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 1074,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Thank you, Pierce.",
+      "src": "audio/pages/67/lines/008_penny_thank_you_pierce.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 1074,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Pause. She waits for him to go. He doesn’t.",
+      "src": "audio/pages/67/lines/009_stage_directions_pause_she_waits_for_him_to_go_.mp3",
+      "duration": 2.078,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 1075,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "You know you can tell me anything.",
+      "src": "audio/pages/67/lines/010_pierce_you_know_you_can_tell_me_anyth.mp3",
+      "duration": 1.858,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 1076,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Tell you what Pierce?",
+      "src": "audio/pages/67/lines/011_penny_tell_you_what_pierce.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 1077,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Are you and um….",
+      "src": "audio/pages/67/lines/012_pierce_are_you_and_um.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 1077,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "She stares at him stony-faced. He falters.",
+      "src": "audio/pages/67/lines/013_stage_directions_she_stares_at_him_stony_faced_.mp3",
+      "duration": 2.019,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 1077,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Um…are you and…er…um …are you having an um?",
+      "src": "audio/pages/67/lines/014_pierce_um_are_you_and_er_um_are_you_h.mp3",
+      "duration": 4.18,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 1078,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "after a moment",
+      "src": "audio/pages/67/lines/015_stage_directions_after_a_moment.mp3",
+      "duration": 0.785,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 1078,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "No, nothing like that, no.",
+      "src": "audio/pages/67/lines/016_penny_no_nothing_like_that_no.mp3",
+      "duration": 1.486,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 1079,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I would be very surprised if you were. You’ve known each other for years. Ha. Ha.",
+      "src": "audio/pages/67/lines/017_pierce_i_would_be_very_surprised_if_y.mp3",
+      "duration": 5.016,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 1079,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Pause",
+      "src": "audio/pages/67/lines/018_stage_directions_pause.mp3",
+      "duration": 0.59,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 1079,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "But you never can tell, can you?",
+      "src": "audio/pages/67/lines/019_pierce_but_you_never_can_tell_can_you.mp3",
+      "duration": 1.765,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 1080,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "No, you never can tell, Pierce, Even sweet controlled little me, could be living a completely double life and you’d never know, would you?",
+      "src": "audio/pages/67/lines/020_penny_no_you_never_can_tell_pierce_e.mp3",
+      "duration": 11.331,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 1081,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I hope as your friend you’d tell me.",
+      "src": "audio/pages/67/lines/021_pierce_i_hope_as_your_friend_you_d_te.mp3",
+      "duration": 1.904,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 1081,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Pause",
+      "src": "audio/pages/67/lines/022_stage_directions_pause.mp3",
+      "duration": 0.59,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 1081,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "Are you?",
+      "src": "audio/pages/67/lines/023_pierce_are_you.mp3",
+      "duration": 0.789,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 1082,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Ah ha!",
+      "src": "audio/pages/67/lines/024_penny_ah_ha.mp3",
+      "duration": 0.882,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 25,
+      "sourceEntry": 1082,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "He looks hurt",
+      "src": "audio/pages/67/lines/025_stage_directions_he_looks_hurt.mp3",
+      "duration": 0.705,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 26,
+      "sourceEntry": 1082,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh Pierce. There’s nothing to tell, really",
+      "src": "audio/pages/67/lines/026_penny_oh_pierce_there_s_nothing_to_t.mp3",
+      "duration": 2.74,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 27,
+      "sourceEntry": 1083,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I mean, if you were ever going to have an affair…He’s married.",
+      "src": "audio/pages/67/lines/027_pierce_i_mean_if_you_were_ever_going_.mp3",
+      "duration": 3.669,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 28,
+      "sourceEntry": 1083,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Pause",
+      "src": "audio/pages/67/lines/028_stage_directions_pause.mp3",
+      "duration": 0.59,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 29,
+      "sourceEntry": 1083,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "I’m not married.",
+      "src": "audio/pages/67/lines/029_pierce_i_m_not_married.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 30,
+      "sourceEntry": 1084,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "PENNY stares at him in amazement. He smiles seductively.",
+      "src": "audio/pages/67/lines/030_stage_directions_penny_stares_at_him_in_amazeme.mp3",
+      "duration": 2.233,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 31,
+      "sourceEntry": 1084,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "We could meet for lunch one day when we get back to town. If you want to... talk.",
+      "src": "audio/pages/67/lines/031_pierce_we_could_meet_for_lunch_one_da.mp3",
+      "duration": 4.876,
+      "speed": null,
+      "voiceName": "James"
+    },
+    {
+      "n": 32,
+      "sourceEntry": 1085,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Thank you, Pierce. If I do, I will. Yes.",
+      "src": "audio/pages/67/lines/032_penny_thank_you_pierce_if_i_do_i_wil.mp3",
+      "duration": 3.762,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 33,
+      "sourceEntry": 1086,
+      "speaker": "PIERCE",
+      "kind": "spoken",
+      "text": "You never really know anybody do you?",
+      "src": "audio/pages/67/lines/033_pierce_you_never_really_know_anybody_.mp3",
+      "duration": 1.858,
+      "speed": null,
+      "voiceName": "James"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_67_full_cast.mp3",
+      "duration": 74.273,
+      "bytes": 1486933,
+      "segments": 33
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_67_learn_rodney_director.mp3",
+      "duration": 74.273,
+      "bytes": 1486933,
+      "segments": 33
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_67_learn_rodney_no_director.mp3",
+      "duration": 63.483,
+      "bytes": 1271162,
+      "segments": 23
+    }
+  }
+}

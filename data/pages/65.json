@@ -2,8 +2,8 @@
   "page": 65,
   "title": "Caravan — Page 65",
   "act": "Act Two",
-  "source": "existing rendered rehearsal audio; bulk-indexed from accepted manifests; needs final display-copy QA before export",
-  "status": "provisional-existing-render",
+  "source": "Existing page 65 plus generated missing bottom lines from raw printed page 65.",
+  "status": "generated-2026-05-23-pages65bottom-67",
   "lines": [
     {
       "n": 1,
@@ -191,26 +191,48 @@
       "duration": 0.929,
       "speed": null,
       "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 1048,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Fine.",
+      "src": "audio/pages/65/lines/001_penny_fine.mp3",
+      "duration": 0.697,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 1049,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You’re sure?",
+      "src": "audio/pages/65/lines/002_parkes_you_re_sure.mp3",
+      "duration": 0.836,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
     }
   ],
   "stitchedAudio": {
     "full_cast": {
       "src": "audio/stitched_pages/page_65_full_cast.mp3",
-      "duration": 79.329,
-      "bytes": 1587766,
-      "segments": 17
+      "duration": 80.862,
+      "bytes": 1618591,
+      "segments": 19
     },
     "learn_rodney_director": {
       "src": "audio/stitched_pages/page_65_learn_rodney_director.mp3",
-      "duration": 79.329,
-      "bytes": 1587766,
-      "segments": 17
+      "duration": 80.862,
+      "bytes": 1618591,
+      "segments": 19
     },
     "learn_rodney_no_director": {
       "src": "audio/stitched_pages/page_65_learn_rodney_no_director.mp3",
-      "duration": 49.923,
-      "bytes": 1000011,
-      "segments": 11
+      "duration": 51.456,
+      "bytes": 1030313,
+      "segments": 13
     }
   }
 }
