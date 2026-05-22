@@ -1,0 +1,315 @@
+{
+  "page": 30,
+  "title": "Page 30",
+  "act": "Act One",
+  "status": "generated-2026-05-23-pages28-32",
+  "source": "Caravan printed pages 28-32 generated from structured parse with local page fixes",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 439,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Oh, it wasn’t boring. It was lovely. I was studying with my Guru. He was lovely. I was there for three years.",
+      "src": "audio/pages/30/lines/001_gwendolyn_oh_it_wasn_t_boring_it_was_lov.mp3",
+      "duration": 6.734,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 440,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "You were there for three years? What did you do?",
+      "src": "audio/pages/30/lines/002_penny_you_were_there_for_three_years.mp3",
+      "duration": 3.344,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 441,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Oh, prayed a lot.",
+      "src": "audio/pages/30/lines/003_gwendolyn_oh_prayed_a_lot.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 442,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Really? What did you pray for? Food? Money?",
+      "src": "audio/pages/30/lines/004_monica_really_what_did_you_pray_for_f.mp3",
+      "duration": 2.415,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 443,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Don’t mock, Monica. Good for the soul, praying, isn’t it, Gwendolyn?",
+      "src": "audio/pages/30/lines/005_penny_don_t_mock_monica_good_for_the.mp3",
+      "duration": 4.319,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 444,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "leaning confidentially towards GWENDOLYN",
+      "src": "audio/pages/30/lines/006_stage_directions_leaning_confidentially_towards.mp3",
+      "duration": 1.323,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 444,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Tell me. Do you think if you prayed long enough and hard enough, you could get me out of here?",
+      "src": "audio/pages/30/lines/007_monica_tell_me_do_you_think_if_you_pr.mp3",
+      "duration": 5.573,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 445,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "A pause. GWENDOLYN embarrassed, giggles, shakes her head silently, and looks at the floor.",
+      "src": "audio/pages/30/lines/008_stage_directions_a_pause_gwendolyn_embarrassed_.mp3",
+      "duration": 4.119,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 445,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "But what else did you do? Surely, you didn’t just pray?",
+      "src": "audio/pages/30/lines/009_penny_but_what_else_did_you_do_surel.mp3",
+      "duration": 3.529,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 446,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Oh no. We carried out very many lovely spiritual practices. We meditated. And worked very hard. But it was very lovely.",
+      "src": "audio/pages/30/lines/010_gwendolyn_oh_no_we_carried_out_very_many.mp3",
+      "duration": 8.127,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 447,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "What did you work at?",
+      "src": "audio/pages/30/lines/011_penny_what_did_you_work_at.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 448,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Oh, I cleaned the toilets mainly.",
+      "src": "audio/pages/30/lines/012_gwendolyn_oh_i_cleaned_the_toilets_mainl.mp3",
+      "duration": 1.904,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 449,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Lovely!",
+      "src": "audio/pages/30/lines/013_monica_lovely.mp3",
+      "duration": 0.789,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 450,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/30/lines/014_stage_directions_brightly.mp3",
+      "duration": 0.397,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 450,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Good for the soul, cleaning toilets. How very uplifting.",
+      "src": "audio/pages/30/lines/015_penny_good_for_the_soul_cleaning_toi.mp3",
+      "duration": 4.18,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 451,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "beams",
+      "src": "audio/pages/30/lines/016_stage_directions_beams.mp3",
+      "duration": 0.521,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 451,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Now I’m having an affair with Pierce. The first man I’ve been with in three years. I’m back in the world with a bang!",
+      "src": "audio/pages/30/lines/017_gwendolyn_now_i_m_having_an_affair_with_.mp3",
+      "duration": 6.734,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 452,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "To PENNY",
+      "src": "audio/pages/30/lines/018_stage_directions_to_penny.mp3",
+      "duration": 0.496,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 452,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "More like a whimper I would have thought.",
+      "src": "audio/pages/30/lines/019_monica_more_like_a_whimper_i_would_ha.mp3",
+      "duration": 1.718,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 452,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Horrified",
+      "src": "audio/pages/30/lines/020_stage_directions_horrified.mp3",
+      "duration": 0.674,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 452,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You were celibate for three years?",
+      "src": "audio/pages/30/lines/021_monica_you_were_celibate_for_three_ye.mp3",
+      "duration": 1.904,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 453,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "You don’t really think about the body in an Ashram. You learn to rise above it.",
+      "src": "audio/pages/30/lines/022_gwendolyn_you_don_t_really_think_about_t.mp3",
+      "duration": 4.319,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 454,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "That’s what Penny wants us to do on this holiday. You should be very happy here, Gwendolyn.",
+      "src": "audio/pages/30/lines/023_monica_that_s_what_penny_wants_us_to_.mp3",
+      "duration": 4.412,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 455,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "And what do you both do?",
+      "src": "audio/pages/30/lines/024_gwendolyn_and_what_do_you_both_do.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 25,
+      "sourceEntry": 456,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh, we’re just housewives.",
+      "src": "audio/pages/30/lines/025_penny_oh_we_re_just_housewives.mp3",
+      "duration": 1.486,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 26,
+      "sourceEntry": 457,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Non celibate ones.",
+      "src": "audio/pages/30/lines/026_monica_non_celibate_ones.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_30_full_cast.mp3",
+      "duration": 74.311,
+      "bytes": 1487456,
+      "segments": 26
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_30_learn_rodney_director.mp3",
+      "duration": 74.311,
+      "bytes": 1487456,
+      "segments": 26
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_30_learn_rodney_no_director.mp3",
+      "duration": 66.781,
+      "bytes": 1336991,
+      "segments": 20
+    }
+  }
+}

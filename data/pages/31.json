@@ -1,0 +1,326 @@
+{
+  "page": 31,
+  "title": "Page 31",
+  "act": "Act One",
+  "status": "generated-2026-05-23-pages28-32",
+  "source": "Caravan printed pages 28-32 generated from structured parse with local page fixes",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 458,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "beaming",
+      "src": "audio/pages/31/lines/001_stage_directions_beaming.mp3",
+      "duration": 0.555,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 458,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "I think being a housewife is a very worthy profession. How many children do you have?",
+      "src": "audio/pages/31/lines/002_gwendolyn_i_think_being_a_housewife_is_a.mp3",
+      "duration": 4.69,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 459,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I have a boy and a girl. Fifteen and eleven.",
+      "src": "audio/pages/31/lines/003_penny_i_have_a_boy_and_a_girl_fiftee.mp3",
+      "duration": 3.065,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 460,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "How lovely. You must have married young?",
+      "src": "audio/pages/31/lines/004_gwendolyn_how_lovely_you_must_have_marri.mp3",
+      "duration": 2.229,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 461,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "No, I didn’t. I was about...",
+      "src": "audio/pages/31/lines/005_penny_no_i_didn_t_i_was_about.mp3",
+      "duration": 1.579,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 462,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Yes, you did marry young. You’re only thirty six.",
+      "src": "audio/pages/31/lines/006_monica_yes_you_did_marry_young_you_re.mp3",
+      "duration": 2.601,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 463,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh! Yes! I did marry...young. Very young, yes. I was only...um..",
+      "src": "audio/pages/31/lines/007_penny_oh_yes_i_did_marry_young_very_.mp3",
+      "duration": 6.873,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 463,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Counting on her hand",
+      "src": "audio/pages/31/lines/008_stage_directions_counting_on_her_hand.mp3",
+      "duration": 0.852,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 464,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Twenty one.",
+      "src": "audio/pages/31/lines/009_monica_twenty_one.mp3",
+      "duration": 0.929,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 465,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "That’s right. Twenty-one. Ha, ha. Imagine. Just about your age, Gwendolyn. Ha, ha. Monica always remembers dates for me. I never think about age personally.",
+      "src": "audio/pages/31/lines/010_penny_that_s_right_twenty_one_ha_ha_.mp3",
+      "duration": 12.725,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 466,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Why should you at thirty six? That’s the prime of your life.",
+      "src": "audio/pages/31/lines/011_gwendolyn_why_should_you_at_thirty_six_t.mp3",
+      "duration": 3.483,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 466,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "A pause. They sip their drinks. To MONICA",
+      "src": "audio/pages/31/lines/012_stage_directions_a_pause_they_sip_their_drinks_.mp3",
+      "duration": 2.264,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 466,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "And do you have children?",
+      "src": "audio/pages/31/lines/013_gwendolyn_and_do_you_have_children.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 467,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Yes. Two.",
+      "src": "audio/pages/31/lines/014_monica_yes_two.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 468,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "How old are they?",
+      "src": "audio/pages/31/lines/015_gwendolyn_how_old_are_they.mp3",
+      "duration": 1.115,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 469,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Clarissa’s about ten and Ralph’s nearing ninety.",
+      "src": "audio/pages/31/lines/016_monica_clarissa_s_about_ten_and_ralph.mp3",
+      "duration": 2.786,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 470,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "puzzled",
+      "src": "audio/pages/31/lines/017_stage_directions_puzzled.mp3",
+      "duration": 0.484,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 470,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Sorry?",
+      "src": "audio/pages/31/lines/018_gwendolyn_sorry.mp3",
+      "duration": 0.743,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 471,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Don’t be. He’s very agile. He still climbs trees. His little bladder’s a bit weak, but that’s to be expected at his age.",
+      "src": "audio/pages/31/lines/019_monica_don_t_be_he_s_very_agile_he_st.mp3",
+      "duration": 7.663,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 472,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Monica has two cats.",
+      "src": "audio/pages/31/lines/020_penny_monica_has_two_cats.mp3",
+      "duration": 1.718,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 473,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Oh.",
+      "src": "audio/pages/31/lines/021_gwendolyn_oh.mp3",
+      "duration": 0.557,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 473,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Laughing nervously",
+      "src": "audio/pages/31/lines/022_stage_directions_laughing_nervously.mp3",
+      "duration": 0.84,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 473,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "I’m allergic to cats. I’m glad you didn’t bring them.",
+      "src": "audio/pages/31/lines/023_gwendolyn_i_m_allergic_to_cats_i_m_glad_.mp3",
+      "duration": 3.297,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 474,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I wanted to.",
+      "src": "audio/pages/31/lines/024_monica_i_wanted_to.mp3",
+      "duration": 1.022,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 25,
+      "sourceEntry": 475,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "A pause.",
+      "src": "audio/pages/31/lines/025_stage_directions_a_pause.mp3",
+      "duration": 0.683,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 26,
+      "sourceEntry": 475,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Are you sorry you haven’t had….. Children?",
+      "src": "audio/pages/31/lines/026_gwendolyn_are_you_sorry_you_haven_t_had_.mp3",
+      "duration": 2.647,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 27,
+      "sourceEntry": 476,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "You’re not too old to have them. You’re only thirty-six. The prime of your life.",
+      "src": "audio/pages/31/lines/027_penny_you_re_not_too_old_to_have_the.mp3",
+      "duration": 6.269,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_31_full_cast.mp3",
+      "duration": 74.085,
+      "bytes": 1483276,
+      "segments": 27
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_31_learn_rodney_director.mp3",
+      "duration": 74.085,
+      "bytes": 1483276,
+      "segments": 27
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_31_learn_rodney_no_director.mp3",
+      "duration": 68.406,
+      "bytes": 1369382,
+      "segments": 21
+    }
+  }
+}

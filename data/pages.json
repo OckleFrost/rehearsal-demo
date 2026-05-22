@@ -1,6 +1,6 @@
 {
   "title": "Caravan Rehearsal Engine",
-  "version": "20260520-1750",
+  "version": "20260523-0818",
   "defaultPage": 4,
   "pages": [
     {
@@ -656,25 +656,133 @@
       "title": "Page 28",
       "act": "Act One",
       "path": "data/pages/28.json",
-      "status": "existing-render",
+      "status": "generated-2026-05-23-pages28-32",
       "stitchedAudio": {
         "full_cast": {
           "src": "audio/stitched_pages/page_28_full_cast.mp3",
-          "duration": 8.386,
-          "bytes": 169317,
-          "segments": 5
+          "duration": 45.79,
+          "bytes": 916942,
+          "segments": 33
         },
         "learn_rodney_director": {
           "src": "audio/stitched_pages/page_28_learn_rodney_director.mp3",
-          "duration": 8.388,
-          "bytes": 169317,
-          "segments": 5
+          "duration": 45.789,
+          "bytes": 916942,
+          "segments": 33
         },
         "learn_rodney_no_director": {
           "src": "audio/stitched_pages/page_28_learn_rodney_no_director.mp3",
-          "duration": 4.646,
-          "bytes": 94084,
-          "segments": 3
+          "duration": 31.208,
+          "bytes": 625415,
+          "segments": 21
+        }
+      }
+    },
+    {
+      "page": 29,
+      "title": "Page 29",
+      "act": "Act One",
+      "path": "data/pages/29.json",
+      "status": "generated-2026-05-23-pages28-32",
+      "stitchedAudio": {
+        "full_cast": {
+          "src": "audio/stitched_pages/page_29_full_cast.mp3",
+          "duration": 58.862,
+          "bytes": 1178688,
+          "segments": 29
+        },
+        "learn_rodney_director": {
+          "src": "audio/stitched_pages/page_29_learn_rodney_director.mp3",
+          "duration": 58.862,
+          "bytes": 1178688,
+          "segments": 29
+        },
+        "learn_rodney_no_director": {
+          "src": "audio/stitched_pages/page_29_learn_rodney_no_director.mp3",
+          "duration": 53.127,
+          "bytes": 1063750,
+          "segments": 23
+        }
+      }
+    },
+    {
+      "page": 30,
+      "title": "Page 30",
+      "act": "Act One",
+      "path": "data/pages/30.json",
+      "status": "generated-2026-05-23-pages28-32",
+      "stitchedAudio": {
+        "full_cast": {
+          "src": "audio/stitched_pages/page_30_full_cast.mp3",
+          "duration": 74.311,
+          "bytes": 1487456,
+          "segments": 26
+        },
+        "learn_rodney_director": {
+          "src": "audio/stitched_pages/page_30_learn_rodney_director.mp3",
+          "duration": 74.311,
+          "bytes": 1487456,
+          "segments": 26
+        },
+        "learn_rodney_no_director": {
+          "src": "audio/stitched_pages/page_30_learn_rodney_no_director.mp3",
+          "duration": 66.781,
+          "bytes": 1336991,
+          "segments": 20
+        }
+      }
+    },
+    {
+      "page": 31,
+      "title": "Page 31",
+      "act": "Act One",
+      "path": "data/pages/31.json",
+      "status": "generated-2026-05-23-pages28-32",
+      "stitchedAudio": {
+        "full_cast": {
+          "src": "audio/stitched_pages/page_31_full_cast.mp3",
+          "duration": 74.085,
+          "bytes": 1483276,
+          "segments": 27
+        },
+        "learn_rodney_director": {
+          "src": "audio/stitched_pages/page_31_learn_rodney_director.mp3",
+          "duration": 74.085,
+          "bytes": 1483276,
+          "segments": 27
+        },
+        "learn_rodney_no_director": {
+          "src": "audio/stitched_pages/page_31_learn_rodney_no_director.mp3",
+          "duration": 68.406,
+          "bytes": 1369382,
+          "segments": 21
+        }
+      }
+    },
+    {
+      "page": 32,
+      "title": "Page 32",
+      "act": "Act One",
+      "path": "data/pages/32.json",
+      "status": "generated-2026-05-23-pages28-32",
+      "stitchedAudio": {
+        "full_cast": {
+          "src": "audio/stitched_pages/page_32_full_cast.mp3",
+          "duration": 72.516,
+          "bytes": 1451407,
+          "segments": 29
+        },
+        "learn_rodney_director": {
+          "src": "audio/stitched_pages/page_32_learn_rodney_director.mp3",
+          "duration": 72.516,
+          "bytes": 1451407,
+          "segments": 29
+        },
+        "learn_rodney_no_director": {
+          "src": "audio/stitched_pages/page_32_learn_rodney_no_director.mp3",
+          "duration": 61.673,
+          "bytes": 1234591,
+          "segments": 20
         }
       }
     },

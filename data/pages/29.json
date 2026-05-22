@@ -1,0 +1,348 @@
+{
+  "page": 29,
+  "title": "Page 29",
+  "act": "Act One",
+  "status": "generated-2026-05-23-pages28-32",
+  "source": "Caravan printed pages 28-32 generated from structured parse with local page fixes",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 419,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "I’m an actress.",
+      "src": "audio/pages/29/lines/001_gwendolyn_i_m_an_actress.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 420,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh, what fun. Have we seen you in anything?",
+      "src": "audio/pages/29/lines/002_penny_oh_what_fun_have_we_seen_you_i.mp3",
+      "duration": 2.74,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 421,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "No, I don’t think you would have. I’ve just gone back to the profession. I am in a dog food commercial on TV. For Puppyfat?",
+      "src": "audio/pages/29/lines/003_gwendolyn_no_i_don_t_think_you_would_hav.mp3",
+      "duration": 7.43,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 422,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh yes, of course. I’ve seen that one. You’ve seen that one. Haven’t you, Monica?",
+      "src": "audio/pages/29/lines/004_penny_oh_yes_of_course_i_ve_seen_tha.mp3",
+      "duration": 5.759,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 422,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Monica obviously hasn’t",
+      "src": "audio/pages/29/lines/005_stage_directions_monica_obviously_hasn_t.mp3",
+      "duration": 1.023,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 422,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "You know. The one where the dog licks the girl.",
+      "src": "audio/pages/29/lines/006_penny_you_know_the_one_where_the_dog.mp3",
+      "duration": 3.39,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 423,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Licks the girl? Where?",
+      "src": "audio/pages/29/lines/007_monica_licks_the_girl_where.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 424,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "You know. The big white afghan licks her ear.",
+      "src": "audio/pages/29/lines/008_penny_you_know_the_big_white_afghan_.mp3",
+      "duration": 3.019,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 425,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "unimpressed",
+      "src": "audio/pages/29/lines/009_stage_directions_unimpressed.mp3",
+      "duration": 0.737,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 425,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Oh yes. You’re in that one.",
+      "src": "audio/pages/29/lines/010_monica_oh_yes_you_re_in_that_one.mp3",
+      "duration": 1.347,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 426,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "after a slight pause",
+      "src": "audio/pages/29/lines/011_stage_directions_after_a_slight_pause.mp3",
+      "duration": 0.935,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 426,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "No, I’m not in that one. That’s another one.",
+      "src": "audio/pages/29/lines/012_gwendolyn_no_i_m_not_in_that_one_that_s_.mp3",
+      "duration": 2.322,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 426,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh.",
+      "src": "audio/pages/29/lines/013_penny_oh.mp3",
+      "duration": 0.557,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 426,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Oh.",
+      "src": "audio/pages/29/lines/014_monica_oh.mp3",
+      "duration": 0.464,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 427,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "An uncomfortable moment. They sip their drinks.",
+      "src": "audio/pages/29/lines/015_stage_directions_an_uncomfortable_moment_they_s.mp3",
+      "duration": 2.088,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 427,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "You said you’d just gone back to acting. What were you doing before?",
+      "src": "audio/pages/29/lines/016_penny_you_said_you_d_just_gone_back_.mp3",
+      "duration": 4.18,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 428,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "I was in an ashram.",
+      "src": "audio/pages/29/lines/017_gwendolyn_i_was_in_an_ashram.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 429,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Sorry?",
+      "src": "audio/pages/29/lines/018_monica_sorry.mp3",
+      "duration": 0.789,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 430,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "beaming",
+      "src": "audio/pages/29/lines/019_stage_directions_beaming.mp3",
+      "duration": 0.555,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 430,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "An ashram. In India. I was in an ashram in India. It was lovely.",
+      "src": "audio/pages/29/lines/020_gwendolyn_an_ashram_in_india_i_was_in_an.mp3",
+      "duration": 4.319,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 431,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/29/lines/021_stage_directions_brightly.mp3",
+      "duration": 0.397,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 431,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Oh, how nice!",
+      "src": "audio/pages/29/lines/022_penny_oh_how_nice.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 432,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "What’s an ashram?",
+      "src": "audio/pages/29/lines/023_monica_what_s_an_ashram.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 433,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Don’t you know?",
+      "src": "audio/pages/29/lines/024_penny_don_t_you_know.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 25,
+      "sourceEntry": 434,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Do you?",
+      "src": "audio/pages/29/lines/025_monica_do_you.mp3",
+      "duration": 0.882,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 26,
+      "sourceEntry": 435,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Yes! Of course. It’s er…um….ah…um…",
+      "src": "audio/pages/29/lines/026_penny_yes_of_course_it_s_er_um_ah_um.mp3",
+      "duration": 2.972,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 27,
+      "sourceEntry": 436,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "It’s a group of people living together for a spiritual life.",
+      "src": "audio/pages/29/lines/027_gwendolyn_it_s_a_group_of_people_living_.mp3",
+      "duration": 3.39,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 28,
+      "sourceEntry": 437,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "How interesting!",
+      "src": "audio/pages/29/lines/028_penny_how_interesting.mp3",
+      "duration": 1.207,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 29,
+      "sourceEntry": 438,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "How boring.",
+      "src": "audio/pages/29/lines/029_monica_how_boring.mp3",
+      "duration": 1.022,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_29_full_cast.mp3",
+      "duration": 58.862,
+      "bytes": 1178688,
+      "segments": 29
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_29_learn_rodney_director.mp3",
+      "duration": 58.862,
+      "bytes": 1178688,
+      "segments": 29
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_29_learn_rodney_no_director.mp3",
+      "duration": 53.127,
+      "bytes": 1063750,
+      "segments": 23
+    }
+  }
+}

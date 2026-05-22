@@ -1,0 +1,348 @@
+{
+  "page": 32,
+  "title": "Page 32",
+  "act": "Act One",
+  "status": "generated-2026-05-23-pages28-32",
+  "source": "Caravan printed pages 28-32 generated from structured parse with local page fixes",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 477,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "No, thank you. I think I’m sterile. Or Rodney is. Probably Rodney.",
+      "src": "audio/pages/32/lines/001_monica_no_thank_you_i_think_i_m_steri.mp3",
+      "duration": 3.204,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 477,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "She smiles warmly at GWENDOLYN",
+      "src": "audio/pages/32/lines/002_stage_directions_she_smiles_warmly_at_gwendolyn.mp3",
+      "duration": 1.215,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 477,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Anyway, I like cats better than people.",
+      "src": "audio/pages/32/lines/003_monica_anyway_i_like_cats_better_than.mp3",
+      "duration": 2.137,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 478,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "GWENDOLYN swallows her drink quickly. Giggles. Looks at the floor.",
+      "src": "audio/pages/32/lines/004_stage_directions_gwendolyn_swallows_her_drink_q.mp3",
+      "duration": 3.346,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 478,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/32/lines/005_stage_directions_brightly.mp3",
+      "duration": 0.397,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 478,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I hope you’ll enjoy your holiday with us, Gwendolyn.",
+      "src": "audio/pages/32/lines/006_penny_i_hope_you_ll_enjoy_your_holid.mp3",
+      "duration": 2.786,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 479,
+      "speaker": "GWENDOLYN",
+      "kind": "spoken",
+      "text": "Yes! I’m sure I will. Um…er….. I think I’ll go and help Pierce. Lovely talking to you.",
+      "src": "audio/pages/32/lines/007_gwendolyn_yes_i_m_sure_i_will_um_er_i_th.mp3",
+      "duration": 6.966,
+      "speed": null,
+      "voiceName": "Lily - Velvety Actress"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 480,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "Lovely.",
+      "src": "audio/pages/32/lines/008_monica_lovely.mp3",
+      "duration": 0.743,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 481,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "GWENDOLYN backs out nervously.",
+      "src": "audio/pages/32/lines/009_stage_directions_gwendolyn_backs_out_nervously.mp3",
+      "duration": 1.214,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 481,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Monica, she’s terrified of you.",
+      "src": "audio/pages/32/lines/010_penny_monica_she_s_terrified_of_you.mp3",
+      "duration": 2.508,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 482,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I’m terrified of her! I don’t want to spend two weeks locked in a caravan with an ex nun!",
+      "src": "audio/pages/32/lines/011_monica_i_m_terrified_of_her_i_don_t_w.mp3",
+      "duration": 4.969,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 483,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I could kill Pierce. We can’t all go around pretending we’re thirty-six.",
+      "src": "audio/pages/32/lines/012_penny_i_could_kill_pierce_we_can_t_a.mp3",
+      "duration": 5.016,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 484,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "I think it’s wonderful.",
+      "src": "audio/pages/32/lines/013_monica_i_think_it_s_wonderful.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 485,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "We’re sure to slip up.",
+      "src": "audio/pages/32/lines/014_penny_we_re_sure_to_slip_up.mp3",
+      "duration": 1.393,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 486,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "You never have yet.",
+      "src": "audio/pages/32/lines/015_monica_you_never_have_yet.mp3",
+      "duration": 1.161,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 486,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Pause",
+      "src": "audio/pages/32/lines/016_stage_directions_pause.mp3",
+      "duration": 0.59,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 486,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "While we’re alone. Just between friends. How old are you?",
+      "src": "audio/pages/32/lines/017_monica_while_we_re_alone_just_between.mp3",
+      "duration": 2.833,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 487,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/32/lines/018_stage_directions_brightly.mp3",
+      "duration": 0.397,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 487,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Monica, I don’t lie about my age.",
+      "src": "audio/pages/32/lines/019_penny_monica_i_don_t_lie_about_my_ag.mp3",
+      "duration": 2.694,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 488,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "No. You just don’t tell it. You can tell me. I’m your best friend.",
+      "src": "audio/pages/32/lines/020_monica_no_you_just_don_t_tell_it_you_.mp3",
+      "duration": 3.437,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 489,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I don’t think it’s important.",
+      "src": "audio/pages/32/lines/021_penny_i_don_t_think_it_s_important.mp3",
+      "duration": 1.672,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 490,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "How old?",
+      "src": "audio/pages/32/lines/022_monica_how_old.mp3",
+      "duration": 0.882,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 491,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/32/lines/023_stage_directions_brightly.mp3",
+      "duration": 0.397,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 491,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Ha, ha, ha, ha. Oh, Monica, don’t be silly. Really. It’s not important. It’s not important at all.",
+      "src": "audio/pages/32/lines/024_penny_ha_ha_ha_ha_oh_monica_don_t_be.mp3",
+      "duration": 7.477,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 25,
+      "sourceEntry": 492,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "PENNY looks wildly around the caravan for an escape. She goes to the door.",
+      "src": "audio/pages/32/lines/025_stage_directions_penny_looks_wildly_around_the_.mp3",
+      "duration": 2.752,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 26,
+      "sourceEntry": 492,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Calls",
+      "src": "audio/pages/32/lines/026_stage_directions_calls.mp3",
+      "duration": 0.534,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 27,
+      "sourceEntry": 492,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "How are you going with the annex?",
+      "src": "audio/pages/32/lines/027_penny_how_are_you_going_with_the_ann.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 28,
+      "sourceEntry": 493,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Almost up.",
+      "src": "audio/pages/32/lines/028_parkes_almost_up.mp3",
+      "duration": 0.743,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 29,
+      "sourceEntry": 494,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "And please, Monica, don’t antagonize Parkes. You know how he is. I want us all to have a wonderful time.",
+      "src": "audio/pages/32/lines/029_penny_and_please_monica_don_t_antago.mp3",
+      "duration": 7.988,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_32_full_cast.mp3",
+      "duration": 72.516,
+      "bytes": 1451407,
+      "segments": 29
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_32_learn_rodney_director.mp3",
+      "duration": 72.516,
+      "bytes": 1451407,
+      "segments": 29
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_32_learn_rodney_no_director.mp3",
+      "duration": 61.673,
+      "bytes": 1234591,
+      "segments": 20
+    }
+  }
+}
