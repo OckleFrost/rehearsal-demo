@@ -1,0 +1,326 @@
+{
+  "page": 36,
+  "title": "Page 36",
+  "act": "Act One",
+  "status": "generated-2026-05-23-pages35-36",
+  "source": "Caravan printed pages 35-36 generated from structured parse with local page-break and stage-direction fixes",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 547,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I think I got some sun today. It was a lovely day. I think if there are no more squabbles, we’ll have a lovely holiday.",
+      "src": "audio/pages/36/lines/001_penny_i_think_i_got_some_sun_today_i.mp3",
+      "duration": 8.22,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 547,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Pause",
+      "src": "audio/pages/36/lines/002_stage_directions_pause.mp3",
+      "duration": 0.59,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 547,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "God, I’m sounding like Gwendolyn.",
+      "src": "audio/pages/36/lines/003_penny_god_i_m_sounding_like_gwendoly.mp3",
+      "duration": 1.765,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 548,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Hey! What a body!",
+      "src": "audio/pages/36/lines/004_parkes_hey_what_a_body.mp3",
+      "duration": 1.254,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 549,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Yes. For someone who’s been in an ashram for three years, she’s very uninhibited.",
+      "src": "audio/pages/36/lines/005_penny_yes_for_someone_who_s_been_in_.mp3",
+      "duration": 5.944,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 550,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "She and Pierce were practically doing it on the beach.",
+      "src": "audio/pages/36/lines/006_parkes_she_and_pierce_were_practicall.mp3",
+      "duration": 2.647,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 551,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Yes. I didn’t think that was entirely necessary.",
+      "src": "audio/pages/36/lines/007_penny_yes_i_didn_t_think_that_was_en.mp3",
+      "duration": 3.158,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 552,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Lucky Pierce. I had to lie on my stomach for most of the day.",
+      "src": "audio/pages/36/lines/008_parkes_lucky_pierce_i_had_to_lie_on_m.mp3",
+      "duration": 3.297,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 553,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "brightly",
+      "src": "audio/pages/36/lines/009_stage_directions_brightly.mp3",
+      "duration": 0.397,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 553,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "There you are. You’re having a lovely time.",
+      "src": "audio/pages/36/lines/010_penny_there_you_are_you_re_having_a_.mp3",
+      "duration": 3.019,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 554,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I hope Monica’s not going to be a dampener.",
+      "src": "audio/pages/36/lines/011_parkes_i_hope_monica_s_not_going_to_b.mp3",
+      "duration": 2.043,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 555,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes, she enjoyed herself today.",
+      "src": "audio/pages/36/lines/012_penny_parkes_she_enjoyed_herself_tod.mp3",
+      "duration": 1.95,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 556,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "How could you tell? You couldn’t see her under the blanket she was wearing, and the hat and the sweater, and the sunglasses. The lifeguard asked me how my grandmother was.",
+      "src": "audio/pages/36/lines/013_parkes_how_could_you_tell_you_couldn_.mp3",
+      "duration": 9.799,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 557,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "giggling",
+      "src": "audio/pages/36/lines/014_stage_directions_giggling.mp3",
+      "duration": 0.559,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 557,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "He didn’t? You didn’t tell her?",
+      "src": "audio/pages/36/lines/015_penny_he_didn_t_you_didn_t_tell_her.mp3",
+      "duration": 2.508,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 558,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I did. I told her. I thought it might make her come out from under the blanket.",
+      "src": "audio/pages/36/lines/016_parkes_i_did_i_told_her_i_thought_it_.mp3",
+      "duration": 4.412,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 559,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "What did she do?",
+      "src": "audio/pages/36/lines/017_penny_what_did_she_do.mp3",
+      "duration": 1.3,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 560,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "She hissed. And pulled the blanket over her head.",
+      "src": "audio/pages/36/lines/018_parkes_she_hissed_and_pulled_the_blan.mp3",
+      "duration": 2.786,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 560,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "They laugh together",
+      "src": "audio/pages/36/lines/019_stage_directions_they_laugh_together.mp3",
+      "duration": 0.872,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 560,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "She did come out once. When she lit a cigarette and the blanket caught fire.",
+      "src": "audio/pages/36/lines/020_parkes_she_did_come_out_once_when_she.mp3",
+      "duration": 3.855,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 561,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "laughing",
+      "src": "audio/pages/36/lines/021_stage_directions_laughing.mp3",
+      "duration": 0.577,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 561,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Don’t laugh. She burnt herself.",
+      "src": "audio/pages/36/lines/022_penny_don_t_laugh_she_burnt_herself.mp3",
+      "duration": 2.554,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 561,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "But they do laugh together. A pause.",
+      "src": "audio/pages/36/lines/023_stage_directions_but_they_do_laugh_together_a_p.mp3",
+      "duration": 1.503,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 24,
+      "sourceEntry": 562,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You look very sexy in that nightdress.",
+      "src": "audio/pages/36/lines/024_parkes_you_look_very_sexy_in_that_nig.mp3",
+      "duration": 2.043,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 25,
+      "sourceEntry": 563,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "He kisses her. She kisses him back, but only dutifully. He starts to remove her nightdress.",
+      "src": "audio/pages/36/lines/025_stage_directions_he_kisses_her_she_kisses_him_b.mp3",
+      "duration": 3.935,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 26,
+      "sourceEntry": 563,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes! Please don’t start something you can’t finish. We’ve got Rodney and Monica in here!",
+      "src": "audio/pages/36/lines/026_penny_parkes_please_don_t_start_some.mp3",
+      "duration": 4.969,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 27,
+      "sourceEntry": 564,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "They won’t mind. They’re our friends.",
+      "src": "audio/pages/36/lines/027_parkes_they_won_t_mind_they_re_our_fr.mp3",
+      "duration": 1.904,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_36_full_cast.mp3",
+      "duration": 77.86,
+      "bytes": 1558509,
+      "segments": 27
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_36_learn_rodney_director.mp3",
+      "duration": 77.86,
+      "bytes": 1558509,
+      "segments": 27
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_36_learn_rodney_no_director.mp3",
+      "duration": 69.428,
+      "bytes": 1389758,
+      "segments": 20
+    }
+  }
+}

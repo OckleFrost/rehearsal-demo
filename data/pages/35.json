@@ -1,0 +1,282 @@
+{
+  "page": 35,
+  "title": "Page 35",
+  "act": "Act One",
+  "status": "generated-2026-05-23-pages35-36",
+  "source": "Caravan printed pages 35-36 generated from structured parse with local page-break and stage-direction fixes",
+  "lines": [
+    {
+      "n": 1,
+      "sourceEntry": 532,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "It does matter. There’s never been a scratch on this caravan. It’s in better condition than when I bought it.",
+      "src": "audio/pages/35/lines/001_parkes_it_does_matter_there_s_never_b.mp3",
+      "duration": 5.433,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 2,
+      "sourceEntry": 533,
+      "speaker": "MONICA",
+      "kind": "spoken",
+      "text": "The holiday has started. Cheers.",
+      "src": "audio/pages/35/lines/002_monica_the_holiday_has_started_cheers.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "Charlotte - Warm & Conversational"
+    },
+    {
+      "n": 3,
+      "sourceEntry": 533,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "She drinks. The curtain falls on the men squabbling and PENNY trying to keep peace. GWENDOLYN watches and wishes she was somewhere else.",
+      "src": "audio/pages/35/lines/003_stage_directions_she_drinks_the_curtain_falls_o.mp3",
+      "duration": 5.547,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 4,
+      "sourceEntry": 534,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "SCENE TWO. The interior of the caravan. Night of the same day. PENNY is wearing a nightdress. PARKES is in his pyjamas. He is examining the door, kicked by PIERCE.",
+      "src": "audio/pages/35/lines/004_stage_directions_scene_two_the_interior_of_the_.mp3",
+      "duration": 7.431,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 5,
+      "sourceEntry": 534,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Bloody door. Bloody Pierce.",
+      "src": "audio/pages/35/lines/005_parkes_bloody_door_bloody_pierce.mp3",
+      "duration": 1.811,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 6,
+      "sourceEntry": 535,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Sssh. Pierce will hear you. He’s just outside.",
+      "src": "audio/pages/35/lines/006_penny_sssh_pierce_will_hear_you_he_s.mp3",
+      "duration": 3.437,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 7,
+      "sourceEntry": 536,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "I don’t care if he does hear me. As if it wasn’t enough I lose my favourite spot, somebody has to dent the door.",
+      "src": "audio/pages/35/lines/007_parkes_i_don_t_care_if_he_does_hear_m.mp3",
+      "duration": 5.944,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 8,
+      "sourceEntry": 537,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "That somebody is one of your best friends, and he didn’t mean to dent your door. He was in pain.",
+      "src": "audio/pages/35/lines/008_penny_that_somebody_is_one_of_your_b.mp3",
+      "duration": 6.269,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 9,
+      "sourceEntry": 538,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "It was very thoughtless of him. I knew things would go wrong when we lost that parking place.",
+      "src": "audio/pages/35/lines/009_parkes_it_was_very_thoughtless_of_him.mp3",
+      "duration": 4.319,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 10,
+      "sourceEntry": 539,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "slightly high-pitched",
+      "src": "audio/pages/35/lines/010_stage_directions_slightly_high_pitched.mp3",
+      "duration": 0.809,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 11,
+      "sourceEntry": 539,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Parkes, I am determined to have a good time on this holiday.",
+      "src": "audio/pages/35/lines/011_penny_parkes_i_am_determined_to_have.mp3",
+      "duration": 4.087,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 12,
+      "sourceEntry": 540,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "All right, all right. So am I.",
+      "src": "audio/pages/35/lines/012_parkes_all_right_all_right_so_am_i.mp3",
+      "duration": 1.625,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 13,
+      "sourceEntry": 540,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Pause",
+      "src": "audio/pages/35/lines/013_stage_directions_pause.mp3",
+      "duration": 0.59,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 14,
+      "sourceEntry": 540,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "What are you wearing?",
+      "src": "audio/pages/35/lines/014_parkes_what_are_you_wearing.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 15,
+      "sourceEntry": 541,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "My nightdress.",
+      "src": "audio/pages/35/lines/015_penny_my_nightdress.mp3",
+      "duration": 1.068,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 16,
+      "sourceEntry": 542,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "You always sleep in the nuddy.",
+      "src": "audio/pages/35/lines/016_parkes_you_always_sleep_in_the_nuddy.mp3",
+      "duration": 1.44,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 17,
+      "sourceEntry": 543,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "I don’t intend to sleep naked in front of my best friends.",
+      "src": "audio/pages/35/lines/017_penny_i_don_t_intend_to_sleep_naked_.mp3",
+      "duration": 3.297,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 18,
+      "sourceEntry": 544,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "But you were naked with them on the beach today!",
+      "src": "audio/pages/35/lines/018_parkes_but_you_were_naked_with_them_o.mp3",
+      "duration": 2.276,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 19,
+      "sourceEntry": 545,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "That’s different. We were swimming.",
+      "src": "audio/pages/35/lines/019_penny_that_s_different_we_were_swimm.mp3",
+      "duration": 2.554,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 20,
+      "sourceEntry": 545,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "Pause",
+      "src": "audio/pages/35/lines/020_stage_directions_pause.mp3",
+      "duration": 0.59,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    },
+    {
+      "n": 21,
+      "sourceEntry": 545,
+      "speaker": "PENNY",
+      "kind": "spoken",
+      "text": "Why are you wearing pyjamas?",
+      "src": "audio/pages/35/lines/021_penny_why_are_you_wearing_pyjamas.mp3",
+      "duration": 1.765,
+      "speed": null,
+      "voiceName": "KYLIE - AUSTRALIAN FEMALE FRIENDLY WARM"
+    },
+    {
+      "n": 22,
+      "sourceEntry": 546,
+      "speaker": "PARKES",
+      "kind": "spoken",
+      "text": "Oh. I’m cold. It gets chilly in here at night.",
+      "src": "audio/pages/35/lines/022_parkes_oh_i_m_cold_it_gets_chilly_in_.mp3",
+      "duration": 2.415,
+      "speed": null,
+      "voiceName": "Dave - Expressive Australian English"
+    },
+    {
+      "n": 23,
+      "sourceEntry": 546,
+      "speaker": "DIRECTOR",
+      "kind": "stage_direction",
+      "text": "A pause.",
+      "src": "audio/pages/35/lines/023_stage_directions_a_pause.mp3",
+      "duration": 0.683,
+      "speed": "1.5x",
+      "voiceName": "Ockle Jane - Dry Wit"
+    }
+  ],
+  "stitchedAudio": {
+    "full_cast": {
+      "src": "audio/stitched_pages/page_35_full_cast.mp3",
+      "duration": 66.271,
+      "bytes": 1326542,
+      "segments": 23
+    },
+    "learn_rodney_director": {
+      "src": "audio/stitched_pages/page_35_learn_rodney_director.mp3",
+      "duration": 66.271,
+      "bytes": 1326542,
+      "segments": 23
+    },
+    "learn_rodney_no_director": {
+      "src": "audio/stitched_pages/page_35_learn_rodney_no_director.mp3",
+      "duration": 50.62,
+      "bytes": 1013595,
+      "segments": 17
+    }
+  }
+}
