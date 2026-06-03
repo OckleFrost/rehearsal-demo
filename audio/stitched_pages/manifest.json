@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-22T23:17:41.679293+00:00",
-  "sourceVersion": "20260523-0928",
+  "generatedAt": "2026-06-03T08:53:46.143611+00:00",
+  "sourceVersion": "20260603-1852",
   "modes": [
     "full_cast",
     "learn_rodney_director",
@@ -109,17 +109,25 @@
           "segments": 28
         },
         "learn_rodney_director": {
-          "src": "audio/stitched_pages/page_08_learn_rodney_director.mp3",
-          "duration": 57.883,
-          "bytes": 1158835,
+          "src": "audio/stitched_pages/page_08_learn_rodney_director_gapoverride_20260603.mp3",
+          "duration": 61.581,
+          "bytes": 1252413,
           "segments": 28
         },
         "learn_rodney_no_director": {
-          "src": "audio/stitched_pages/page_08_learn_rodney_no_director.mp3",
-          "duration": 41.094,
-          "bytes": 823423,
+          "src": "audio/stitched_pages/page_08_learn_rodney_no_director_gapoverride_20260603.mp3",
+          "duration": 48.376,
+          "bytes": 978479,
           "segments": 19
         }
+      },
+      "timingOverride": {
+        "page": 8,
+        "sourceEntry": 62,
+        "line": 18,
+        "speaker": "RODNEY",
+        "extraSeconds": 5,
+        "note": "Extend Rodney-muted rehearsal gap before Penny's 'I’m sorry' line."
       }
     },
     {

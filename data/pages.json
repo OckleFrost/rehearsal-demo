@@ -1,6 +1,6 @@
 {
   "title": "Caravan Rehearsal Engine",
-  "version": "20260523-0928",
+  "version": "20260603-1852",
   "defaultPage": 4,
   "pages": [
     {
@@ -116,7 +116,7 @@
       "title": "Page 8",
       "act": "Act One",
       "path": "data/pages/8.json",
-      "status": "provisional-new-render",
+      "status": "timing-override-20260603",
       "stitchedAudio": {
         "full_cast": {
           "src": "audio/stitched_pages/page_08_full_cast.mp3",
@@ -125,15 +125,15 @@
           "segments": 28
         },
         "learn_rodney_director": {
-          "src": "audio/stitched_pages/page_08_learn_rodney_director.mp3",
-          "duration": 57.883,
-          "bytes": 1158835,
+          "src": "audio/stitched_pages/page_08_learn_rodney_director_gapoverride_20260603.mp3",
+          "duration": 61.581,
+          "bytes": 1252413,
           "segments": 28
         },
         "learn_rodney_no_director": {
-          "src": "audio/stitched_pages/page_08_learn_rodney_no_director.mp3",
-          "duration": 41.094,
-          "bytes": 823423,
+          "src": "audio/stitched_pages/page_08_learn_rodney_no_director_gapoverride_20260603.mp3",
+          "duration": 48.376,
+          "bytes": 978479,
           "segments": 19
         }
       }

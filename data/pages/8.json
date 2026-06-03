@@ -200,6 +200,8 @@
       "text": "God that’s a long drive, though. Monica almost passed out in the heat. Why are you looking at me like that?",
       "src": "audio/pages/8/lines/018_rodney_f9f44f3239f4ed8d_norm.mp3",
       "duration": 5.016,
+      "rehearsalGapExtraSeconds": 5,
+      "rehearsalGapNote": "Actor timing override: extend the Rodney-muted gap for sourceEntry 62 by five seconds before Penny's next line.",
       "speed": null,
       "voiceName": "Ty Frost 25Minute"
     },
@@ -322,16 +324,17 @@
       "segments": 28
     },
     "learn_rodney_director": {
-      "src": "audio/stitched_pages/page_08_learn_rodney_director.mp3",
-      "duration": 57.883,
-      "bytes": 1158835,
+      "src": "audio/stitched_pages/page_08_learn_rodney_director_gapoverride_20260603.mp3",
+      "duration": 61.581,
+      "bytes": 1252413,
       "segments": 28
     },
     "learn_rodney_no_director": {
-      "src": "audio/stitched_pages/page_08_learn_rodney_no_director.mp3",
-      "duration": 41.094,
-      "bytes": 823423,
+      "src": "audio/stitched_pages/page_08_learn_rodney_no_director_gapoverride_20260603.mp3",
+      "duration": 48.376,
+      "bytes": 978479,
       "segments": 19
     }
-  }
+  },
+  "version": "20260603-1852"
 }
