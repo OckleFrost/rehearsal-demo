@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Caravan Full Script - No Directions</title>
+    <link>https://ocklefrost.github.io/rehearsal-demo/podcast/caravan-full-script-no-directions-continuous/</link>
+    <description>Private rehearsal feed: continuous Caravan dialogue-only audio. Stage directions and director lines are omitted.</description>
+    <language>en-au</language>
+    <itunes:author>Ockle Rehearsal Engine</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <lastBuildDate>Thu, 04 Jun 2026 04:40:03 +0000</lastBuildDate>
+    <item>
+      <title>Full Script - No Directions</title>
+      <description>Continuous full-script rehearsal audio with stage directions omitted. Pages 04-88 are stitched in script order.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>4458</itunes:duration>
+      <guid isPermaLink="false">caravan-full-no-directions-continuous-2026-06-04</guid>
+      <pubDate>Thu, 04 Jun 2026 04:40:03 +0000</pubDate>
+      <enclosure url="https://ocklefrost.github.io/rehearsal-demo/podcast/caravan-full-script-no-directions-continuous/audio/caravan-full-script-no-directions.mp3" length="71325740" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>

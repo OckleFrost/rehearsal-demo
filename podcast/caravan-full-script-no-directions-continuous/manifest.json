@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-06-04T04:40:03+00:00",
+  "sourceManifest": "/Users/ockle/.openclaw/workspace/output/rehearsal_engine/music_playlist_remaining_2026-05-23/full_no_directions/manifest.json",
+  "baseUrl": "https://ocklefrost.github.io/rehearsal-demo/podcast/caravan-full-script-no-directions-continuous/",
+  "feed": "/Users/ockle/.openclaw/workspace/output/rehearsal_engine/podcast_feeds/caravan_full_script_no_directions_continuous_2026-06-04/feed.xml",
+  "audioFile": "/Users/ockle/.openclaw/workspace/output/rehearsal_engine/podcast_feeds/caravan_full_script_no_directions_continuous_2026-06-04/audio/caravan-full-script-no-directions.mp3",
+  "trackCount": 85,
+  "firstPage": 4,
+  "lastPage": 88,
+  "durationMinutes": 74.3,
+  "bytes": 71325740,
+  "publishingNote": "Continuous cast-listening feed. Same unlisted-public boundary as the page-by-page feed."
+}
