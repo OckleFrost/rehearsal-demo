@@ -1,0 +1,2233 @@
+[
+  {
+    "page": 7,
+    "line": 18,
+    "status": "review_changed_or_uncertain",
+    "match_score": 0.5,
+    "audio_start": 267.24,
+    "audio_end": 267.36,
+    "duration": 0.12,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "Hello, Parkes.",
+      "audio_start": 266.06,
+      "audio_end": 266.44
+    },
+    "rodney_text": "Hello Parkes.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Mind your head....",
+      "audio_start": 268.54,
+      "audio_end": 269.68
+    },
+    "near_transcript": "monica rodney hello parks hello parks mind your head"
+  },
+  {
+    "page": 7,
+    "line": 23,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 269.92,
+    "audio_end": 270.3,
+    "duration": 0.38,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Mind your head....",
+      "audio_start": 268.54,
+      "audio_end": 269.68
+    },
+    "rodney_text": "Ah!",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Darling, are you all right? Rodney?",
+      "audio_start": 271.44,
+      "audio_end": 273.06
+    },
+    "near_transcript": "parks mind your head ah oh darling are you"
+  },
+  {
+    "page": 8,
+    "line": 2,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 273.46,
+    "audio_end": 274.84,
+    "duration": 1.38,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Darling, are you all right? Rodney?",
+      "audio_start": 271.44,
+      "audio_end": 273.06
+    },
+    "rodney_text": "Oh my God.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I know. I did it too.",
+      "audio_start": 275.22,
+      "audio_end": 276.8
+    },
+    "near_transcript": "you all right rodney oh my god i know i did"
+  },
+  {
+    "page": 8,
+    "line": 4,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 276.92,
+    "audio_end": 278.72,
+    "duration": 1.8,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "I know. I did it too.",
+      "audio_start": 275.22,
+      "audio_end": 276.8
+    },
+    "rodney_text": "Oh, oh my God.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Where\u2019s Monica?",
+      "audio_start": 279.14,
+      "audio_end": 279.98
+    },
+    "near_transcript": "i did it too oh oh my god where's monica parts are"
+  },
+  {
+    "page": 8,
+    "line": 8,
+    "status": "rodney_gap_safe",
+    "match_score": 0.875,
+    "audio_start": 281.1,
+    "audio_end": 285.2,
+    "duration": 4.1,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Where\u2019s Monica?",
+      "audio_start": 279.14,
+      "audio_end": 279.98
+    },
+    "rodney_text": "Parkes is showing her where he used to have the caravan. Somebody\u2019s taken his spot apparently.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Darling?",
+      "audio_start": null,
+      "audio_end": null
+    },
+    "near_transcript": "where's monica parts are showing her where he used to have the caravan somebody's taken his spot apparently yes don't i get"
+  },
+  {
+    "page": 8,
+    "line": 11,
+    "status": "too_short_for_clean_gap",
+    "match_score": 1.0,
+    "audio_start": 286.94,
+    "audio_end": 287.24,
+    "duration": 0.3,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Darling?",
+      "audio_start": null,
+      "audio_end": null
+    },
+    "rodney_text": "Yes?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Don\u2019t I get a kiss?",
+      "audio_start": 288.28,
+      "audio_end": 289.18
+    },
+    "near_transcript": "taken his spot apparently yes don't i get a"
+  },
+  {
+    "page": 8,
+    "line": 16,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 292.34,
+    "audio_end": 293.36,
+    "duration": 1.02,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "That\u2019s not much of a kiss.",
+      "audio_start": 290.94,
+      "audio_end": 291.9
+    },
+    "rodney_text": "Well. Here we are.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I\u2019m sorry, Rodney. I have to say it. I\u2019m very hurt.",
+      "audio_start": 301.32,
+      "audio_end": 305.26
+    },
+    "near_transcript": "much of a kiss well here we are god that's a long"
+  },
+  {
+    "page": 8,
+    "line": 18,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 294.48,
+    "audio_end": 300.44,
+    "duration": 5.96,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "That\u2019s not much of a kiss.",
+      "audio_start": 290.94,
+      "audio_end": 291.9
+    },
+    "rodney_text": "God that\u2019s a long drive, though. Monica almost passed out in the heat. Why are you looking at me like that?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I\u2019m sorry, Rodney. I have to say it. I\u2019m very hurt.",
+      "audio_start": 301.32,
+      "audio_end": 305.26
+    },
+    "near_transcript": "well here we are god that's a long drive though monica almost passed out in the heat why are you looking at me like that i'm sorry rodney i"
+  },
+  {
+    "page": 8,
+    "line": 21,
+    "status": "review_changed_or_uncertain",
+    "match_score": 0.5,
+    "audio_start": 305.98,
+    "audio_end": 306.12,
+    "duration": 0.14,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "I\u2019m sorry, Rodney. I have to say it. I\u2019m very hurt.",
+      "audio_start": 301.32,
+      "audio_end": 305.26
+    },
+    "rodney_text": "Hurt? Why?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "It\u2019s been two weeks. You never rang.",
+      "audio_start": 307.66,
+      "audio_end": 310.32
+    },
+    "near_transcript": "it i'm very hurt hurt fine it's been two"
+  },
+  {
+    "page": 8,
+    "line": 23,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 0.818,
+    "audio_start": 310.84,
+    "audio_end": 317.32,
+    "duration": 6.48,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "It\u2019s been two weeks. You never rang.",
+      "audio_start": 307.66,
+      "audio_end": 310.32
+    },
+    "rodney_text": "I\u2019ve been very busy, Penny. There\u2019s a whole new...er... and we\u2019re up to...er...and really, there\u2019s been no time. Really.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "You\u2019re feeling guilty?",
+      "audio_start": 318.34,
+      "audio_end": 319.16
+    },
+    "near_transcript": "never rang ah being very busy penny there's a whole new uh and we're up to and really there's been no time really you're feeling guilty just"
+  },
+  {
+    "page": 8,
+    "line": 26,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 319.7,
+    "audio_end": 320.68,
+    "duration": 0.98,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "You\u2019re feeling guilty?",
+      "audio_start": 318.34,
+      "audio_end": 319.16
+    },
+    "rodney_text": "Just a little bit, yes.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "How do you think I feel? Monica\u2019s my best friend.",
+      "audio_start": 321.62,
+      "audio_end": 324.56
+    },
+    "near_transcript": "really you're feeling guilty just a little bit yes well how do you"
+  },
+  {
+    "page": 8,
+    "line": 28,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 1.0,
+    "audio_start": 324.7,
+    "audio_end": 326.5,
+    "duration": 1.8,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "How do you think I feel? Monica\u2019s my best friend.",
+      "audio_start": 321.62,
+      "audio_end": 324.56
+    },
+    "rodney_text": "I know! And if she ever found out.....",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I know! If Parkes ever found out.....",
+      "audio_start": 326.5,
+      "audio_end": 329.18
+    },
+    "near_transcript": "monica's my best friend i know and if she ever found out i know if park's"
+  },
+  {
+    "page": 9,
+    "line": 2,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 1.0,
+    "audio_start": 329.18,
+    "audio_end": 331.36,
+    "duration": 2.18,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "I know! If Parkes ever found out.....",
+      "audio_start": 326.5,
+      "audio_end": 329.18
+    },
+    "rodney_text": "I know! I know! Which is why we\u2019ve got to be careful.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "We have been careful. We couldn\u2019t be more careful! Once in two weeks.",
+      "audio_start": 331.78,
+      "audio_end": 337.02
+    },
+    "near_transcript": "park's ever found out i know i know which is why we've got to be careful we have been careful"
+  },
+  {
+    "page": 9,
+    "line": 4,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 1.0,
+    "audio_start": 337.26,
+    "audio_end": 338.18,
+    "duration": 0.92,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "We have been careful. We couldn\u2019t be more careful! Once in two weeks.",
+      "audio_start": 331.78,
+      "audio_end": 337.02
+    },
+    "rodney_text": "Penny, we were drunk.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Not that drunk! It was wonderful. It was wonderful for you, wasn\u2019t it?",
+      "audio_start": 338.18,
+      "audio_end": 344.14
+    },
+    "near_transcript": "once in two weeks penny we were drunk not that drunk it"
+  },
+  {
+    "page": 9,
+    "line": 6,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 0.8,
+    "audio_start": 344.24,
+    "audio_end": 345.42,
+    "duration": 1.18,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Not that drunk! It was wonderful. It was wonderful for you, wasn\u2019t it?",
+      "audio_start": 338.18,
+      "audio_end": 344.14
+    },
+    "rodney_text": "Yes, yes of course, but.....",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Oh, darling. Darling.",
+      "audio_start": 346.12,
+      "audio_end": 347.48
+    },
+    "near_transcript": "for you wasn't it yes yes of course darling darling penny penny"
+  },
+  {
+    "page": 9,
+    "line": 9,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 348.82,
+    "audio_end": 351.14,
+    "duration": 2.32,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Oh, darling. Darling.",
+      "audio_start": 346.12,
+      "audio_end": 347.48
+    },
+    "rodney_text": "Penny, Penny, Penny!!! They could come in at any moment!",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Wouldn\u2019t you have done it if you had been sober?",
+      "audio_start": 352.18,
+      "audio_end": 353.76
+    },
+    "near_transcript": "of course darling darling penny penny penny they could come in at any moment wouldn't you have done"
+  },
+  {
+    "page": 9,
+    "line": 11,
+    "status": "rodney_gap_safe",
+    "match_score": 0.929,
+    "audio_start": 354.36,
+    "audio_end": 358.22,
+    "duration": 3.86,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Wouldn\u2019t you have done it if you had been sober?",
+      "audio_start": 352.18,
+      "audio_end": 353.76
+    },
+    "rodney_text": "I.....yes, of course....but.... I might have thought more seriously about the consequences.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I see. Fine.",
+      "audio_start": 359.12,
+      "audio_end": 360.32
+    },
+    "near_transcript": "if you'd been sober yes of course but i might have thought more seriously about the consequences i think fine oh"
+  },
+  {
+    "page": 9,
+    "line": 15,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 370.22,
+    "audio_end": 371.84,
+    "duration": 1.62,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Why couldn\u2019t I have had my first affair with somebody else? Why did it have to be my best friend who\u2019s married to my other best friend?",
+      "audio_start": 361.66,
+      "audio_end": 370.0
+    },
+    "rodney_text": "You\u2019re talking very loudly.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I don\u2019t care!",
+      "audio_start": 372.02,
+      "audio_end": 372.74
+    },
+    "near_transcript": "my other best friend you're talking very loudly i don't care shh"
+  },
+  {
+    "page": 9,
+    "line": 17,
+    "status": "review_missing",
+    "match_score": 0.0,
+    "audio_start": null,
+    "audio_end": null,
+    "duration": null,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "I don\u2019t care!",
+      "audio_start": 372.02,
+      "audio_end": 372.74
+    },
+    "rodney_text": "Shhhh!!",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I can\u2019t help it. I\u2019ve never been unfaithful before, Rodney. I\u2019ve never taken a lover before. In all these years. Rodney, please. Kiss me.",
+      "audio_start": 373.82,
+      "audio_end": 385.08
+    },
+    "near_transcript": ""
+  },
+  {
+    "page": 9,
+    "line": 19,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 0.917,
+    "audio_start": 385.14,
+    "audio_end": 387.98,
+    "duration": 2.84,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "I can\u2019t help it. I\u2019ve never been unfaithful before, Rodney. I\u2019ve never taken a lover before. In all these years. Rodney, please. Kiss me.",
+      "audio_start": 373.82,
+      "audio_end": 385.08
+    },
+    "rodney_text": "No! Monica and Parkes could come in. We have to be careful.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I can\u2019t stand it. I don\u2019t think I\u2019ll be able to stand it.",
+      "audio_start": 388.68,
+      "audio_end": 392.46
+    },
+    "near_transcript": "rodney please kiss me no monica and parks could come in we have to be careful i can't stand it"
+  },
+  {
+    "page": 9,
+    "line": 21,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 0.952,
+    "audio_start": 392.5,
+    "audio_end": 398.56,
+    "duration": 6.06,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "I can\u2019t stand it. I don\u2019t think I\u2019ll be able to stand it.",
+      "audio_start": 388.68,
+      "audio_end": 392.46
+    },
+    "rodney_text": "You really have to control yourself. Look, it was only one night. It\u2019s hardly an affair. We can\u2019t have an affair.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I\u2019m terribly sorry. You\u2019re right, of course.",
+      "audio_start": 400.46000000000004,
+      "audio_end": 401.9
+    },
+    "near_transcript": "able to stand it you really had to control yourself look it was only one night it's hardly an affair we can't have an affair you're right of course"
+  },
+  {
+    "page": 10,
+    "line": 3,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 403.98,
+    "audio_end": 405.9,
+    "duration": 1.92,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "I\u2019m terribly sorry. You\u2019re right, of course.",
+      "audio_start": 400.46000000000004,
+      "audio_end": 401.9
+    },
+    "rodney_text": "We can\u2019t, can we?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "No. Of course we can\u2019t.",
+      "audio_start": 406.8,
+      "audio_end": 408.76
+    },
+    "near_transcript": "course i'm terribly sorry we can't can we no of course we"
+  },
+  {
+    "page": 10,
+    "line": 5,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 1.0,
+    "audio_start": 408.76,
+    "audio_end": 409.52,
+    "duration": 0.76,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "No. Of course we can\u2019t.",
+      "audio_start": 406.8,
+      "audio_end": 408.76
+    },
+    "rodney_text": "It would be ridiculous.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Yes. It would be.",
+      "audio_start": 410.38,
+      "audio_end": 411.78
+    },
+    "near_transcript": "of course we can't it would be ridiculous yes it would be"
+  },
+  {
+    "page": 10,
+    "line": 9,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 415.94,
+    "audio_end": 416.78,
+    "duration": 0.84,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "You don\u2019t want to? Ever again?",
+      "audio_start": 412.78,
+      "audio_end": 415.2
+    },
+    "rodney_text": "I didn\u2019t say that.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Then what do you want? I don\u2019t know where I stand with you, Rodney.",
+      "audio_start": 417.28,
+      "audio_end": 421.02
+    },
+    "near_transcript": "to ever again no i didn't say that then what do you"
+  },
+  {
+    "page": 10,
+    "line": 13,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 433.2,
+    "audio_end": 433.9,
+    "duration": 0.7,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "All right. I\u2019ll be good. I know how to be good. I\u2019ve been good for years. I mean, Parkes and I....hardly ever. Twice a year, maybe.",
+      "audio_start": 422.06,
+      "audio_end": 432.68
+    },
+    "rodney_text": "Twice a year?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "We\u2019ve been married fifteen years. You can\u2019t expect passion after fifteen years. Can you?",
+      "audio_start": 434.56,
+      "audio_end": 440.06
+    },
+    "near_transcript": "twice a year maybe twice a year we've been married for"
+  },
+  {
+    "page": 10,
+    "line": 15,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 440.26,
+    "audio_end": 441.16,
+    "duration": 0.9,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "We\u2019ve been married fifteen years. You can\u2019t expect passion after fifteen years. Can you?",
+      "audio_start": 434.56,
+      "audio_end": 440.06
+    },
+    "rodney_text": "I suppose not.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I don\u2019t really keep count. That\u2019s what marriage is about after a long time. You settle for other things. Like companionship. And shared interests.",
+      "audio_start": 445.04,
+      "audio_end": 455.32
+    },
+    "near_transcript": "15 years can you i suppose not twice a year only"
+  },
+  {
+    "page": 10,
+    "line": 17,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 442.2,
+    "audio_end": 444.48,
+    "duration": 2.28,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "We\u2019ve been married fifteen years. You can\u2019t expect passion after fifteen years. Can you?",
+      "audio_start": 434.56,
+      "audio_end": 440.06
+    },
+    "rodney_text": "Twice a year! Only twice a year?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I don\u2019t really keep count. That\u2019s what marriage is about after a long time. You settle for other things. Like companionship. And shared interests.",
+      "audio_start": 445.04,
+      "audio_end": 455.32
+    },
+    "near_transcript": "you i suppose not twice a year only twice a year i don't really keep"
+  },
+  {
+    "page": 10,
+    "line": 23,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 460.4,
+    "audio_end": 461.98,
+    "duration": 1.58,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "How often do you and Monica?",
+      "audio_start": 458.84,
+      "audio_end": 459.66
+    },
+    "rodney_text": "I don\u2019t think we should talk about this.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "More than twice a year?",
+      "audio_start": 462.56,
+      "audio_end": 463.5
+    },
+    "near_transcript": "often do you ammonica i don't think we should talk about this more than twice a"
+  },
+  {
+    "page": 10,
+    "line": 25,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 463.66,
+    "audio_end": 464.74,
+    "duration": 1.08,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "More than twice a year?",
+      "audio_start": 462.56,
+      "audio_end": 463.5
+    },
+    "rodney_text": "A bit more than that, yes.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "How often?",
+      "audio_start": 465.32,
+      "audio_end": 466.0
+    },
+    "near_transcript": "than twice a year a bit more than that yes how often about twice"
+  },
+  {
+    "page": 10,
+    "line": 27,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 466.18,
+    "audio_end": 468.02,
+    "duration": 1.84,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "How often?",
+      "audio_start": 465.32,
+      "audio_end": 466.0
+    },
+    "rodney_text": "About twice. A week.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I am abnormal! What\u2019s wrong with me?",
+      "audio_start": 468.48,
+      "audio_end": 471.7
+    },
+    "near_transcript": "that yes how often about twice a week i am abnormal what's"
+  },
+  {
+    "page": 10,
+    "line": 30,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 0.75,
+    "audio_start": 471.86,
+    "audio_end": 472.42,
+    "duration": 0.56,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "I am abnormal! What\u2019s wrong with me?",
+      "audio_start": 468.48,
+      "audio_end": 471.7
+    },
+    "rodney_text": "What\u2019s wrong with Parkes?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "You think there\u2019s something wrong with him?",
+      "audio_start": 473.3,
+      "audio_end": 474.9
+    },
+    "near_transcript": "what's wrong with me what's wrong with parks you think there's"
+  },
+  {
+    "page": 10,
+    "line": 32,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 0.75,
+    "audio_start": 475.02,
+    "audio_end": 476.82,
+    "duration": 1.8,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "You think there\u2019s something wrong with him?",
+      "audio_start": 473.3,
+      "audio_end": 474.9
+    },
+    "rodney_text": "No, no. Everybody\u2019s different.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "It\u2019s me. It must be me. I must be totally unattractive.",
+      "audio_start": 477.28,
+      "audio_end": 481.48
+    },
+    "near_transcript": "something wrong with him no everybody's different oh it's me it"
+  },
+  {
+    "page": 11,
+    "line": 2,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 481.78,
+    "audio_end": 484.06,
+    "duration": 2.28,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "It\u2019s me. It must be me. I must be totally unattractive.",
+      "audio_start": 477.28,
+      "audio_end": 481.48
+    },
+    "rodney_text": "You\u2019re very attractive. Don\u2019t be silly.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Oh, Rodney, darling. Hold me.",
+      "audio_start": 484.74,
+      "audio_end": 487.22
+    },
+    "near_transcript": "must be totally unattractive you're very attractive don't be silly oh rodney darling kiss"
+  },
+  {
+    "page": 11,
+    "line": 7,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 494.2,
+    "audio_end": 494.84,
+    "duration": 0.64,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "I haven\u2019t fulfilled my womanhood!! I want to live more than twice a year!",
+      "audio_start": 489.02,
+      "audio_end": 493.96
+    },
+    "rodney_text": "Good for you.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I\u2019ll have a surfie while I\u2019m here.",
+      "audio_start": 495.62,
+      "audio_end": 497.74
+    },
+    "near_transcript": "than twice a year good for you i'll have a surf"
+  },
+  {
+    "page": 11,
+    "line": 9,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 0.75,
+    "audio_start": 497.9,
+    "audio_end": 499.02,
+    "duration": 1.12,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "I\u2019ll have a surfie while I\u2019m here.",
+      "audio_start": 495.62,
+      "audio_end": 497.74
+    },
+    "rodney_text": "Oh, don\u2019t be ridiculous.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Why is that so ridiculous? They say young men are in their sexual prime.",
+      "audio_start": 499.5,
+      "audio_end": 504.7
+    },
+    "near_transcript": "you while i'm here don't be ridiculous why is that so"
+  },
+  {
+    "page": 11,
+    "line": 11,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 504.94,
+    "audio_end": 506.62,
+    "duration": 1.68,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Why is that so ridiculous? They say young men are in their sexual prime.",
+      "audio_start": 499.5,
+      "audio_end": 504.7
+    },
+    "rodney_text": "Oh. Go ahead then.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "No, you were wonderful.",
+      "audio_start": 509.54,
+      "audio_end": 511.58
+    },
+    "near_transcript": "in their sexual prime oh go ahead then were you disappointed with"
+  },
+  {
+    "page": 11,
+    "line": 13,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 507.12,
+    "audio_end": 508.82,
+    "duration": 1.7,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Why is that so ridiculous? They say young men are in their sexual prime.",
+      "audio_start": 499.5,
+      "audio_end": 504.7
+    },
+    "rodney_text": "Were you disappointed with me?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "No, you were wonderful.",
+      "audio_start": 509.54,
+      "audio_end": 511.58
+    },
+    "near_transcript": "oh go ahead then were you disappointed with me no you were wonderful"
+  },
+  {
+    "page": 11,
+    "line": 15,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 511.78,
+    "audio_end": 516.84,
+    "duration": 5.06,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "No, you were wonderful.",
+      "audio_start": 509.54,
+      "audio_end": 511.58
+    },
+    "rodney_text": "Of course, I can\u2019t compete with surfies, I realise that, but I\u2019ve never had any complaints before.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "You were wonderful. But you don\u2019t care. Don\u2019t tell me you care.",
+      "audio_start": 517.52,
+      "audio_end": 523.04
+    },
+    "near_transcript": "no you were wonderful of course i can't compete with surfies i realise that but i've never had any complaints before you were wonderful but"
+  },
+  {
+    "page": 11,
+    "line": 17,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 523.22,
+    "audio_end": 527.4,
+    "duration": 4.18,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "You were wonderful. But you don\u2019t care. Don\u2019t tell me you care.",
+      "audio_start": 517.52,
+      "audio_end": 523.04
+    },
+    "rodney_text": "I do. I do care. I\u2019m guilty, that\u2019s all. Adultery isn\u2019t easy, Penny.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Oh darling.",
+      "audio_start": 533.82,
+      "audio_end": 534.54
+    },
+    "near_transcript": "tell me you care i do i do care i'm guilty that's all adultery isn't easy penny it was a wonderful"
+  },
+  {
+    "page": 11,
+    "line": 19,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 528.66,
+    "audio_end": 532.8,
+    "duration": 4.14,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "You were wonderful. But you don\u2019t care. Don\u2019t tell me you care.",
+      "audio_start": 517.52,
+      "audio_end": 523.04
+    },
+    "rodney_text": "It was a wonderful night. I did enjoy it. And I would have enjoyed it sober.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Oh darling.",
+      "audio_start": 533.82,
+      "audio_end": 534.54
+    },
+    "near_transcript": "adultery isn't easy penny it was a wonderful night i did enjoy it and i would have enjoyed it sober oh darling where do"
+  },
+  {
+    "page": 11,
+    "line": 22,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 535.54,
+    "audio_end": 536.52,
+    "duration": 0.98,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Oh darling.",
+      "audio_start": 533.82,
+      "audio_end": 534.54
+    },
+    "rodney_text": "Where do we all sleep?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "There\u2019s the double bed. Two bunks. And the annexe sleeps two.",
+      "audio_start": 541.88,
+      "audio_end": 543.14
+    },
+    "near_transcript": "it sober oh darling where do we all sleep well there's two bunks"
+  },
+  {
+    "page": 11,
+    "line": 24,
+    "status": "rodney_gap_safe",
+    "match_score": 0.889,
+    "audio_start": 543.4,
+    "audio_end": 544.88,
+    "duration": 1.48,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "There\u2019s the double bed. Two bunks. And the annexe sleeps two.",
+      "audio_start": 541.88,
+      "audio_end": 543.14
+    },
+    "rodney_text": "Monica and I will have to take the annexe.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Why?",
+      "audio_start": 545.46,
+      "audio_end": 545.74
+    },
+    "near_transcript": "there's the double bed monica and i will have to take the annex why i don't"
+  },
+  {
+    "page": 11,
+    "line": 26,
+    "status": "rodney_gap_safe",
+    "match_score": 0.929,
+    "audio_start": 545.98,
+    "audio_end": 548.72,
+    "duration": 2.74,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Why?",
+      "audio_start": 545.46,
+      "audio_end": 545.74
+    },
+    "rodney_text": "I don\u2019t think we should sleep in here with you and Parkes do you?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I suppose not.",
+      "audio_start": 549.98,
+      "audio_end": 550.78
+    },
+    "near_transcript": "take the annex why i don't think we should sleep in here with you and parks do you oh i suppose not"
+  },
+  {
+    "page": 12,
+    "line": 1,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 556.7,
+    "audio_end": 559.12,
+    "duration": 2.42,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "I hope you\u2019re not going to be funny about this, Rodney. I don\u2019t want it to spoil our friendship.",
+      "audio_start": 551.82,
+      "audio_end": 556.44
+    },
+    "rodney_text": "Oh, I\u2019m sure it will work itself out in time.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "I\u2019m sure it will. I don\u2019t want you to feel I\u2019m making any demands on you. If there\u2019s one thing I\u2019ve learned in fifteen years of marriage, it\u2019s not to make demands.",
+      "audio_start": 559.96,
+      "audio_end": 571.74
+    },
+    "near_transcript": "to spoil our friendship oh i'm sure it will work itself out in time i'm sure it will"
+  },
+  {
+    "page": 12,
+    "line": 6,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 581.2,
+    "audio_end": 585.96,
+    "duration": 4.76,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Do you think we might make love while we\u2019re here? There are sand hills on the beach, and it\u2019s a very long beach.",
+      "audio_start": 573.34,
+      "audio_end": 580.6
+    },
+    "rodney_text": "Penny. You surprise me. You really surprise me.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "It\u2019s best to be honest, isn\u2019t it?",
+      "audio_start": 586.4,
+      "audio_end": 588.06
+    },
+    "near_transcript": "a very long beach penny you surprise me you really surprise me it's best to be"
+  },
+  {
+    "page": 12,
+    "line": 9,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 588.52,
+    "audio_end": 589.06,
+    "duration": 0.54,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "It\u2019s best to be honest, isn\u2019t it?",
+      "audio_start": 586.4,
+      "audio_end": 588.06
+    },
+    "rodney_text": "Oh darling.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Oh darling, darling.",
+      "audio_start": 589.4,
+      "audio_end": 590.54
+    },
+    "near_transcript": "be honest isn't it oh darling oh darling darling darling"
+  },
+  {
+    "page": 12,
+    "line": 11,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 590.9,
+    "audio_end": 592.52,
+    "duration": 1.62,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Oh darling, darling.",
+      "audio_start": 589.4,
+      "audio_end": 590.54
+    },
+    "rodney_text": "Darling, darling, darling.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Darling, darling, darling.",
+      "audio_start": 592.78,
+      "audio_end": 593.74
+    },
+    "near_transcript": "darling oh darling darling darling darling darling darling darling darling yoo"
+  },
+  {
+    "page": 12,
+    "line": 23,
+    "status": "review_missing",
+    "match_score": 0.0,
+    "audio_start": null,
+    "audio_end": null,
+    "duration": null,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "Aaaah!",
+      "audio_start": null,
+      "audio_end": null
+    },
+    "rodney_text": "Monica?",
+    "next": {
+      "speaker": "MONICA",
+      "text": "Aaaah!",
+      "audio_start": null,
+      "audio_end": null
+    },
+    "near_transcript": ""
+  },
+  {
+    "page": 13,
+    "line": 5,
+    "status": "review_changed_or_uncertain",
+    "match_score": 0.429,
+    "audio_start": 616.3,
+    "audio_end": 616.74,
+    "duration": 0.44,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "That doesn\u2019t help me, does it? Give me a brandy.",
+      "audio_start": 612.64,
+      "audio_end": 615.26
+    },
+    "rodney_text": "Monica, its ten o\u2019clock in the morning.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "Rodney, I\u2019ve just given myself a brain haemorrhage. I need a brandy.",
+      "audio_start": 617.34,
+      "audio_end": 621.32
+    },
+    "near_transcript": "it's 10 o 'clock in the morning rodney i've given myself"
+  },
+  {
+    "page": 13,
+    "line": 14,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 645.98,
+    "audio_end": 648.74,
+    "duration": 2.76,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "I\u2019ve never had to live in it before. Oh God. This is a terrible mistake.",
+      "audio_start": 640.06,
+      "audio_end": 645.74
+    },
+    "rodney_text": "Monica, we are going to be in this caravan for two weeks....",
+    "next": {
+      "speaker": "MONICA",
+      "text": "That long?",
+      "audio_start": 649.0,
+      "audio_end": 649.5
+    },
+    "near_transcript": "is a terrible mistake monica we are going to be in this caravan for two weeks that long this is"
+  },
+  {
+    "page": 13,
+    "line": 16,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 649.62,
+    "audio_end": 654.9,
+    "duration": 5.28,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "That long?",
+      "audio_start": 649.0,
+      "audio_end": 649.5
+    },
+    "rodney_text": "This is only the first day. I would appreciate it very much if you would try to look on the bright side.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "It\u2019s really very comfortable.",
+      "audio_start": 655.64,
+      "audio_end": 657.16
+    },
+    "near_transcript": "two weeks that long this is only the first day i would appreciate it very much if you would try to look on the bright side it really is very"
+  },
+  {
+    "page": 13,
+    "line": 23,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 665.04,
+    "audio_end": 667.5,
+    "duration": 2.46,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "God, that drive was awful. What with the heat, and the blow flies and the mosquitoes.",
+      "audio_start": 659.5,
+      "audio_end": 664.78
+    },
+    "rodney_text": "She exaggerates. There was one fly.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "You wouldn\u2019t notice. They don\u2019t eat you. Well, they\u2019ve got me all to themselves now. They can have a field day while I\u2019m stuck out here. Are we still in New South Wales, by the way, or have we crossed the Nullarbor?",
+      "audio_start": 668.16,
+      "audio_end": 681.12
+    },
+    "near_transcript": "blowflies and the mosquitoes she exaggerates there was one fly you wouldn't notice they"
+  },
+  {
+    "page": 14,
+    "line": 1,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 686.24,
+    "audio_end": 688.92,
+    "duration": 2.68,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Monica, that\u2019s why we invited you. You\u2019re so funny.",
+      "audio_start": 682.6,
+      "audio_end": 685.84
+    },
+    "rodney_text": "She\u2019s always happy when she\u2019s got something to complain about.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "That was nice. Another?",
+      "audio_start": 689.58,
+      "audio_end": 691.12
+    },
+    "near_transcript": "you you're so funny she's always happy when she's got something to complain about that was nice another"
+  },
+  {
+    "page": 14,
+    "line": 5,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 691.58,
+    "audio_end": 693.12,
+    "duration": 1.54,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "That was nice. Another?",
+      "audio_start": 689.58,
+      "audio_end": 691.12
+    },
+    "rodney_text": "You don\u2019t need another drink.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "Rodney, I do. I have never been on a camping holiday before...",
+      "audio_start": 693.96,
+      "audio_end": 698.82
+    },
+    "near_transcript": "that was nice another you don't need another drink rodney i do i've"
+  },
+  {
+    "page": 14,
+    "line": 7,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 698.96,
+    "audio_end": 704.6,
+    "duration": 5.64,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "Rodney, I do. I have never been on a camping holiday before...",
+      "audio_start": 693.96,
+      "audio_end": 698.82
+    },
+    "rodney_text": "How many times do I have to say, this is not a camping holiday? This is a luxury caravan.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "Really?",
+      "audio_start": 710.72,
+      "audio_end": 711.1
+    },
+    "near_transcript": "a camping holiday before how many times do i have to say this is not a camping holiday this is a luxury caravan an almost luxury caravan"
+  },
+  {
+    "page": 14,
+    "line": 9,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 705.38,
+    "audio_end": 709.62,
+    "duration": 4.24,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "Rodney, I do. I have never been on a camping holiday before...",
+      "audio_start": 693.96,
+      "audio_end": 698.82
+    },
+    "rodney_text": "An almost luxury caravan. You can\u2019t get better than this.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "Really?",
+      "audio_start": 710.72,
+      "audio_end": 711.1
+    },
+    "near_transcript": "is a luxury caravan an almost luxury caravan and you can't get better than this really as i was"
+  },
+  {
+    "page": 14,
+    "line": 23,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 763.64,
+    "audio_end": 764.54,
+    "duration": 0.9,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "You can wear a hat! At least, we don\u2019t have the children.",
+      "audio_start": 759.56,
+      "audio_end": 763.2
+    },
+    "rodney_text": "That\u2019s certainly a blessing.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "What have you done with them?",
+      "audio_start": 765.12,
+      "audio_end": 766.04
+    },
+    "near_transcript": "don't have the children that's certainly a blessing oh what have you"
+  },
+  {
+    "page": 15,
+    "line": 4,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 0.923,
+    "audio_start": 789.22,
+    "audio_end": 792.3,
+    "duration": 3.08,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "You would have had to lock them in the car.",
+      "audio_start": 787.56,
+      "audio_end": 789.22
+    },
+    "rodney_text": "And Ralph would have peed everywhere. I\u2019m very glad you didn\u2019t bring them.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "You have no paternal instincts.",
+      "audio_start": 793.14,
+      "audio_end": 795.4
+    },
+    "near_transcript": "them in the car and ralph would have peed everywhere i'm glad you didn't bring them you have no paternal"
+  },
+  {
+    "page": 15,
+    "line": 6,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 795.72,
+    "audio_end": 797.58,
+    "duration": 1.86,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "You have no paternal instincts.",
+      "audio_start": 793.14,
+      "audio_end": 795.4
+    },
+    "rodney_text": "They\u2019re only cats for God\u2019s sake!",
+    "next": {
+      "speaker": "MONICA",
+      "text": "They may be only cats to you, Rodney, but to me, they are little people with coats on.",
+      "audio_start": 797.9,
+      "audio_end": 803.32
+    },
+    "near_transcript": "have no paternal instincts they're only cats for god's sake they may only be"
+  },
+  {
+    "page": 15,
+    "line": 11,
+    "status": "too_short_for_clean_gap",
+    "match_score": 0.667,
+    "audio_start": 805.14,
+    "audio_end": 805.36,
+    "duration": 0.22,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "Where do we sleep?",
+      "audio_start": 804.26,
+      "audio_end": 805.06
+    },
+    "rodney_text": "In the annexe.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "What\u2019s that?",
+      "audio_start": 805.98,
+      "audio_end": 806.52
+    },
+    "near_transcript": "where do we sleep in the annex what's that it's"
+  },
+  {
+    "page": 15,
+    "line": 14,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 0.8,
+    "audio_start": 810.34,
+    "audio_end": 810.98,
+    "duration": 0.64,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "It\u2019s a tent. Four in here. And two in a tent.",
+      "audio_start": 807.26,
+      "audio_end": 810.0
+    },
+    "rodney_text": "We sleep in the tent.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "In a tent! You must be mad. Why can\u2019t we sleep in here?",
+      "audio_start": 811.74,
+      "audio_end": 816.68
+    },
+    "near_transcript": "a tent will you sleep in the tent in a tent you"
+  },
+  {
+    "page": 15,
+    "line": 22,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 837.78,
+    "audio_end": 839.0,
+    "duration": 1.22,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "I don\u2019t snore, if that\u2019s what you mean.",
+      "audio_start": 835.58,
+      "audio_end": 837.54
+    },
+    "rodney_text": "Monica, don\u2019t be disgusting.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "You don\u2019t know people until you live with them, Rodney. But I\u2019m willing to take a risk. Penny, please let me sleep in the caravan. I won\u2019t listen or look at you and Parkes, I promise. And you\u2019re not to look and listen to us.",
+      "audio_start": 839.6,
+      "audio_end": 852.86
+    },
+    "near_transcript": "that's what you mean monica don't be disgusting you don't know people"
+  },
+  {
+    "page": 16,
+    "line": 5,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 864.68,
+    "audio_end": 865.98,
+    "duration": 1.3,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "What! You not only lock me away in the Never-Never, you expect me not to touch my husband. I thought this was supposed to be a holiday?",
+      "audio_start": 855.86,
+      "audio_end": 864.46
+    },
+    "rodney_text": "Monica, don\u2019t go on.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "These things are very important when you\u2019re confined in a small space. I\u2019m noisy. Rodney\u2019s very noisy.",
+      "audio_start": 866.24,
+      "audio_end": 873.3
+    },
+    "near_transcript": "to be a holiday monica don't go on well these things are"
+  },
+  {
+    "page": 16,
+    "line": 9,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 877.28,
+    "audio_end": 881.26,
+    "duration": 3.98,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "You wouldn\u2019t, would you?",
+      "audio_start": 876.32,
+      "audio_end": 877.0
+    },
+    "rodney_text": "Monica, you never know when you\u2019ve gone too far. We\u2019ll sleep in the tent.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "Don\u2019t be ridiculous. I\u2019m not sleeping in a tent. There might be dingoes.",
+      "audio_start": 881.76,
+      "audio_end": 887.2
+    },
+    "near_transcript": "you wouldn't would you monica you never know when you've gone too far we'll sleep in the tent don't be ridiculous i"
+  },
+  {
+    "page": 16,
+    "line": 11,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 887.32,
+    "audio_end": 888.5,
+    "duration": 1.18,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "Don\u2019t be ridiculous. I\u2019m not sleeping in a tent. There might be dingoes.",
+      "audio_start": 881.76,
+      "audio_end": 887.2
+    },
+    "rodney_text": "This isn\u2019t the outback.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "It\u2019s outback enough for me. I intend to have what little comfort is available. I\u2019ll sleep in a bed, thank you. If you\u2019re so keen on the tent, sleep in it with someone else. Do you want to sleep with Rodney in the tent, Penny?",
+      "audio_start": 888.74,
+      "audio_end": 900.42
+    },
+    "near_transcript": "there might be dingoes this isn't the outback it's outback enough for"
+  },
+  {
+    "page": 16,
+    "line": 17,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 916.82,
+    "audio_end": 917.84,
+    "duration": 1.02,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "I think I\u2019ll have a drink.",
+      "audio_start": 915.32,
+      "audio_end": 916.5
+    },
+    "rodney_text": "I think I\u2019ll join you.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "Goodie! That\u2019s more like it.",
+      "audio_start": 918.5,
+      "audio_end": 919.74
+    },
+    "near_transcript": "i'll have a drink i think i'll join you oh goody that's more"
+  },
+  {
+    "page": 17,
+    "line": 14,
+    "status": "rodney_gap_safe",
+    "match_score": 0.9,
+    "audio_start": 945.16,
+    "audio_end": 949.12,
+    "duration": 3.96,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "The little house. You like it?",
+      "audio_start": 943.7,
+      "audio_end": 944.92
+    },
+    "rodney_text": "Oh? The caravan. We\u2019ve seen it before, Parkes. Very nice.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "Parkes, darling, I love it! I\u2019m so thrilled you talked me into this holiday. Just imagine. Two weeks with you in a caravan. And there\u2019s so much space! Plenty of room for five people. Oh, I love it. I really love it.",
+      "audio_start": 951.06,
+      "audio_end": 972.38
+    },
+    "near_transcript": "house you like it oh the caravan we've seen it before parks very nice parks darling i love"
+  },
+  {
+    "page": 18,
+    "line": 14,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 1017.66,
+    "audio_end": 1018.34,
+    "duration": 0.68,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "Parkes please don\u2019t do that......",
+      "audio_start": 1015.24,
+      "audio_end": 1015.64
+    },
+    "rodney_text": "Where\u2019s Pierce?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "He should be here at any moment.",
+      "audio_start": 1019.44,
+      "audio_end": 1020.94
+    },
+    "near_transcript": "oh charming please parks where's pierce he should be here"
+  },
+  {
+    "page": 18,
+    "line": 18,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 1.0,
+    "audio_start": 1022.58,
+    "audio_end": 1022.96,
+    "duration": 0.38,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "He\u2019s bringing somebody with him.",
+      "audio_start": 1021.32,
+      "audio_end": 1022.5
+    },
+    "rodney_text": "Who?!!",
+    "next": {
+      "speaker": "PENNY",
+      "text": "We couldn\u2019t ask him not to.",
+      "audio_start": 1023.62,
+      "audio_end": 1025.22
+    },
+    "near_transcript": "bringing somebody with him who we couldn't ask him"
+  },
+  {
+    "page": 18,
+    "line": 21,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 1029.26,
+    "audio_end": 1029.84,
+    "duration": 0.58,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "Why not? It\u2019s supposed to be a holiday for just us.",
+      "audio_start": 1025.5,
+      "audio_end": 1028.9
+    },
+    "rodney_text": "Who\u2019s he bringing?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "His new girlfriend.",
+      "audio_start": 1030.32,
+      "audio_end": 1031.32
+    },
+    "near_transcript": "holiday for just us who's he bringing his new girlfriend oh"
+  },
+  {
+    "page": 19,
+    "line": 5,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 1.0,
+    "audio_start": 1056.94,
+    "audio_end": 1058.18,
+    "duration": 1.24,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "A week!",
+      "audio_start": 1056.26,
+      "audio_end": 1056.78
+    },
+    "rodney_text": "He\u2019s bringing a total stranger?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "He insisted on bringing her. He says as a bachelor he\u2019d feel out of it on a holiday with two married couples.",
+      "audio_start": 1058.18,
+      "audio_end": 1065.86
+    },
+    "near_transcript": "a week a week he's bringing a total stranger he insisted on bringing"
+  },
+  {
+    "page": 19,
+    "line": 7,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 1066.06,
+    "audio_end": 1067.84,
+    "duration": 1.78,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "He insisted on bringing her. He says as a bachelor he\u2019d feel out of it on a holiday with two married couples.",
+      "audio_start": 1058.18,
+      "audio_end": 1065.86
+    },
+    "rodney_text": "He\u2019s always enjoyed our company before.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "And we\u2019ve put up with his endless stream of dolly birds for years. They get younger and younger. The last one was thirty!",
+      "audio_start": 1068.28,
+      "audio_end": 1075.16
+    },
+    "near_transcript": "with two married couples he's always enjoyed our company before and we've put up"
+  },
+  {
+    "page": 19,
+    "line": 11,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 1.0,
+    "audio_start": 1081.6,
+    "audio_end": 1085.66,
+    "duration": 4.06,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Monica, thirty isn\u2019t young. It\u2019s not so very long ago since we were thirty....",
+      "audio_start": 1076.06,
+      "audio_end": 1080.4
+    },
+    "rodney_text": "But we don\u2019t know her. We won\u2019t be able to be ourselves. She\u2019s an intrusion.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "This is typical of Pierce. Totally selfish. It\u2019s our holiday.",
+      "audio_start": 1085.66,
+      "audio_end": 1091.3
+    },
+    "near_transcript": "that we were 30 but we don't know her we won't be able to be ourselves she's an intrusion this is typical of"
+  },
+  {
+    "page": 19,
+    "line": 21,
+    "status": "too_short_for_clean_gap",
+    "match_score": 1.0,
+    "audio_start": 1115.76,
+    "audio_end": 1115.86,
+    "duration": 0.1,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "Aren\u2019t I darling? You\u2019ll have to get used to us. We\u2019re at it all the time.",
+      "audio_start": 1110.6,
+      "audio_end": 1115.3
+    },
+    "rodney_text": "Really?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Don\u2019t exaggerate, Parkes. We\u2019re not, you know.",
+      "audio_start": 1116.7399999999998,
+      "audio_end": 1119.46
+    },
+    "near_transcript": "it all the time really don't exaggerate parks we're"
+  },
+  {
+    "page": 20,
+    "line": 13,
+    "status": "rodney_gap_safe",
+    "match_score": 0.955,
+    "audio_start": 1158.5,
+    "audio_end": 1164.16,
+    "duration": 5.66,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Here they are.",
+      "audio_start": 1157.46,
+      "audio_end": 1158.22
+    },
+    "rodney_text": "Of course we\u2019ll be nice to her. It\u2019s just disappointing that Pierce has brought her. This is our first holiday together ever.",
+    "next": {
+      "speaker": "PARKES",
+      "text": "And it was Pierce\u2019s idea.",
+      "audio_start": 1164.44,
+      "audio_end": 1165.4
+    },
+    "near_transcript": "well here they are of course we'll be nice to her it's just disappointing that piers has brought her this is our first holiday together ever and it was piers'"
+  },
+  {
+    "page": 20,
+    "line": 23,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 1184.2,
+    "audio_end": 1185.26,
+    "duration": 1.06,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "I shall drip charm.",
+      "audio_start": 1181.9,
+      "audio_end": 1183.84
+    },
+    "rodney_text": "Don\u2019t overdo it, dear.",
+    "next": {
+      "speaker": "PIERCE",
+      "text": "Hi! Sorry I\u2019m late.",
+      "audio_start": 1185.88,
+      "audio_end": 1186.96
+    },
+    "near_transcript": "i shall drip charm don't overdo it dear hi sorry i'm late"
+  },
+  {
+    "page": 22,
+    "line": 3,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 0.8,
+    "audio_start": 1242.76,
+    "audio_end": 1244.18,
+    "duration": 1.42,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "That young! How dare you bring a twenty two year old on our holiday. Are you deliberately trying to make us feel old!",
+      "audio_start": 1234.2,
+      "audio_end": 1241.3
+    },
+    "rodney_text": "Twenty two! That\u2019s a bit young for you, isn\u2019t it?",
+    "next": {
+      "speaker": "PIERCE",
+      "text": "What do you mean? It\u2019s only...well, I\u2019m only.....",
+      "audio_start": 1244.28,
+      "audio_end": 1247.5
+    },
+    "near_transcript": "us feel old 22 that's a bit young for you isn't it what do you mean"
+  },
+  {
+    "page": 22,
+    "line": 15,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 1.0,
+    "audio_start": 1293.5,
+    "audio_end": 1295.12,
+    "duration": 1.62,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "I think it\u2019s boring of you to bring her. It was your idea to come on this holiday and it was going to be just us.",
+      "audio_start": 1287.34,
+      "audio_end": 1293.38
+    },
+    "rodney_text": "Yes, why did you have to bring anyone?",
+    "next": {
+      "speaker": "PIERCE",
+      "text": "I would have had a wonderful time, wouldn\u2019t I? You\u2019d be all pairing off and what would I do? The sun makes you very randy, you know.",
+      "audio_start": 1295.54,
+      "audio_end": 1303.12
+    },
+    "near_transcript": "to be just us yes why did you have to bring anyone i would have had"
+  },
+  {
+    "page": 22,
+    "line": 22,
+    "status": "too_short_for_clean_gap",
+    "match_score": 1.0,
+    "audio_start": 1314.02,
+    "audio_end": 1314.18,
+    "duration": 0.16,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "I\u2019m not older than Rodney.",
+      "audio_start": 1312.66,
+      "audio_end": 1313.78
+    },
+    "rodney_text": "What?",
+    "next": {
+      "speaker": "PARKES",
+      "text": "Pierce said you were forty one. How did you get to be forty one? We were at school together.",
+      "audio_start": 1315.68,
+      "audio_end": 1319.28
+    },
+    "near_transcript": "not older than rodney what he said you were"
+  },
+  {
+    "page": 23,
+    "line": 2,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 1319.44,
+    "audio_end": 1321.08,
+    "duration": 1.64,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "Pierce said you were forty one. How did you get to be forty one? We were at school together.",
+      "audio_start": 1315.68,
+      "audio_end": 1319.28
+    },
+    "rodney_text": "No. You were a year ahead of me.",
+    "next": {
+      "speaker": "PARKES",
+      "text": "That\u2019s because you repeated. We\u2019re the same age.",
+      "audio_start": 1321.2,
+      "audio_end": 1323.72
+    },
+    "near_transcript": "were at school together no you were a year ahead of me that's because you repeated"
+  },
+  {
+    "page": 23,
+    "line": 4,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 0.667,
+    "audio_start": 1324.06,
+    "audio_end": 1325.2,
+    "duration": 1.14,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "That\u2019s because you repeated. We\u2019re the same age.",
+      "audio_start": 1321.2,
+      "audio_end": 1323.72
+    },
+    "rodney_text": "Old man, I\u2019m definitely forty one.",
+    "next": {
+      "speaker": "PARKES",
+      "text": "I am forty two. We are the same age.",
+      "audio_start": 1326.2,
+      "audio_end": 1328.26
+    },
+    "near_transcript": "we're the same age old man i'm definitely 41 i am 42"
+  },
+  {
+    "page": 23,
+    "line": 6,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 1.0,
+    "audio_start": 1328.36,
+    "audio_end": 1329.82,
+    "duration": 1.46,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "I am forty two. We are the same age.",
+      "audio_start": 1326.2,
+      "audio_end": 1328.26
+    },
+    "rodney_text": "No, I think you\u2019ve got that wrong.",
+    "next": {
+      "speaker": "PARKES",
+      "text": "I know hold old I am. I am forty two, and Penny is...",
+      "audio_start": 1330.04,
+      "audio_end": 1334.44
+    },
+    "near_transcript": "are the same age no i think you've got that wrong i know how old"
+  },
+  {
+    "page": 23,
+    "line": 18,
+    "status": "rodney_review",
+    "match_score": 0.6,
+    "audio_start": 1348.5,
+    "audio_end": 1349.66,
+    "duration": 1.16,
+    "cue": {
+      "speaker": "PIERCE",
+      "text": "Thanks very much.",
+      "audio_start": 1347.08,
+      "audio_end": 1347.94
+    },
+    "rodney_text": "Young for forty two, perhaps.",
+    "next": {
+      "speaker": "PARKES",
+      "text": "You are forty two, too!",
+      "audio_start": 1349.92,
+      "audio_end": 1351.46
+    },
+    "near_transcript": "here thanks very much young for 42 perhaps you are 42 too"
+  },
+  {
+    "page": 23,
+    "line": 20,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 0.833,
+    "audio_start": 1351.7,
+    "audio_end": 1353.5,
+    "duration": 1.8,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "You are forty two, too!",
+      "audio_start": 1349.92,
+      "audio_end": 1351.46
+    },
+    "rodney_text": "No, I\u2019m not. I\u2019ll let you know when I\u2019ve reached forty two.",
+    "next": {
+      "speaker": "PARKES",
+      "text": "Now, look. I can prove you are forty two. You had your twenty first birthday on....",
+      "audio_start": 1354.3,
+      "audio_end": 1358.94
+    },
+    "near_transcript": "you are 42 too no i'm not i'll let you know when i've reached 42 now look i"
+  },
+  {
+    "page": 23,
+    "line": 24,
+    "status": "review_changed_or_uncertain",
+    "match_score": 0.5,
+    "audio_start": 1368.14,
+    "audio_end": 1368.46,
+    "duration": 0.32,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "Parkes, why do you have to keep on about it? We don\u2019t care how old Rodney is. If he wants to be forty one, let him be forty one....",
+      "audio_start": 1358.94,
+      "audio_end": 1367.38
+    },
+    "rodney_text": "I am forty one!",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Yes. We\u2019re all round about.....",
+      "audio_start": 1369.66,
+      "audio_end": 1371.58
+    },
+    "near_transcript": "let him be 41 i am 41 yes well we're"
+  },
+  {
+    "page": 25,
+    "line": 1,
+    "status": "review_missing",
+    "match_score": 0.0,
+    "audio_start": null,
+    "audio_end": null,
+    "duration": null,
+    "cue": {
+      "speaker": "PENNY",
+      "text": "And her husband, Rodney.",
+      "audio_start": 1407.62,
+      "audio_end": 1408.52
+    },
+    "rodney_text": "Hello!",
+    "next": {
+      "speaker": "GWENDOLYN",
+      "text": "Hello!",
+      "audio_start": null,
+      "audio_end": null
+    },
+    "near_transcript": ""
+  },
+  {
+    "page": 27,
+    "line": 4,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 1.0,
+    "audio_start": 1547.84,
+    "audio_end": 1549.2,
+    "duration": 1.36,
+    "cue": {
+      "speaker": "PIERCE",
+      "text": "Gwendolyn, don\u2019t be silly please. It\u2019s a very real fear I have.",
+      "audio_start": 1544.38,
+      "audio_end": 1547.72
+    },
+    "rodney_text": "You didn\u2019t say anything about snakes!",
+    "next": {
+      "speaker": "PARKES",
+      "text": "That\u2019s because I\u2019ve never seen a bloody snake!",
+      "audio_start": 1549.2,
+      "audio_end": 1550.82
+    },
+    "near_transcript": "real fear i have you didn't say anything about snakes that's because i've never"
+  },
+  {
+    "page": 27,
+    "line": 16,
+    "status": "review_missing",
+    "match_score": 0.0,
+    "audio_start": null,
+    "audio_end": null,
+    "duration": null,
+    "cue": {
+      "speaker": "MONICA",
+      "text": "How lovely, Pierce. Then Rodney and I can listen to you and Gwendolyn. I hope you\u2019re not noisy.",
+      "audio_start": 1565.18,
+      "audio_end": 1572.02
+    },
+    "rodney_text": "Monica!",
+    "next": {
+      "speaker": "GWENDOLYN",
+      "text": "Sorry?",
+      "audio_start": 1572.96,
+      "audio_end": 1573.2
+    },
+    "near_transcript": ""
+  },
+  {
+    "page": 28,
+    "line": 2,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 1593.12,
+    "audio_end": 1593.9,
+    "duration": 0.78,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "Rodney, help me put up the annexe, will you?",
+      "audio_start": 1591.38,
+      "audio_end": 1592.8
+    },
+    "rodney_text": "Yes, fine.",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Would you like a drink, Gwendolyn?",
+      "audio_start": 1597.12,
+      "audio_end": 1598.46
+    },
+    "near_transcript": "annex up will you yes fine will you behave yourself"
+  },
+  {
+    "page": 28,
+    "line": 4,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 1594.3,
+    "audio_end": 1595.42,
+    "duration": 1.12,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "Rodney, help me put up the annexe, will you?",
+      "audio_start": 1591.38,
+      "audio_end": 1592.8
+    },
+    "rodney_text": "Will you behave yourself?",
+    "next": {
+      "speaker": "PENNY",
+      "text": "Would you like a drink, Gwendolyn?",
+      "audio_start": 1597.12,
+      "audio_end": 1598.46
+    },
+    "near_transcript": "will you yes fine will you behave yourself would you like a"
+  },
+  {
+    "page": 33,
+    "line": 12,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 1971.6,
+    "audio_end": 1973.26,
+    "duration": 1.66,
+    "cue": {
+      "speaker": "PIERCE",
+      "text": "I\u2019m only trying to help.",
+      "audio_start": 1970.5,
+      "audio_end": 1971.4
+    },
+    "rodney_text": "Well, don\u2019t just stand there. Hold this.",
+    "next": {
+      "speaker": "MONICA",
+      "text": "Fun, fun, fun.",
+      "audio_start": 1973.96,
+      "audio_end": 1975.14
+    },
+    "near_transcript": "only trying to help well don't just stand there hold this fun fun fun i"
+  },
+  {
+    "page": 33,
+    "line": 23,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 1986.74,
+    "audio_end": 1988.5,
+    "duration": 1.76,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "Look out, you stupid...",
+      "audio_start": 1985.54,
+      "audio_end": 1986.52
+    },
+    "rodney_text": "Don\u2019t just stand there, Pierce.",
+    "next": {
+      "speaker": "PIERCE",
+      "text": "I\u2019m only trying to help! Aaah!",
+      "audio_start": 1988.74,
+      "audio_end": 1989.74
+    },
+    "near_transcript": "look out you stupid don't just stand there pierce i'm only trying to"
+  },
+  {
+    "page": 33,
+    "line": 27,
+    "status": "rodney_chunk_or_manual",
+    "match_score": 0.75,
+    "audio_start": 1991.68,
+    "audio_end": 1993.2,
+    "duration": 1.52,
+    "cue": {
+      "speaker": "PIERCE",
+      "text": "I\u2019m only trying to help! Aaah!",
+      "audio_start": 1988.74,
+      "audio_end": 1989.74
+    },
+    "rodney_text": "The annexe fell down.",
+    "next": {
+      "speaker": "PARKES",
+      "text": "Bloody shit. Bloody, bloody shit.",
+      "audio_start": 1994.24,
+      "audio_end": 1996.16
+    },
+    "near_transcript": "only trying to help the annex fell down bloody shit bloody bloody"
+  },
+  {
+    "page": 34,
+    "line": 9,
+    "status": "review_changed_or_uncertain",
+    "match_score": 0.4,
+    "audio_start": 2007.5,
+    "audio_end": 2007.8,
+    "duration": 0.3,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "Shit. Bloody shit.",
+      "audio_start": 2005.9,
+      "audio_end": 2006.96
+    },
+    "rodney_text": "Are you all right, Parkes?",
+    "next": {
+      "speaker": "PIERCE",
+      "text": "I was under that bloody tent!",
+      "audio_start": 2015.04,
+      "audio_end": 2016.54
+    },
+    "near_transcript": "alright shit bloody shit are you alright parks oh god"
+  },
+  {
+    "page": 34,
+    "line": 11,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 2008.56,
+    "audio_end": 2010.88,
+    "duration": 2.32,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "Shit. Bloody shit.",
+      "audio_start": 2005.9,
+      "audio_end": 2006.96
+    },
+    "rodney_text": "Oh god. Oh God.",
+    "next": {
+      "speaker": "PIERCE",
+      "text": "I was under that bloody tent!",
+      "audio_start": 2015.04,
+      "audio_end": 2016.54
+    },
+    "near_transcript": "are you alright parks oh god oh god don't you laugh i"
+  },
+  {
+    "page": 34,
+    "line": 13,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 2012.82,
+    "audio_end": 2014.04,
+    "duration": 1.22,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "Shit. Bloody shit.",
+      "audio_start": 2005.9,
+      "audio_end": 2006.96
+    },
+    "rodney_text": "Don\u2019t you laugh!",
+    "next": {
+      "speaker": "PIERCE",
+      "text": "I was under that bloody tent!",
+      "audio_start": 2015.04,
+      "audio_end": 2016.54
+    },
+    "near_transcript": "oh god oh god don't you laugh i was under that"
+  },
+  {
+    "page": 34,
+    "line": 30,
+    "status": "rodney_gap_safe",
+    "match_score": 1.0,
+    "audio_start": 2041.96,
+    "audio_end": 2043.1,
+    "duration": 1.14,
+    "cue": {
+      "speaker": "PARKES",
+      "text": "I banged my head. I cut my hand...",
+      "audio_start": 2039.52,
+      "audio_end": 2041.8
+    },
+    "rodney_text": "I banged my head, too!",
+    "next": {
+      "speaker": "PARKES",
+      "text": "He banged his head. He didn\u2019t try to kick the caravan down...",
+      "audio_start": 2043.3,
+      "audio_end": 2046.08
+    },
+    "near_transcript": "i cut my hand i banged my head too he banged his head"
+  }
+]

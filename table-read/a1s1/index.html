@@ -1,0 +1,341 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Caravan A1S1 Table Read Review</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #161616;
+      --muted: #666;
+      --line: #d7d7d7;
+      --safe: #146c43;
+      --manual: #8a5a00;
+      --review: #a22622;
+      --bg: #f6f5f2;
+      --panel: #fff;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      letter-spacing: 0;
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      background: rgba(246, 245, 242, 0.96);
+      border-bottom: 1px solid var(--line);
+      padding: 14px 18px;
+      backdrop-filter: blur(10px);
+    }
+    h1 {
+      margin: 0 0 10px;
+      font-size: 20px;
+      line-height: 1.2;
+      font-weight: 700;
+    }
+    audio {
+      width: 100%;
+      max-width: 960px;
+      display: block;
+    }
+    main {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 18px;
+    }
+    .summary {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+      margin-bottom: 18px;
+    }
+    .metric {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 12px;
+    }
+    .metric b {
+      display: block;
+      font-size: 24px;
+      line-height: 1.1;
+    }
+    .metric span {
+      display: block;
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 4px;
+    }
+    .layout {
+      display: grid;
+      grid-template-columns: 270px 1fr;
+      gap: 16px;
+      align-items: start;
+    }
+    section {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    section h2 {
+      margin: 0;
+      padding: 12px;
+      font-size: 15px;
+      border-bottom: 1px solid var(--line);
+    }
+    .pages button,
+    .line button {
+      appearance: none;
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 7px;
+      padding: 7px 9px;
+      cursor: pointer;
+      font: inherit;
+    }
+    .pages {
+      padding: 10px;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px;
+    }
+    .pages button {
+      text-align: left;
+      min-height: 56px;
+    }
+    .pages b,
+    .pages span {
+      display: block;
+    }
+    .pages span {
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 3px;
+    }
+    .toolbar {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      padding: 10px 12px;
+      border-bottom: 1px solid var(--line);
+      background: #fbfbfa;
+    }
+    .toolbar button {
+      appearance: none;
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 7px;
+      padding: 8px 10px;
+      cursor: pointer;
+      font: inherit;
+      font-size: 13px;
+    }
+    .toolbar button.active {
+      border-color: #111;
+      background: #111;
+      color: #fff;
+    }
+    .lines {
+      display: grid;
+    }
+    .line {
+      display: grid;
+      grid-template-columns: 76px 132px 1fr;
+      gap: 10px;
+      padding: 11px 12px;
+      border-bottom: 1px solid var(--line);
+      align-items: start;
+    }
+    .line:last-child { border-bottom: 0; }
+    .ref {
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+      font-size: 13px;
+      padding-top: 8px;
+    }
+    .status {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 28px;
+      border-radius: 999px;
+      padding: 5px 8px;
+      font-size: 12px;
+      color: #fff;
+      text-align: center;
+    }
+    .rodney_gap_safe { background: var(--safe); }
+    .rodney_chunk_or_manual,
+    .too_short_for_clean_gap { background: var(--manual); }
+    .review_changed_or_uncertain,
+    .review_missing,
+    .rodney_review { background: var(--review); }
+    .copy {
+      min-width: 0;
+    }
+    .cue,
+    .near,
+    .next {
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.35;
+      margin-top: 5px;
+    }
+    .rodney {
+      font-size: 15px;
+      line-height: 1.35;
+      font-weight: 650;
+    }
+    .time {
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 4px;
+      font-variant-numeric: tabular-nums;
+    }
+    @media (max-width: 860px) {
+      .summary { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .layout { grid-template-columns: 1fr; }
+      .line { grid-template-columns: 1fr; }
+      .ref { padding-top: 0; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Caravan A1S1 Cast Table Read Review</h1>
+    <audio id="audio" controls preload="metadata" src="caravan_a1s1_cast_read_rodney_safe_lines_muted_v0.mp3"></audio>
+  </header>
+  <main>
+    <div class="summary" id="summary"></div>
+    <div class="layout">
+      <section>
+        <h2>Pages</h2>
+        <div class="pages" id="pages"></div>
+      </section>
+      <section>
+        <h2>Rodney Cue Cards</h2>
+        <div class="toolbar">
+          <button data-filter="all" class="active">All</button>
+          <button data-filter="rodney_gap_safe">Safe Muted</button>
+          <button data-filter="manual">Manual</button>
+          <button data-filter="review">Review</button>
+        </div>
+        <div class="lines" id="lines"></div>
+      </section>
+    </div>
+  </main>
+  <script src="a1s1_data.js"></script>
+  <script>
+    const audio = document.querySelector("#audio");
+    const summary = document.querySelector("#summary");
+    const pagesEl = document.querySelector("#pages");
+    const linesEl = document.querySelector("#lines");
+    let cards = [];
+    let currentFilter = "all";
+
+    function fmt(seconds) {
+      if (seconds === null || seconds === undefined || Number.isNaN(seconds)) return "--:--";
+      const m = Math.floor(seconds / 60).toString().padStart(2, "0");
+      const s = (seconds - Math.floor(seconds / 60) * 60).toFixed(1).padStart(4, "0");
+      return `${m}:${s}`;
+    }
+
+    function seek(seconds) {
+      if (seconds === null || seconds === undefined) return;
+      audio.currentTime = Math.max(0, seconds - 0.2);
+      audio.play();
+    }
+
+    function bucketGroup(status) {
+      if (status === "rodney_gap_safe") return "safe";
+      if (status.includes("review") || status === "review_missing" || status === "review_changed_or_uncertain") return "review";
+      return "manual";
+    }
+
+    function renderSummary() {
+      const counts = cards.reduce((acc, card) => {
+        const group = bucketGroup(card.status);
+        acc[group] = (acc[group] || 0) + 1;
+        return acc;
+      }, {});
+      summary.innerHTML = [
+        [`${cards.length}`, "Rodney lines"],
+        [`${counts.safe || 0}`, "safe-muted lines"],
+        [`${counts.manual || 0}`, "manual/chunk lines"],
+        [`${counts.review || 0}`, "review lines"]
+      ].map(([value, label]) => `<div class="metric"><b>${value}</b><span>${label}</span></div>`).join("");
+    }
+
+    function renderPages(pages) {
+      pagesEl.innerHTML = pages.map(page => `
+        <button type="button" data-seek="${page.start ?? ""}">
+          <b>Page ${page.page}</b>
+          <span>${fmt(page.start)}-${fmt(page.end)}</span>
+          <span>${page.rodney_lines} Rodney / ${page.review_count} review</span>
+        </button>
+      `).join("");
+      pagesEl.querySelectorAll("button").forEach(button => {
+        button.addEventListener("click", () => seek(Number(button.dataset.seek)));
+      });
+    }
+
+    function cardVisible(card) {
+      if (currentFilter === "all") return true;
+      if (currentFilter === "rodney_gap_safe") return card.status === "rodney_gap_safe";
+      if (currentFilter === "manual") return bucketGroup(card.status) === "manual";
+      if (currentFilter === "review") return bucketGroup(card.status) === "review";
+      return true;
+    }
+
+    function renderCards() {
+      linesEl.innerHTML = cards.filter(cardVisible).map(card => {
+        const cue = card.cue ? `${card.cue.speaker}: ${card.cue.text}` : "";
+        const next = card.next ? `${card.next.speaker}: ${card.next.text}` : "";
+        const near = card.near_transcript ? `ASR nearby: ${card.near_transcript}` : "";
+        return `
+          <div class="line">
+            <div>
+              <button type="button" data-seek="${card.audio_start ?? ""}">▶</button>
+              <div class="ref">${card.page}:${card.line}</div>
+            </div>
+            <div>
+              <span class="status ${card.status}">${card.status.replaceAll("_", " ")}</span>
+              <div class="time">${fmt(card.audio_start)}-${fmt(card.audio_end)}</div>
+            </div>
+            <div class="copy">
+              ${cue ? `<div class="cue">${cue}</div>` : ""}
+              <div class="rodney">RODNEY: ${card.rodney_text}</div>
+              ${next ? `<div class="next">Next: ${next}</div>` : ""}
+              ${near ? `<div class="near">${near}</div>` : ""}
+            </div>
+          </div>
+        `;
+      }).join("");
+      linesEl.querySelectorAll("button[data-seek]").forEach(button => {
+        button.addEventListener("click", () => seek(Number(button.dataset.seek)));
+      });
+    }
+
+    document.querySelectorAll(".toolbar button").forEach(button => {
+      button.addEventListener("click", () => {
+        document.querySelectorAll(".toolbar button").forEach(item => item.classList.remove("active"));
+        button.classList.add("active");
+        currentFilter = button.dataset.filter;
+        renderCards();
+      });
+    });
+
+    cards = window.RODNEY_CARDS || [];
+    renderSummary();
+    renderPages(window.PAGE_MAP || []);
+    renderCards();
+  </script>
+</body>
+</html>

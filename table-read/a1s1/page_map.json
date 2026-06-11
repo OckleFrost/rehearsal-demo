@@ -1,0 +1,446 @@
+[
+  {
+    "page": 4,
+    "start": 5.78,
+    "end": 36.24,
+    "line_count": 7,
+    "review_count": 1,
+    "rodney_lines": 0,
+    "bucket_counts": {
+      "cast_clean": 4,
+      "cast_usable": 2,
+      "review_missing": 1
+    }
+  },
+  {
+    "page": 5,
+    "start": 37.26,
+    "end": 128.32,
+    "line_count": 16,
+    "review_count": 0,
+    "rodney_lines": 0,
+    "bucket_counts": {
+      "cast_clean": 15,
+      "cast_usable": 1
+    }
+  },
+  {
+    "page": 6,
+    "start": 128.98,
+    "end": 227.18,
+    "line_count": 19,
+    "review_count": 0,
+    "rodney_lines": 0,
+    "bucket_counts": {
+      "cast_clean": 18,
+      "cast_usable": 1
+    }
+  },
+  {
+    "page": 7,
+    "start": 227.84,
+    "end": 273.06,
+    "line_count": 15,
+    "review_count": 2,
+    "rodney_lines": 2,
+    "bucket_counts": {
+      "cast_clean": 12,
+      "review_changed_or_uncertain": 2,
+      "rodney_gap_safe": 1
+    }
+  },
+  {
+    "page": 8,
+    "start": 273.46,
+    "end": 326.5,
+    "line_count": 19,
+    "review_count": 3,
+    "rodney_lines": 10,
+    "bucket_counts": {
+      "cast_clean": 7,
+      "cast_usable": 1,
+      "review_changed_or_uncertain": 1,
+      "review_missing": 1,
+      "rodney_chunk_or_manual": 2,
+      "rodney_gap_safe": 6,
+      "too_short_for_clean_gap": 1
+    }
+  },
+  {
+    "page": 9,
+    "start": 326.5,
+    "end": 398.56,
+    "line_count": 19,
+    "review_count": 1,
+    "rodney_lines": 9,
+    "bucket_counts": {
+      "cast_clean": 7,
+      "cast_usable": 3,
+      "review_missing": 1,
+      "rodney_chunk_or_manual": 5,
+      "rodney_gap_safe": 3
+    }
+  },
+  {
+    "page": 10,
+    "start": 400.46000000000004,
+    "end": 476.82,
+    "line_count": 25,
+    "review_count": 1,
+    "rodney_lines": 11,
+    "bucket_counts": {
+      "cast_clean": 12,
+      "cast_usable": 1,
+      "review_changed_or_uncertain": 1,
+      "rodney_chunk_or_manual": 3,
+      "rodney_gap_safe": 8
+    }
+  },
+  {
+    "page": 11,
+    "start": 477.28,
+    "end": 556.44,
+    "line_count": 23,
+    "review_count": 2,
+    "rodney_lines": 11,
+    "bucket_counts": {
+      "cast_clean": 9,
+      "cast_usable": 1,
+      "review_changed_or_uncertain": 1,
+      "rodney_chunk_or_manual": 1,
+      "rodney_gap_safe": 10,
+      "too_short_for_clean_gap": 1
+    }
+  },
+  {
+    "page": 12,
+    "start": 556.7,
+    "end": 606.24,
+    "line_count": 20,
+    "review_count": 7,
+    "rodney_lines": 5,
+    "bucket_counts": {
+      "cast_clean": 9,
+      "review_missing": 6,
+      "rodney_gap_safe": 4,
+      "too_short_for_clean_gap": 1
+    }
+  },
+  {
+    "page": 13,
+    "start": 606.54,
+    "end": 685.84,
+    "line_count": 19,
+    "review_count": 1,
+    "rodney_lines": 4,
+    "bucket_counts": {
+      "cast_clean": 12,
+      "cast_usable": 3,
+      "review_changed_or_uncertain": 1,
+      "rodney_gap_safe": 3
+    }
+  },
+  {
+    "page": 14,
+    "start": 686.24,
+    "end": 774.98,
+    "line_count": 18,
+    "review_count": 0,
+    "rodney_lines": 5,
+    "bucket_counts": {
+      "cast_clean": 12,
+      "cast_usable": 1,
+      "rodney_gap_safe": 5
+    }
+  },
+  {
+    "page": 15,
+    "start": 775.46,
+    "end": 852.86,
+    "line_count": 20,
+    "review_count": 2,
+    "rodney_lines": 5,
+    "bucket_counts": {
+      "cast_clean": 12,
+      "cast_usable": 2,
+      "review_missing": 1,
+      "rodney_chunk_or_manual": 2,
+      "rodney_gap_safe": 2,
+      "too_short_for_clean_gap": 1
+    }
+  },
+  {
+    "page": 16,
+    "start": 853.52,
+    "end": 922.96,
+    "line_count": 16,
+    "review_count": 0,
+    "rodney_lines": 4,
+    "bucket_counts": {
+      "cast_clean": 11,
+      "cast_usable": 1,
+      "rodney_gap_safe": 4
+    }
+  },
+  {
+    "page": 17,
+    "start": 923.36,
+    "end": 993.82,
+    "line_count": 17,
+    "review_count": 0,
+    "rodney_lines": 1,
+    "bucket_counts": {
+      "cast_clean": 9,
+      "cast_usable": 7,
+      "rodney_gap_safe": 1
+    }
+  },
+  {
+    "page": 18,
+    "start": 995.76,
+    "end": 1046.14,
+    "line_count": 18,
+    "review_count": 3,
+    "rodney_lines": 3,
+    "bucket_counts": {
+      "cast_clean": 11,
+      "cast_usable": 1,
+      "review_changed_or_uncertain": 2,
+      "review_missing": 1,
+      "rodney_chunk_or_manual": 1,
+      "rodney_gap_safe": 2
+    }
+  },
+  {
+    "page": 19,
+    "start": 1046.44,
+    "end": 1124.4,
+    "line_count": 20,
+    "review_count": 2,
+    "rodney_lines": 4,
+    "bucket_counts": {
+      "cast_clean": 12,
+      "cast_usable": 3,
+      "rodney_chunk_or_manual": 2,
+      "rodney_gap_safe": 1,
+      "too_short_for_clean_gap": 2
+    }
+  },
+  {
+    "page": 20,
+    "start": 1125.02,
+    "end": 1185.26,
+    "line_count": 18,
+    "review_count": 0,
+    "rodney_lines": 2,
+    "bucket_counts": {
+      "cast_clean": 15,
+      "cast_usable": 1,
+      "rodney_gap_safe": 2
+    }
+  },
+  {
+    "page": 21,
+    "start": 1185.88,
+    "end": 1232.06,
+    "line_count": 15,
+    "review_count": 2,
+    "rodney_lines": 0,
+    "bucket_counts": {
+      "cast_clean": 12,
+      "cast_usable": 1,
+      "review_changed_or_uncertain": 1,
+      "review_missing": 1
+    }
+  },
+  {
+    "page": 22,
+    "start": 1234.2,
+    "end": 1314.18,
+    "line_count": 18,
+    "review_count": 3,
+    "rodney_lines": 3,
+    "bucket_counts": {
+      "cast_clean": 12,
+      "cast_review": 1,
+      "cast_usable": 1,
+      "review_missing": 1,
+      "rodney_chunk_or_manual": 2,
+      "too_short_for_clean_gap": 1
+    }
+  },
+  {
+    "page": 23,
+    "start": 1315.68,
+    "end": 1373.07,
+    "line_count": 21,
+    "review_count": 2,
+    "rodney_lines": 6,
+    "bucket_counts": {
+      "cast_clean": 9,
+      "cast_usable": 6,
+      "review_changed_or_uncertain": 1,
+      "rodney_chunk_or_manual": 3,
+      "rodney_gap_safe": 1,
+      "rodney_review": 1
+    }
+  },
+  {
+    "page": 24,
+    "start": 1373.68,
+    "end": 1408.52,
+    "line_count": 19,
+    "review_count": 5,
+    "rodney_lines": 0,
+    "bucket_counts": {
+      "cast_clean": 13,
+      "cast_usable": 1,
+      "review_missing": 1,
+      "too_short_for_clean_gap": 4
+    }
+  },
+  {
+    "page": 25,
+    "start": 1408.88,
+    "end": 1471.18,
+    "line_count": 17,
+    "review_count": 4,
+    "rodney_lines": 1,
+    "bucket_counts": {
+      "cast_clean": 11,
+      "cast_usable": 2,
+      "review_missing": 2,
+      "too_short_for_clean_gap": 2
+    }
+  },
+  {
+    "page": 26,
+    "start": 1471.46,
+    "end": 1537.68,
+    "line_count": 22,
+    "review_count": 0,
+    "rodney_lines": 0,
+    "bucket_counts": {
+      "cast_clean": 16,
+      "cast_usable": 6
+    }
+  },
+  {
+    "page": 27,
+    "start": 1538.34,
+    "end": 1590.32,
+    "line_count": 20,
+    "review_count": 4,
+    "rodney_lines": 2,
+    "bucket_counts": {
+      "cast_clean": 12,
+      "cast_usable": 3,
+      "review_changed_or_uncertain": 1,
+      "review_missing": 1,
+      "rodney_chunk_or_manual": 1,
+      "too_short_for_clean_gap": 2
+    }
+  },
+  {
+    "page": 28,
+    "start": 1591.38,
+    "end": 1634.82,
+    "line_count": 21,
+    "review_count": 0,
+    "rodney_lines": 2,
+    "bucket_counts": {
+      "cast_clean": 11,
+      "cast_usable": 8,
+      "rodney_gap_safe": 2
+    }
+  },
+  {
+    "page": 29,
+    "start": 1635.22,
+    "end": 1703.12,
+    "line_count": 22,
+    "review_count": 2,
+    "rodney_lines": 0,
+    "bucket_counts": {
+      "cast_clean": 20,
+      "review_changed_or_uncertain": 2
+    }
+  },
+  {
+    "page": 30,
+    "start": 1703.56,
+    "end": 1791.98,
+    "line_count": 20,
+    "review_count": 0,
+    "rodney_lines": 0,
+    "bucket_counts": {
+      "cast_clean": 18,
+      "cast_usable": 2
+    }
+  },
+  {
+    "page": 31,
+    "start": 1792.9,
+    "end": 1874.42,
+    "line_count": 21,
+    "review_count": 2,
+    "rodney_lines": 0,
+    "bucket_counts": {
+      "cast_clean": 13,
+      "cast_usable": 6,
+      "review_missing": 1,
+      "too_short_for_clean_gap": 1
+    }
+  },
+  {
+    "page": 32,
+    "start": 1874.42,
+    "end": 1947.88,
+    "line_count": 20,
+    "review_count": 0,
+    "rodney_lines": 0,
+    "bucket_counts": {
+      "cast_clean": 17,
+      "cast_usable": 3
+    }
+  },
+  {
+    "page": 33,
+    "start": 1948.6,
+    "end": 1998.42,
+    "line_count": 18,
+    "review_count": 0,
+    "rodney_lines": 3,
+    "bucket_counts": {
+      "cast_clean": 13,
+      "cast_usable": 2,
+      "rodney_chunk_or_manual": 1,
+      "rodney_gap_safe": 2
+    }
+  },
+  {
+    "page": 34,
+    "start": 1999.82,
+    "end": 2048.42,
+    "line_count": 22,
+    "review_count": 4,
+    "rodney_lines": 4,
+    "bucket_counts": {
+      "cast_clean": 11,
+      "cast_usable": 4,
+      "review_changed_or_uncertain": 4,
+      "rodney_gap_safe": 3
+    }
+  },
+  {
+    "page": 35,
+    "start": 2048.84,
+    "end": 2058.38,
+    "line_count": 2,
+    "review_count": 0,
+    "rodney_lines": 0,
+    "bucket_counts": {
+      "cast_clean": 2
+    }
+  }
+]
